@@ -1,0 +1,10 @@
+# Illustration style guide — draft
+No illustrations generated in this milestone. Future artwork must be original; do not copy competitor art, copyrighted characters or imitate a named living artist.
+
+Use clean black line art on white, consistent contour weight and spacious enclosed colouring areas for ages 6–9. Proposed print-size contour target 1–1.5 pt with secondary lines no thinner than 0.5 pt; validate in an actual print proof before freezing. Avoid grey shading, cross-hatching, dense foliage, tiny enclosed cells and decorative black fills that obscure colourable anatomy. One bird is the focal subject; backgrounds have only a few simple contextual shapes. Naturalistic anatomy with approachable presentation, not anthropomorphic costumes. Keep feet, tail and bill inside the safe area.
+
+Each plate needs an approved reference brief naming species, representative plumage, sex/season/form if applicable, pose, visible field marks and reference URLs. Black-and-white art cannot communicate colour-only field marks unaided; verified activity reference keys must explain any colour choices. Do not invent plumage boundaries merely to form colouring regions. Use distinct poses/scenes without distorting anatomy.
+
+QA at intended page size: count visible structures, inspect feet/wing joints, eyes and beak, feather pattern, body proportions and field marks. An expert or reliable reference must resolve ambiguous details. Reject extra limbs, merged branches, impossible grips, broken lines, cropped tails, text artifacts and duplicated plates. Log every revision. Human review cannot be replaced by prompt wording or DPI metadata.
+
+Later raster acceptance target: effective >=300 pixels/inch at placed size, validated from actual pixel dimensions and page placement; vector line art preferred where practical. Do not upscale and call it new detail. Full 8.5 × 11-inch area at 300 ppi is 2550 × 3300 pixels; actual art box excludes margins. Licensing, provenance and AI-content classification must be logged per asset.

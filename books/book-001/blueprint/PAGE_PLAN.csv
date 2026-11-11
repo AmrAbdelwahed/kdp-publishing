@@ -1,0 +1,65 @@
+page,page_type,species_id,title,content_brief,status
+1,front_matter,,Title and ownership-free welcome,Set expectation: 30 paired lessons,draft
+2,front_matter,,How to use; regional caveat; quiet observation safety,Adult-guided introduction; printed on both sides,draft
+3,colouring,B01,Northern Cardinal,Side view on a low branch; unobstructed crest and bill,draft_unverified
+4,activity,B01,Northern Cardinal,Find and circle three outline details; match to a verified identification key; optional quiet observation with adult or reference picture,draft_unverified
+5,colouring,B02,Blue Jay,Standing on a branch beside two leaves; clear head silhouette,draft_unverified
+6,activity,B02,Blue Jay,Compare two drawn silhouettes and mark differences; optional quiet observation with adult or reference picture,draft_unverified
+7,colouring,B03,American Robin,Ground-level standing pose beside a simple lawn border,draft_unverified
+8,activity,B03,American Robin,"Make a picture observation record: place, time, movement; optional quiet observation with adult or reference picture",draft_unverified
+9,colouring,B04,Black-capped Chickadee,Perched sideways with one unobstructed foot,draft_unverified
+10,activity,B04,Black-capped Chickadee,"Label head, wing, tail and foot using a word bank; optional quiet observation with adult or reference picture",draft_unverified
+11,colouring,B05,Carolina Chickadee,Calm branch pose with a clean eye and bill outline,draft_unverified
+12,activity,B05,Carolina Chickadee,Practice saying unsure when two species look similar; compare verified reference cards; optional quiet observation with adult or reference picture,draft_unverified
+13,colouring,B06,Tufted Titmouse,Side profile on a bare twig; open crest outline,draft_unverified
+14,activity,B06,Tufted Titmouse,Trace a route from picture clue to identification choice; optional quiet observation with adult or reference picture,draft_unverified
+15,colouring,B07,White-breasted Nuthatch,Trunk pose with visible feet and bill,draft_unverified
+16,activity,B07,White-breasted Nuthatch,Draw arrows describing the illustrated body direction; no behavior claim without checking; optional quiet observation with adult or reference picture,draft_unverified
+17,colouring,B08,Red-breasted Nuthatch,Side view on a separate trunk segment,draft_unverified
+18,activity,B08,Red-breasted Nuthatch,Use a verified key to locate two head details; optional quiet observation with adult or reference picture,draft_unverified
+19,colouring,B09,Downy Woodpecker,Side view gripping a trunk; head and bill clear,draft_unverified
+20,activity,B09,Downy Woodpecker,Compare bill outlines on a checked reference pair; optional quiet observation with adult or reference picture,draft_unverified
+21,colouring,B10,Hairy Woodpecker,Side view on a wide trunk; accurate proportions required,draft_unverified
+22,activity,B10,Hairy Woodpecker,Sort observation clues into helpful and insufficient; optional quiet observation with adult or reference picture,draft_unverified
+23,colouring,B11,Red-bellied Woodpecker,"Uncluttered trunk perch, unobstructed head and abdomen",draft_unverified
+24,activity,B11,Red-bellied Woodpecker,Match body-region labels to blank leader lines; optional quiet observation with adult or reference picture,draft_unverified
+25,colouring,B12,Northern Flicker,Standing on level ground in three-quarter profile,draft_unverified
+26,activity,B12,Northern Flicker,"Build a field-note sentence from place, shape and action prompts; optional quiet observation with adult or reference picture",draft_unverified
+27,colouring,B13,Mourning Dove,Resting on a broad branch; full tail visible,draft_unverified
+28,activity,B13,Mourning Dove,Compare body and tail silhouettes with a verified key; optional quiet observation with adult or reference picture,draft_unverified
+29,colouring,B14,Rock Pigeon,Standing on a flat ledge with separated toes,draft_unverified
+30,activity,B14,Rock Pigeon,Record variation between two reference birds without assuming all look alike; optional quiet observation with adult or reference picture,draft_unverified
+31,colouring,B15,American Goldfinch,Perched on a broad seedhead stem without tiny clutter,draft_unverified
+32,activity,B15,American Goldfinch,Compare verified seasonal reference cards; mark what changes; optional quiet observation with adult or reference picture,draft_unverified
+33,colouring,B16,House Finch,Perched on a low branch; eye and bill unobstructed,draft_unverified
+34,activity,B16,House Finch,Complete an observation checklist with a not-seen option; optional quiet observation with adult or reference picture,draft_unverified
+35,colouring,B17,Purple Finch,Side profile on a simple twig; generous breast area,draft_unverified
+36,activity,B17,Purple Finch,Separate certain clues from uncertain clues on a comparison card; optional quiet observation with adult or reference picture,draft_unverified
+37,colouring,B18,House Sparrow,Standing beside a simple fence post,draft_unverified
+38,activity,B18,House Sparrow,Match a checked reference to the correct outline; include uncertain choice; optional quiet observation with adult or reference picture,draft_unverified
+39,colouring,B19,Song Sparrow,Side view on an open branch; chest unobstructed,draft_unverified
+40,activity,B19,Song Sparrow,Find a marked body region using a verified identification key; optional quiet observation with adult or reference picture,draft_unverified
+41,colouring,B20,White-throated Sparrow,Standing near a simple leaf border; face unobstructed,draft_unverified
+42,activity,B20,White-throated Sparrow,Follow a two-step checked head-pattern key; optional quiet observation with adult or reference picture,draft_unverified
+43,colouring,B21,White-crowned Sparrow,Side view with clean crown and eye outline,draft_unverified
+44,activity,B21,White-crowned Sparrow,Complete a compare-and-check head diagram; optional quiet observation with adult or reference picture,draft_unverified
+45,colouring,B22,Dark-eyed Junco,Ground-level side pose with entire tail shown,draft_unverified
+46,activity,B22,Dark-eyed Junco,Compare verified regional forms; write may look different here; optional quiet observation with adult or reference picture,draft_unverified
+47,colouring,B23,Chipping Sparrow,Side view on a thin branch; uncluttered head,draft_unverified
+48,activity,B23,Chipping Sparrow,Choose the best view for checking a field mark; optional quiet observation with adult or reference picture,draft_unverified
+49,colouring,B24,Carolina Wren,Perch on a low fence rail; full tail clear,draft_unverified
+50,activity,B24,Carolina Wren,Match checked picture details to the correct body region; optional quiet observation with adult or reference picture,draft_unverified
+51,colouring,B25,House Wren,Side view on a twig beside a plain shrub outline,draft_unverified
+52,activity,B25,House Wren,Draw a bird observation symbol and record seen or not seen; optional quiet observation with adult or reference picture,draft_unverified
+53,colouring,B26,European Starling,Standing on level ground; full wing silhouette,draft_unverified
+54,activity,B26,European Starling,Compare checked seasonal appearance examples; optional quiet observation with adult or reference picture,draft_unverified
+55,colouring,B27,Common Grackle,Side view on a broad branch with full tail in frame,draft_unverified
+56,activity,B27,Common Grackle,Use a checked silhouette comparison to justify a tentative identification; optional quiet observation with adult or reference picture,draft_unverified
+57,colouring,B28,Red-winged Blackbird,"Perched with visible shoulder area, no display pose required",draft_unverified
+58,activity,B28,Red-winged Blackbird,Locate the shoulder on a checked diagram; compare reference appearances; optional quiet observation with adult or reference picture,draft_unverified
+59,colouring,B29,Northern Mockingbird,Side view on a fence rail with wing outline clear,draft_unverified
+60,activity,B29,Northern Mockingbird,Make a quiet observation plan using sight and optional sound notes; optional quiet observation with adult or reference picture,draft_unverified
+61,colouring,B30,Eastern Bluebird,Branch pose with open breast and wing areas,draft_unverified
+62,activity,B30,Eastern Bluebird,Complete a colour–identify–observe recap with an unsure option; optional quiet observation with adult or reference picture,draft_unverified
+63,back_matter,,Observation log,Date; broad setting; sketch; seen/not seen/unsure; no address collection,draft
+64,back_matter,,Source notes and answer-key guidance,Verified reference links; compact checked keys; credits and edition date,draft_space_check_required

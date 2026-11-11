@@ -10,3 +10,6 @@
 7. Provenance limits: individual web retrieval times missing; source research date is 2026-11-10. Aggregator ratings in workbook row 17 lack an exact supporting rating-source URL. Rating counts are not textual-review counts. All normalized unknowns stay blank.
 
 Public access remains blocked: initial searches/reference probes and fresh supplied-product/KDP-link requests received proxy tunnel 403 errors. See access_attempts.csv. Source import is complete; external evidence and factual/policy verification still prevent full Milestone 0 completion. No illustration, generator or publishing phase is authorized.
+
+## Milestone 1A — 2026-11-11
+Manual capture workflow is ready; verification remains incomplete (0 US / 0 CA independently verified bird listings). Fresh public probes remained proxy-denied. Use [capture guide](marketplace/CAPTURE_GUIDE.md) and research/marketplace/capture_template.csv for 10 US and 5 CA paperbacks; all prior source data is preserved. The append-only importer validates captures, archives supporting files and flags duplicates/conflicts without promoting them to verified evidence. See research/marketplace/RECOMMENDATION.md: CONDITIONAL GO unchanged, scores unchanged. Missing current Amazon prices/ranks/ratings, edition metadata, age/feature evidence, customer feedback and official KDP costs still block a stronger recommendation.

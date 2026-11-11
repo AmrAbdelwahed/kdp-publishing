@@ -1,4 +1,4 @@
-# KDP Publishing — Milestone 0
+# KDP Publishing — research and editorial planning
 Original, AI-assisted children's colouring/activity books. First candidate: **Backyard Bird Detectives: Color, Spot & Explore**, ages 6–9. US and Canadian paperback markets; low-cost print-on-demand pilot November 10–December 9, 2026.
 
 ## Status
@@ -26,3 +26,6 @@ To regenerate imported research, run `python scripts/import_week1.py`; this impo
 
 ## Next steps
 Source import is complete. Collect at least 10 closely comparable US and 5 relevant Canadian listings with evidence. Verify species facts and official KDP requirements. Then approve or revise the blueprint before illustration or generator work. Budget remains unspent by this task.
+
+## Milestone 1A — 2026-11-11
+Manual capture workflow is ready; verification remains incomplete (0 US / 0 CA independently verified bird listings). Fresh public probes remained proxy-denied. Use [capture guide](research/marketplace/CAPTURE_GUIDE.md) and research/marketplace/capture_template.csv for 10 US and 5 CA paperbacks; all prior source data is preserved. The append-only importer validates captures, archives supporting files and flags duplicates/conflicts without promoting them to verified evidence. See research/marketplace/RECOMMENDATION.md: CONDITIONAL GO unchanged, scores unchanged. Missing current Amazon prices/ranks/ratings, edition metadata, age/feature evidence, customer feedback and official KDP costs still block a stronger recommendation.

@@ -1,4 +1,4 @@
-niche,reported_score_out_of_100,evidence_class,provenance,calculation_status,limitations
-North American backyard birds,73.2,analyst_judgment,User Milestone 0 brief,blocked_missing_workbook,Weights and inputs unavailable; not sales probability
-Canadian woodland wildlife,63.3,analyst_judgment,User Milestone 0 brief,blocked_missing_workbook,Weights and inputs unavailable; not sales probability
-English–Arabic construction vehicles,59.5,analyst_judgment,User Milestone 0 brief,blocked_missing_workbook,Weights and inputs unavailable; not sales probability
+niche,reported_score_out_of_100,recomputed_score_out_of_100,weighted_out_of_5,evidence_class,source_artifact,source_location,calculation_status,limitations,demand_rating,differentiation_rating,competition_ease_rating,economics_rating,kdp_fit_rating,demand_weight,differentiation_weight,competition_ease_weight,economics_weight,kdp_fit_weight
+Backyard birds,73.2,73.2,3.66,analyst_judgment,research/raw/week1_scorecard.xlsx,Niche Scorecard!A2:H2; weights B6:F6,matches_source_inputs_and_cache,Arithmetic verified; qualitative judgments are not validated sales probabilities,3.2,4,3,4,5,0.3,0.25,0.2,0.15,0.1
+Woodland wildlife,63.3,63.3,3.165,analyst_judgment,research/raw/week1_scorecard.xlsx,Niche Scorecard!A3:H3; weights B6:F6,matches_source_inputs_and_cache,Arithmetic verified; qualitative judgments are not validated sales probabilities,3.6,2.5,1.8,4,5,0.3,0.25,0.2,0.15,0.1
+English–Arabic vehicles,59.5,59.5,2.975,analyst_judgment,research/raw/week1_scorecard.xlsx,Niche Scorecard!A4:H4; weights B6:F6,matches_source_inputs_and_cache,Arithmetic verified; qualitative judgments are not validated sales probabilities,2,4.5,3.5,3,1,0.3,0.25,0.2,0.15,0.1

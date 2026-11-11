@@ -1,5 +1,7 @@
 """Validate Milestone 0 structure; does not validate facts or market demand."""
 import csv
+import hashlib
+import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -38,13 +40,24 @@ def validate():
     assert {r['species_id'] for r in facts} == ids
     scores = rows(ROOT / 'research/niche_scorecard.csv')
     assert [r['reported_score_out_of_100'] for r in scores] == ['73.2', '63.3', '59.5']
-    assert rows(ROOT / 'research/competitors.csv') == []
+    competitors = rows(ROOT / 'research/competitors.csv')
+    assert len(competitors) == 20
+    assert len({r['work_id'] for r in competitors}) == 18
+    assert len({r['record_id'] for r in competitors}) == 20
+    assert all(not r['bsr'] and not r['retrieved_at_utc'] for r in competitors)
+    assert all(r['verification_status'] == 'imported_not_live_verified' for r in competitors)
+    assert all(r['source_location'] and r['source_url'] for r in competitors)
+    assert len(rows(ROOT / 'research/royalty_scenarios.csv')) == 6
+    manifest = json.loads((ROOT / 'research/import_manifest.json').read_text())
+    for name, expected in manifest['sha256'].items():
+        assert hashlib.sha256((ROOT / 'research/raw' / name).read_bytes()).hexdigest() == expected
     slots = rows(ROOT / 'research/manual_collection.csv')
     assert len(slots) == 15 and all(not r['asin'] for r in slots)
     for path in ROOT.rglob('*.csv'):
         rows(path)
     print('PASS: 64 pages, 30 art/activity pairs, 150 pending checks, CSV structure.')
-    print('NOT VALIDATED: missing workbook/Markdown, scores, marketplace facts, bird facts, KDP rules.')
+    print('PASS: source hashes; 18 works / 20 imported observations; six royalty scenarios.')
+    print('NOT VALIDATED: live marketplace facts, qualitative ratings, bird facts, current KDP rules.')
 
 
 if __name__ == '__main__':

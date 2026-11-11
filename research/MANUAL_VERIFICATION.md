@@ -1,5 +1,16 @@
 # Manual verification checklist
-Access was blocked; no product ASINs or direct product URLs are known. Do not invent them. The original workbook may supply direct links once provided. These are discovery links, **not product evidence**:
+The originals now supply direct product links, but fresh probes remain blocked. These links are **source-reported candidates, not verified product observations**:
+
+| Work | Supplied product link | Comparability limitation |
+|---|---|---|
+| Birds at Home | https://www.amazon.com/dp/1497205972 | Adult-focused |
+| Backyard Bird Adventure Activity Book | https://a.co/d/0gZ9LkzD | Source shortlink; resolve legitimately and verify edition/ASIN |
+| Backyard Birds Large Print | https://www.amazon.com/dp/B0HNHPZ8KF | Adult/senior adjacency |
+| Birds Coloring Book for Kids | https://www.amazon.com/dp/0648714314 | Verify age/edition and current metadata |
+
+Other bird works have publisher/reseller links only in competitors.csv; discover and confirm their actual product URLs rather than deriving ASINs from ISBN13. No direct Canadian bird product link was supplied. The known https://www.amazon.ca/dp/B0H7K3H6BM is woodland, not a bird comparable.
+
+Discovery only:
 - US: https://www.amazon.com/s?k=backyard+birds+coloring+book+kids
 - CA: https://www.amazon.ca/s?k=backyard+birds+colouring+book+kids
 
@@ -11,4 +22,4 @@ Access was blocked; no product ASINs or direct product URLs are known. Do not in
 6. Verify current official KDP rates, costs, AI disclosure and print requirements using official help. Record URL, retrieval time and exact applicable conditions.
 7. Reassess recommendation only after documenting observations, uncertainties and sensitivity to price/cost. Owner reviews before creative production.
 
-The requested direct-product-link checklist remains blocked until original links or actual listings are accessible. The collection sheet contains 15 empty slots, not 15 discovered books.
+The collection sheet retains 15 empty slots for the required qualifying cohort; imported source works are not automatically accepted into it. More close US and relevant Canadian bird listings must be discovered.

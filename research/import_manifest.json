@@ -1,0 +1,11 @@
+{
+  "imported_at_utc": "2026-11-11T05:30:53.077424+00:00",
+  "research_date_reported": "2026-11-10",
+  "sha256": {
+    "week1_scorecard.xlsx": "4c9a7d5ee8c4da5e1a47d19b8946fce53462957541ca0c6181b20ef6fec181f0",
+    "week1_niche_validation.md": "5ecbed35c25471c532549ad349a7a9b670d195497738b6c44fc14371436a30ba"
+  },
+  "uploaded_workbook_name": "week1_scorecard_1_.xlsx",
+  "stored_workbook_name": "week1_scorecard.xlsx",
+  "retrieval_timestamp_note": "Source research date only; individual web retrieval times absent"
+}

@@ -14,3 +14,8 @@ Amazon US/CA searches, KDP help and a Cornell reference probe received proxy tun
 
 ## Approval gates outstanding
 Approve/revise the provisional concept and species scope after evidence review; approve the final blueprint before illustration and production coding; approve any future expense; approve final files, AI disclosure, prices and release separately. No approval is inferred from a timeline or this commit.
+
+## 2026-11-10 — M0-005: source import resolves missing-file gate
+Received both uploads. Preserve original bytes and SHA-256 hashes; workbook filename normalized only. All three sheets read. Formula and cache arithmetic matches 73.2/63.3/59.5 and all six royalty scenarios. Import 18 works into 20 market/currency observations without promoting publisher prices, aggregator ratings or source judgments to live Amazon facts. See research/IMPORT_AUDIT.md. Earlier missing-file entries remain historical, not current blockers.
+
+Retain CONDITIONAL GO for planning only. Source confirms existing bird facts, puzzles and checklists; differentiation depends on execution. Source research date is not individual retrieval time. Fresh actual-link requests remained proxy-denied. Current pricing/policy, close US/CA cohorts, customer-feedback and species-fact gates remain open. No creative or production phase begins from receipt of source files alone.

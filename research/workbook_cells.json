@@ -1,0 +1,1528 @@
+{
+  "Niche Scorecard": {
+    "A1": {
+      "raw": "Niche",
+      "cached": "Niche"
+    },
+    "B1": {
+      "raw": "Demand\n30%",
+      "cached": "Demand\n30%"
+    },
+    "C1": {
+      "raw": "Differentiation\n25%",
+      "cached": "Differentiation\n25%"
+    },
+    "D1": {
+      "raw": "Competition ease\n20%",
+      "cached": "Competition ease\n20%"
+    },
+    "E1": {
+      "raw": "Economics\n15%",
+      "cached": "Economics\n15%"
+    },
+    "F1": {
+      "raw": "KDP fit\n10%",
+      "cached": "KDP fit\n10%"
+    },
+    "G1": {
+      "raw": "Weighted / 5",
+      "cached": "Weighted / 5"
+    },
+    "H1": {
+      "raw": "Index / 100",
+      "cached": "Index / 100"
+    },
+    "A2": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B2": {
+      "raw": 3.2,
+      "cached": 3.2
+    },
+    "C2": {
+      "raw": 4,
+      "cached": 4
+    },
+    "D2": {
+      "raw": 3,
+      "cached": 3
+    },
+    "E2": {
+      "raw": 4,
+      "cached": 4
+    },
+    "F2": {
+      "raw": 5,
+      "cached": 5
+    },
+    "G2": {
+      "raw": "=B2*B$6+C2*C$6+D2*D$6+E2*E$6+F2*F$6",
+      "cached": 3.66
+    },
+    "H2": {
+      "raw": "=G2/5*100",
+      "cached": 73.2
+    },
+    "A3": {
+      "raw": "Woodland wildlife",
+      "cached": "Woodland wildlife"
+    },
+    "B3": {
+      "raw": 3.6,
+      "cached": 3.6
+    },
+    "C3": {
+      "raw": 2.5,
+      "cached": 2.5
+    },
+    "D3": {
+      "raw": 1.8,
+      "cached": 1.8
+    },
+    "E3": {
+      "raw": 4,
+      "cached": 4
+    },
+    "F3": {
+      "raw": 5,
+      "cached": 5
+    },
+    "G3": {
+      "raw": "=B3*B$6+C3*C$6+D3*D$6+E3*E$6+F3*F$6",
+      "cached": 3.165
+    },
+    "H3": {
+      "raw": "=G3/5*100",
+      "cached": 63.3
+    },
+    "A4": {
+      "raw": "English–Arabic vehicles",
+      "cached": "English–Arabic vehicles"
+    },
+    "B4": {
+      "raw": 2,
+      "cached": 2
+    },
+    "C4": {
+      "raw": 4.5,
+      "cached": 4.5
+    },
+    "D4": {
+      "raw": 3.5,
+      "cached": 3.5
+    },
+    "E4": {
+      "raw": 3,
+      "cached": 3
+    },
+    "F4": {
+      "raw": 1,
+      "cached": 1
+    },
+    "G4": {
+      "raw": "=B4*B$6+C4*C$6+D4*D$6+E4*E$6+F4*F$6",
+      "cached": 2.975
+    },
+    "H4": {
+      "raw": "=G4/5*100",
+      "cached": 59.5
+    },
+    "A6": {
+      "raw": "Weights",
+      "cached": "Weights"
+    },
+    "B6": {
+      "raw": 0.3,
+      "cached": 0.3
+    },
+    "C6": {
+      "raw": 0.25,
+      "cached": 0.25
+    },
+    "D6": {
+      "raw": 0.2,
+      "cached": 0.2
+    },
+    "E6": {
+      "raw": 0.15,
+      "cached": 0.15
+    },
+    "F6": {
+      "raw": 0.1,
+      "cached": 0.1
+    },
+    "A8": {
+      "raw": "Scores 1–5 are qualitative analyst judgments, not verified Amazon sales metrics.",
+      "cached": "Scores 1–5 are qualitative analyst judgments, not verified Amazon sales metrics."
+    },
+    "A9": {
+      "raw": "Hard gate: Arabic is listed by KDP as eBook-only; confirm bilingual paperback eligibility before investing.",
+      "cached": "Hard gate: Arabic is listed by KDP as eBook-only; confirm bilingual paperback eligibility before investing."
+    },
+    "A10": {
+      "raw": "Interpretation: competition ease = higher score means less direct competition.",
+      "cached": "Interpretation: competition ease = higher score means less direct competition."
+    },
+    "A12": {
+      "raw": "Decision",
+      "cached": "Decision"
+    },
+    "B12": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "C12": {
+      "raw": "Status",
+      "cached": "Status"
+    },
+    "D12": {
+      "raw": "Conditional GO",
+      "cached": "Conditional GO"
+    },
+    "A13": {
+      "raw": "Next step",
+      "cached": "Next step"
+    },
+    "B13": {
+      "raw": "Design differentiated 30-bird concept",
+      "cached": "Design differentiated 30-bird concept"
+    },
+    "C13": {
+      "raw": "Review",
+      "cached": "Review"
+    },
+    "D13": {
+      "raw": "Recheck current Amazon BSR/reviews/prices manually",
+      "cached": "Recheck current Amazon BSR/reviews/prices manually"
+    }
+  },
+  "18 Competitors": {
+    "A1": {
+      "raw": "Niche",
+      "cached": "Niche"
+    },
+    "B1": {
+      "raw": "Title",
+      "cached": "Title"
+    },
+    "C1": {
+      "raw": "Relevance",
+      "cached": "Relevance"
+    },
+    "D1": {
+      "raw": "Market",
+      "cached": "Market"
+    },
+    "E1": {
+      "raw": "ASIN / ISBN10",
+      "cached": "ASIN / ISBN10"
+    },
+    "F1": {
+      "raw": "US price ($)",
+      "cached": "US price ($)"
+    },
+    "G1": {
+      "raw": "CA price ($)",
+      "cached": "CA price ($)"
+    },
+    "H1": {
+      "raw": "Price provenance",
+      "cached": "Price provenance"
+    },
+    "I1": {
+      "raw": "Pages",
+      "cached": "Pages"
+    },
+    "J1": {
+      "raw": "Publication",
+      "cached": "Publication"
+    },
+    "K1": {
+      "raw": "Stars",
+      "cached": "Stars"
+    },
+    "L1": {
+      "raw": "Rating count",
+      "cached": "Rating count"
+    },
+    "M1": {
+      "raw": "BSR",
+      "cached": "BSR"
+    },
+    "N1": {
+      "raw": "Amazon / listing link",
+      "cached": "Amazon / listing link"
+    },
+    "O1": {
+      "raw": "Evidence source",
+      "cached": "Evidence source"
+    },
+    "P1": {
+      "raw": "Secondary source",
+      "cached": "Secondary source"
+    },
+    "Q1": {
+      "raw": "Positioning",
+      "cached": "Positioning"
+    },
+    "R1": {
+      "raw": "Limitations",
+      "cached": "Limitations"
+    },
+    "A2": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B2": {
+      "raw": "Birds at Home Coloring Book (Revised Edition)",
+      "cached": "Birds at Home Coloring Book (Revised Edition)"
+    },
+    "C2": {
+      "raw": "Close: North American birds, adult",
+      "cached": "Close: North American birds, adult"
+    },
+    "D2": {
+      "raw": "US / Canada (retailers)",
+      "cached": "US / Canada (retailers)"
+    },
+    "E2": {
+      "raw": "1497205972",
+      "cached": "1497205972"
+    },
+    "F2": {
+      "raw": 9.99,
+      "cached": 9.99
+    },
+    "G2": {
+      "raw": 11.99,
+      "cached": 11.99
+    },
+    "H2": {
+      "raw": "Publisher USD / independent Canadian retailer CAD; NOT Amazon prices",
+      "cached": "Publisher USD / independent Canadian retailer CAD; NOT Amazon prices"
+    },
+    "I2": {
+      "raw": 88,
+      "cached": 88
+    },
+    "J2": {
+      "raw": "2022-04-05",
+      "cached": "2022-04-05"
+    },
+    "M2": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N2": {
+      "raw": "https://www.amazon.com/dp/1497205972",
+      "cached": "https://www.amazon.com/dp/1497205972"
+    },
+    "O2": {
+      "raw": "https://foxchapelpublishing.com/products/birds-at-home-coloring-book-revised-edition",
+      "cached": "https://foxchapelpublishing.com/products/birds-at-home-coloring-book-revised-edition"
+    },
+    "P2": {
+      "raw": "https://www.urbannaturestore.ca/products/birds-at-home-coloring-book-revised-edition",
+      "cached": "https://www.urbannaturestore.ca/products/birds-at-home-coloring-book-revised-edition"
+    },
+    "Q2": {
+      "raw": "36 detailed North American species, color references, facts; designed for adults",
+      "cached": "36 detailed North American species, color references, facts; designed for adults"
+    },
+    "R2": {
+      "raw": "Publisher and Canadian specialist retailer",
+      "cached": "Publisher and Canadian specialist retailer"
+    },
+    "A3": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B3": {
+      "raw": "Backyard Bird Adventure Activity Book",
+      "cached": "Backyard Bird Adventure Activity Book"
+    },
+    "C3": {
+      "raw": "Direct: kids, bird activities",
+      "cached": "Direct: kids, bird activities"
+    },
+    "D3": {
+      "raw": "US publisher",
+      "cached": "US publisher"
+    },
+    "E3": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "F3": {
+      "raw": 12.99,
+      "cached": 12.99
+    },
+    "H3": {
+      "raw": "Publisher-advertised Amazon paperback price, not live Amazon verified",
+      "cached": "Publisher-advertised Amazon paperback price, not live Amazon verified"
+    },
+    "I3": {
+      "raw": 109,
+      "cached": 109
+    },
+    "M3": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N3": {
+      "raw": "https://a.co/d/0gZ9LkzD",
+      "cached": "https://a.co/d/0gZ9LkzD"
+    },
+    "O3": {
+      "raw": "https://www.deedeethechickadee.com/",
+      "cached": "https://www.deedeethechickadee.com/"
+    },
+    "Q3": {
+      "raw": "Ages 4–8; 18 coloring pages plus bird facts, word searches, maze, crossword, checklist",
+      "cached": "Ages 4–8; 18 coloring pages plus bird facts, word searches, maze, crossword, checklist"
+    },
+    "R3": {
+      "raw": "Publisher site and Amazon outbound shortlink",
+      "cached": "Publisher site and Amazon outbound shortlink"
+    },
+    "A4": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B4": {
+      "raw": "Backyard Birds Of North America Coloring Book: 48 Birds To Color",
+      "cached": "Backyard Birds Of North America Coloring Book: 48 Birds To Color"
+    },
+    "C4": {
+      "raw": "Close: birds, broad ages",
+      "cached": "Close: birds, broad ages"
+    },
+    "D4": {
+      "raw": "US reseller",
+      "cached": "US reseller"
+    },
+    "E4": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "F4": {
+      "raw": 6.99,
+      "cached": 6.99
+    },
+    "H4": {
+      "raw": "Third-party reseller, NOT verified Amazon",
+      "cached": "Third-party reseller, NOT verified Amazon"
+    },
+    "I4": {
+      "raw": 102,
+      "cached": 102
+    },
+    "J4": {
+      "raw": "2024-10-09",
+      "cached": "2024-10-09"
+    },
+    "M4": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "O4": {
+      "raw": "https://woodartsupply.com/products/backyard-birds-of-north-america-coloring-book-48-birds-to-color-fun-and-relaxing-for-kids-and-adults-bird-name-and-color-reference-included",
+      "cached": "https://woodartsupply.com/products/backyard-birds-of-north-america-coloring-book-48-birds-to-color-fun-and-relaxing-for-kids-and-adults-bird-name-and-color-reference-included"
+    },
+    "Q4": {
+      "raw": "48 bird illustrations, name/color reference guide, single-sided; 8.5 x 8.5",
+      "cached": "48 bird illustrations, name/color reference guide, single-sided; 8.5 x 8.5"
+    },
+    "R4": {
+      "raw": "Reseller bibliographic information; ISBN-13 9798338823248",
+      "cached": "Reseller bibliographic information; ISBN-13 9798338823248"
+    },
+    "A5": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B5": {
+      "raw": "Backyard Birds Large Print Coloring Book",
+      "cached": "Backyard Birds Large Print Coloring Book"
+    },
+    "C5": {
+      "raw": "Adjacent: adults and seniors",
+      "cached": "Adjacent: adults and seniors"
+    },
+    "D5": {
+      "raw": "US publisher",
+      "cached": "US publisher"
+    },
+    "E5": {
+      "raw": "B0HNHPZ8KF",
+      "cached": "B0HNHPZ8KF"
+    },
+    "F5": {
+      "raw": 6.99,
+      "cached": 6.99
+    },
+    "H5": {
+      "raw": "Publisher-advertised Amazon price; not live Amazon verified",
+      "cached": "Publisher-advertised Amazon price; not live Amazon verified"
+    },
+    "I5": {
+      "raw": 56,
+      "cached": 56
+    },
+    "M5": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N5": {
+      "raw": "https://www.amazon.com/dp/B0HNHPZ8KF",
+      "cached": "https://www.amazon.com/dp/B0HNHPZ8KF"
+    },
+    "O5": {
+      "raw": "https://snugcolor.com/books/backyard-birds/",
+      "cached": "https://snugcolor.com/books/backyard-birds/"
+    },
+    "Q5": {
+      "raw": "24 bold/easy bird designs, seasonal scenes, 8.5 x 11, AI-assisted",
+      "cached": "24 bold/easy bird designs, seasonal scenes, 8.5 x 11, AI-assisted"
+    },
+    "R5": {
+      "raw": "Publisher site, outbound Amazon listing",
+      "cached": "Publisher site, outbound Amazon listing"
+    },
+    "A6": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B6": {
+      "raw": "All About Birds Sticker Activity Book",
+      "cached": "All About Birds Sticker Activity Book"
+    },
+    "C6": {
+      "raw": "Direct: bird-learning activities, non-coloring focus",
+      "cached": "Direct: bird-learning activities, non-coloring focus"
+    },
+    "D6": {
+      "raw": "US publisher",
+      "cached": "US publisher"
+    },
+    "E6": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "F6": {
+      "raw": 8.99,
+      "cached": 8.99
+    },
+    "H6": {
+      "raw": "Publisher US list price",
+      "cached": "Publisher US list price"
+    },
+    "I6": {
+      "raw": 40,
+      "cached": 40
+    },
+    "J6": {
+      "raw": "2023-02-28",
+      "cached": "2023-02-28"
+    },
+    "M6": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "O6": {
+      "raw": "https://www.penguinrandomhouse.com/books/715948/all-about-birds-sticker-activity-book-by-tiger-tales-illustrated-by-kelsey-collings/9781664340527/",
+      "cached": "https://www.penguinrandomhouse.com/books/715948/all-about-birds-sticker-activity-book-by-tiger-tales-illustrated-by-kelsey-collings/9781664340527/"
+    },
+    "Q6": {
+      "raw": "North American birds; mazes, drawing, word searches, 100 stickers",
+      "cached": "North American birds; mazes, drawing, word searches, 100 stickers"
+    },
+    "R6": {
+      "raw": "Publisher; ISBN-13 9781664340527",
+      "cached": "Publisher; ISBN-13 9781664340527"
+    },
+    "A7": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B7": {
+      "raw": "Birds Coloring Book for Kids",
+      "cached": "Birds Coloring Book for Kids"
+    },
+    "C7": {
+      "raw": "Direct: kids, bird coloring and facts",
+      "cached": "Direct: kids, bird coloring and facts"
+    },
+    "D7": {
+      "raw": "US retailer",
+      "cached": "US retailer"
+    },
+    "E7": {
+      "raw": "0648714314",
+      "cached": "0648714314"
+    },
+    "F7": {
+      "raw": 7.99,
+      "cached": 7.99
+    },
+    "H7": {
+      "raw": "Barnes & Noble US, NOT Amazon",
+      "cached": "Barnes & Noble US, NOT Amazon"
+    },
+    "I7": {
+      "raw": 48,
+      "cached": 48
+    },
+    "J7": {
+      "raw": "2019-10-27",
+      "cached": "2019-10-27"
+    },
+    "M7": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N7": {
+      "raw": "https://www.amazon.com/dp/0648714314",
+      "cached": "https://www.amazon.com/dp/0648714314"
+    },
+    "O7": {
+      "raw": "https://www.barnesandnoble.com/w/birds-coloring-book-for-kids-j-cawley/1134536406",
+      "cached": "https://www.barnesandnoble.com/w/birds-coloring-book-for-kids-j-cawley/1134536406"
+    },
+    "P7": {
+      "raw": "https://www.worldofbooks.com/de-ch/products/birds-coloring-book-for-kids-buch-j-cawley-9780648714316",
+      "cached": "https://www.worldofbooks.com/de-ch/products/birds-coloring-book-for-kids-buch-j-cawley-9780648714316"
+    },
+    "Q7": {
+      "raw": "Ages preschool–8, fun facts on left, illustrations on right",
+      "cached": "Ages preschool–8, fun facts on left, illustrations on right"
+    },
+    "R7": {
+      "raw": "Retailer & bibliographic bookseller",
+      "cached": "Retailer & bibliographic bookseller"
+    },
+    "A8": {
+      "raw": "Backyard birds",
+      "cached": "Backyard birds"
+    },
+    "B8": {
+      "raw": "I Love Birds Activity Book",
+      "cached": "I Love Birds Activity Book"
+    },
+    "C8": {
+      "raw": "Direct: birds, age 6–10 activities",
+      "cached": "Direct: birds, age 6–10 activities"
+    },
+    "D8": {
+      "raw": "US / CA publisher",
+      "cached": "US / CA publisher"
+    },
+    "E8": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "F8": {
+      "raw": 12.99,
+      "cached": 12.99
+    },
+    "G8": {
+      "raw": 16.99,
+      "cached": 16.99
+    },
+    "H8": {
+      "raw": "Publisher list prices, NOT Amazon",
+      "cached": "Publisher list prices, NOT Amazon"
+    },
+    "I8": {
+      "raw": 100,
+      "cached": 100
+    },
+    "J8": {
+      "raw": "2025-04-15",
+      "cached": "2025-04-15"
+    },
+    "M8": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "O8": {
+      "raw": "https://www.rpmystic.com/titles/the-environmental-educators-of-mass-audubon/i-love-birds-activity-book/9781635867817/",
+      "cached": "https://www.rpmystic.com/titles/the-environmental-educators-of-mass-audubon/i-love-birds-activity-book/9781635867817/"
+    },
+    "P8": {
+      "raw": "https://pageaday.com/products/i-love-birds-activity-book",
+      "cached": "https://pageaday.com/products/i-love-birds-activity-book"
+    },
+    "Q8": {
+      "raw": "65 puzzles, mazes, projects and stickers, established environmental educator brand",
+      "cached": "65 puzzles, mazes, projects and stickers, established environmental educator brand"
+    },
+    "R8": {
+      "raw": "Publisher, ISBN-13 9781635867817",
+      "cached": "Publisher, ISBN-13 9781635867817"
+    },
+    "A9": {
+      "raw": "English–Arabic construction vehicles",
+      "cached": "English–Arabic construction vehicles"
+    },
+    "B9": {
+      "raw": "Baby's First Construction Vehicles (English + Arabic)",
+      "cached": "Baby's First Construction Vehicles (English + Arabic)"
+    },
+    "C9": {
+      "raw": "Direct bilingual subject; PICTURE book, not coloring",
+      "cached": "Direct bilingual subject; PICTURE book, not coloring"
+    },
+    "D9": {
+      "raw": "US publisher",
+      "cached": "US publisher"
+    },
+    "E9": {
+      "raw": "B0H8J3DSHS",
+      "cached": "B0H8J3DSHS"
+    },
+    "H9": {
+      "raw": "Unavailable; Amazon checkout not independently accessible",
+      "cached": "Unavailable; Amazon checkout not independently accessible"
+    },
+    "M9": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N9": {
+      "raw": "https://www.amazon.com/dp/B0H8J3DSHS",
+      "cached": "https://www.amazon.com/dp/B0H8J3DSHS"
+    },
+    "O9": {
+      "raw": "https://www.floriandluna.com/books/arabic",
+      "cached": "https://www.floriandluna.com/books/arabic"
+    },
+    "Q9": {
+      "raw": "English/Arabic 32 first-word pictures, ages 0–3",
+      "cached": "English/Arabic 32 first-word pictures, ages 0–3"
+    },
+    "R9": {
+      "raw": "Publisher and Amazon link",
+      "cached": "Publisher and Amazon link"
+    },
+    "A10": {
+      "raw": "English–Arabic construction vehicles",
+      "cached": "English–Arabic construction vehicles"
+    },
+    "B10": {
+      "raw": "My Big Arabic Coloring Book for Kids",
+      "cached": "My Big Arabic Coloring Book for Kids"
+    },
+    "C10": {
+      "raw": "Adjacent bilingual coloring; multiple subjects, not vehicle-specific",
+      "cached": "Adjacent bilingual coloring; multiple subjects, not vehicle-specific"
+    },
+    "D10": {
+      "raw": "Canada retailer",
+      "cached": "Canada retailer"
+    },
+    "E10": {
+      "raw": "1998277755",
+      "cached": "1998277755"
+    },
+    "G10": {
+      "raw": 16.99,
+      "cached": 16.99
+    },
+    "H10": {
+      "raw": "Indigo Canadian retail price, NOT Amazon",
+      "cached": "Indigo Canadian retail price, NOT Amazon"
+    },
+    "I10": {
+      "raw": 172,
+      "cached": 172
+    },
+    "J10": {
+      "raw": "2024-11-12",
+      "cached": "2024-11-12"
+    },
+    "M10": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N10": {
+      "raw": "https://www.amazon.com/dp/1998277755",
+      "cached": "https://www.amazon.com/dp/1998277755"
+    },
+    "O10": {
+      "raw": "https://www.indigo.ca/products/my-big-arabic-coloring-book-for-kids",
+      "cached": "https://www.indigo.ca/products/my-big-arabic-coloring-book-for-kids"
+    },
+    "P10": {
+      "raw": "https://www.booktopia.com.au/my-big-arabic-coloring-book-for-kids-upfly-books/book/9781998277759.html",
+      "cached": "https://www.booktopia.com.au/my-big-arabic-coloring-book-for-kids-upfly-books/book/9781998277759.html"
+    },
+    "Q10": {
+      "raw": "150+ Arabic/English words and colouring doodles for ages 2–6",
+      "cached": "150+ Arabic/English words and colouring doodles for ages 2–6"
+    },
+    "R10": {
+      "raw": "Indigo and bibliographic bookstore",
+      "cached": "Indigo and bibliographic bookstore"
+    },
+    "A11": {
+      "raw": "English–Arabic construction vehicles",
+      "cached": "English–Arabic construction vehicles"
+    },
+    "B11": {
+      "raw": "Baby's First Construction Vehicles Coloring Book (English + Albanian)",
+      "cached": "Baby's First Construction Vehicles Coloring Book (English + Albanian)"
+    },
+    "C11": {
+      "raw": "Adjacent bilingual coloring; NOT Arabic",
+      "cached": "Adjacent bilingual coloring; NOT Arabic"
+    },
+    "D11": {
+      "raw": "US publisher",
+      "cached": "US publisher"
+    },
+    "E11": {
+      "raw": "B0HFC2XQL9",
+      "cached": "B0HFC2XQL9"
+    },
+    "H11": {
+      "raw": "Unavailable",
+      "cached": "Unavailable"
+    },
+    "I11": {
+      "raw": 108,
+      "cached": 108
+    },
+    "M11": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N11": {
+      "raw": "https://www.amazon.com/dp/B0HFC2XQL9",
+      "cached": "https://www.amazon.com/dp/B0HFC2XQL9"
+    },
+    "O11": {
+      "raw": "https://www.floriandluna.com/books/title/coloring-construction-vehicles",
+      "cached": "https://www.floriandluna.com/books/title/coloring-construction-vehicles"
+    },
+    "Q11": {
+      "raw": "24 large coloring images, 18 matching/find activities, English/Albanian",
+      "cached": "24 large coloring images, 18 matching/find activities, English/Albanian"
+    },
+    "R11": {
+      "raw": "Publisher",
+      "cached": "Publisher"
+    },
+    "A12": {
+      "raw": "English–Arabic construction vehicles",
+      "cached": "English–Arabic construction vehicles"
+    },
+    "B12": {
+      "raw": "Construction Coloring Book for Kids",
+      "cached": "Construction Coloring Book for Kids"
+    },
+    "C12": {
+      "raw": "Adjacent construction coloring; English only",
+      "cached": "Adjacent construction coloring; English only"
+    },
+    "D12": {
+      "raw": "US publisher",
+      "cached": "US publisher"
+    },
+    "E12": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "F12": {
+      "raw": 8.99,
+      "cached": 8.99
+    },
+    "H12": {
+      "raw": "Penguin Random House US price, NOT Amazon",
+      "cached": "Penguin Random House US price, NOT Amazon"
+    },
+    "I12": {
+      "raw": 112,
+      "cached": 112
+    },
+    "J12": {
+      "raw": "2025-11-11",
+      "cached": "2025-11-11"
+    },
+    "M12": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "O12": {
+      "raw": "https://www.penguinrandomhouse.com/books/817740/construction-coloring-book-for-kids-by-illustrated-by-liv-wan/",
+      "cached": "https://www.penguinrandomhouse.com/books/817740/construction-coloring-book-for-kids-by-illustrated-by-liv-wan/"
+    },
+    "Q12": {
+      "raw": "52 truck illustrations, ABC, fun facts, ages 2–6",
+      "cached": "52 truck illustrations, ABC, fun facts, ages 2–6"
+    },
+    "R12": {
+      "raw": "Publisher; ISBN-13 9798217150861",
+      "cached": "Publisher; ISBN-13 9798217150861"
+    },
+    "A13": {
+      "raw": "English–Arabic construction vehicles",
+      "cached": "English–Arabic construction vehicles"
+    },
+    "B13": {
+      "raw": "Lawn li al-Shahinat (Color Me: Trucks), Arabic",
+      "cached": "Lawn li al-Shahinat (Color Me: Trucks), Arabic"
+    },
+    "C13": {
+      "raw": "Adjacent Arabic activity; BOARD BOOK, not KDP paperback",
+      "cached": "Adjacent Arabic activity; BOARD BOOK, not KDP paperback"
+    },
+    "D13": {
+      "raw": "US specialist retailer",
+      "cached": "US specialist retailer"
+    },
+    "E13": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "F13": {
+      "raw": 10.95,
+      "cached": 10.95
+    },
+    "H13": {
+      "raw": "Jarir Books US, NOT Amazon",
+      "cached": "Jarir Books US, NOT Amazon"
+    },
+    "I13": {
+      "raw": 12,
+      "cached": 12
+    },
+    "J13": {
+      "raw": "2021",
+      "cached": "2021"
+    },
+    "M13": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "O13": {
+      "raw": "https://jarirbooksusa.com/products/lawn-li-al-shahinat",
+      "cached": "https://jarirbooksusa.com/products/lawn-li-al-shahinat"
+    },
+    "Q13": {
+      "raw": "Water-reveal painting with Arabic text, ages 3–6",
+      "cached": "Water-reveal painting with Arabic text, ages 3–6"
+    },
+    "R13": {
+      "raw": "Specialist Arabic bookseller",
+      "cached": "Specialist Arabic bookseller"
+    },
+    "A14": {
+      "raw": "Woodland wildlife",
+      "cached": "Woodland wildlife"
+    },
+    "B14": {
+      "raw": "Woodland Wonders: Coloring Book for Adults and Kids, Bold and Easy",
+      "cached": "Woodland Wonders: Coloring Book for Adults and Kids, Bold and Easy"
+    },
+    "C14": {
+      "raw": "Close woodland bold/easy; mixed ages",
+      "cached": "Close woodland bold/easy; mixed ages"
+    },
+    "D14": {
+      "raw": "US Amazon aggregator",
+      "cached": "US Amazon aggregator"
+    },
+    "E14": {
+      "raw": "B0D9S4DDPG",
+      "cached": "B0D9S4DDPG"
+    },
+    "F14": {
+      "raw": 9.99,
+      "cached": 9.99
+    },
+    "H14": {
+      "raw": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified",
+      "cached": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified"
+    },
+    "K14": {
+      "raw": 4.8,
+      "cached": 4.8
+    },
+    "L14": {
+      "raw": 98,
+      "cached": 98
+    },
+    "M14": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N14": {
+      "raw": "https://www.amazon.com/dp/B0D9S4DDPG",
+      "cached": "https://www.amazon.com/dp/B0D9S4DDPG"
+    },
+    "O14": {
+      "raw": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book",
+      "cached": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book"
+    },
+    "Q14": {
+      "raw": "Simple woodland animals and scenes; adults and kids",
+      "cached": "Simple woodland animals and scenes; adults and kids"
+    },
+    "R14": {
+      "raw": "Third-party Amazon search snapshot",
+      "cached": "Third-party Amazon search snapshot"
+    },
+    "A15": {
+      "raw": "Woodland wildlife",
+      "cached": "Woodland wildlife"
+    },
+    "B15": {
+      "raw": "Woodland Creatures and Wildlife Scenes",
+      "cached": "Woodland Creatures and Wildlife Scenes"
+    },
+    "C15": {
+      "raw": "Close woodland; adults and children",
+      "cached": "Close woodland; adults and children"
+    },
+    "D15": {
+      "raw": "US Amazon aggregator",
+      "cached": "US Amazon aggregator"
+    },
+    "E15": {
+      "raw": "B0DBG5N37X",
+      "cached": "B0DBG5N37X"
+    },
+    "F15": {
+      "raw": 9.99,
+      "cached": 9.99
+    },
+    "H15": {
+      "raw": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified",
+      "cached": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified"
+    },
+    "I15": {
+      "raw": 106,
+      "cached": 106
+    },
+    "J15": {
+      "raw": "2024-07-26",
+      "cached": "2024-07-26"
+    },
+    "K15": {
+      "raw": 4.6,
+      "cached": 4.6
+    },
+    "L15": {
+      "raw": 130,
+      "cached": 130
+    },
+    "M15": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N15": {
+      "raw": "https://www.amazon.com/dp/B0DBG5N37X",
+      "cached": "https://www.amazon.com/dp/B0DBG5N37X"
+    },
+    "O15": {
+      "raw": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book",
+      "cached": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book"
+    },
+    "P15": {
+      "raw": "https://shop.tiktok.com/us/pdp/woodland-creatures-coloring-book-by-vibrant-volume-creations-50-pages-of-deers-foxes-rabbits-and-mor/1731002597358997718",
+      "cached": "https://shop.tiktok.com/us/pdp/woodland-creatures-coloring-book-by-vibrant-volume-creations-50-pages-of-deers-foxes-rabbits-and-mor/1731002597358997718"
+    },
+    "Q15": {
+      "raw": "50 scene illustrations, adult relaxing nature emphasis",
+      "cached": "50 scene illustrations, adult relaxing nature emphasis"
+    },
+    "R15": {
+      "raw": "Amazon third-party snapshot; secondary product specs",
+      "cached": "Amazon third-party snapshot; secondary product specs"
+    },
+    "A16": {
+      "raw": "Woodland wildlife",
+      "cached": "Woodland wildlife"
+    },
+    "B16": {
+      "raw": "In The Forest Bold and Easy Coloring Book",
+      "cached": "In The Forest Bold and Easy Coloring Book"
+    },
+    "C16": {
+      "raw": "Close woodland bold/easy; mixed ages",
+      "cached": "Close woodland bold/easy; mixed ages"
+    },
+    "D16": {
+      "raw": "US Amazon aggregator",
+      "cached": "US Amazon aggregator"
+    },
+    "E16": {
+      "raw": "B0D66DYK32",
+      "cached": "B0D66DYK32"
+    },
+    "F16": {
+      "raw": 9.99,
+      "cached": 9.99
+    },
+    "H16": {
+      "raw": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified",
+      "cached": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified"
+    },
+    "I16": {
+      "raw": 84,
+      "cached": 84
+    },
+    "J16": {
+      "raw": "2024-06-04",
+      "cached": "2024-06-04"
+    },
+    "K16": {
+      "raw": 4.8,
+      "cached": 4.8
+    },
+    "L16": {
+      "raw": 29,
+      "cached": 29
+    },
+    "M16": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N16": {
+      "raw": "https://www.amazon.com/dp/B0D66DYK32",
+      "cached": "https://www.amazon.com/dp/B0D66DYK32"
+    },
+    "O16": {
+      "raw": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book",
+      "cached": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book"
+    },
+    "P16": {
+      "raw": "https://shop.tiktok.com/us/pdp/in-the-forest-coloring-book-by-olivia-wynter-easy-animal-designs/1729577875031429334",
+      "cached": "https://shop.tiktok.com/us/pdp/in-the-forest-coloring-book-by-olivia-wynter-easy-animal-designs/1729577875031429334"
+    },
+    "Q16": {
+      "raw": "Simple woodland scenes, thick lines, 8.5 x 8.5",
+      "cached": "Simple woodland scenes, thick lines, 8.5 x 8.5"
+    },
+    "R16": {
+      "raw": "Amazon third-party snapshot; secondary product specs",
+      "cached": "Amazon third-party snapshot; secondary product specs"
+    },
+    "A17": {
+      "raw": "Woodland wildlife",
+      "cached": "Woodland wildlife"
+    },
+    "B17": {
+      "raw": "Creative Haven Forest & Woodland Wildlife Coloring Book",
+      "cached": "Creative Haven Forest & Woodland Wildlife Coloring Book"
+    },
+    "C17": {
+      "raw": "Adjacent woodland, detailed adult art",
+      "cached": "Adjacent woodland, detailed adult art"
+    },
+    "D17": {
+      "raw": "US publisher",
+      "cached": "US publisher"
+    },
+    "E17": {
+      "raw": "0486851095",
+      "cached": "0486851095"
+    },
+    "F17": {
+      "raw": 7.99,
+      "cached": 7.99
+    },
+    "H17": {
+      "raw": "Dover US publisher retail price, NOT Amazon",
+      "cached": "Dover US publisher retail price, NOT Amazon"
+    },
+    "I17": {
+      "raw": 64,
+      "cached": 64
+    },
+    "J17": {
+      "raw": "2024-01-17",
+      "cached": "2024-01-17"
+    },
+    "K17": {
+      "raw": 4.6,
+      "cached": 4.6
+    },
+    "L17": {
+      "raw": 44,
+      "cached": 44
+    },
+    "M17": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N17": {
+      "raw": "https://www.amazon.com/dp/0486851095",
+      "cached": "https://www.amazon.com/dp/0486851095"
+    },
+    "O17": {
+      "raw": "https://store.doverpublications.com/products/9780486851099",
+      "cached": "https://store.doverpublications.com/products/9780486851099"
+    },
+    "P17": {
+      "raw": "https://www.bookshop.org/p/books/creative-haven-forest-woodland-wildlife-coloring-book-marty-noble/92e2a7c9e4da14be",
+      "cached": "https://www.bookshop.org/p/books/creative-haven-forest-woodland-wildlife-coloring-book-marty-noble/92e2a7c9e4da14be"
+    },
+    "Q17": {
+      "raw": "31 detailed wildlife scenes, one-sided and perforated, age adult",
+      "cached": "31 detailed wildlife scenes, one-sided and perforated, age adult"
+    },
+    "R17": {
+      "raw": "Publisher details + aggregator ratings",
+      "cached": "Publisher details + aggregator ratings"
+    },
+    "A18": {
+      "raw": "Woodland wildlife",
+      "cached": "Woodland wildlife"
+    },
+    "B18": {
+      "raw": "Woodland Animals Colouring Book: Fun & Easy Colouring Pages for Ages 4+",
+      "cached": "Woodland Animals Colouring Book: Fun & Easy Colouring Pages for Ages 4+"
+    },
+    "C18": {
+      "raw": "Close woodland kids, Canada",
+      "cached": "Close woodland kids, Canada"
+    },
+    "D18": {
+      "raw": "CA Amazon aggregator",
+      "cached": "CA Amazon aggregator"
+    },
+    "E18": {
+      "raw": "B0H7K3H6BM",
+      "cached": "B0H7K3H6BM"
+    },
+    "G18": {
+      "raw": 13.99,
+      "cached": 13.99
+    },
+    "H18": {
+      "raw": "MerchantWords Amazon-indexed Canadian snapshot; not live Amazon verified",
+      "cached": "MerchantWords Amazon-indexed Canadian snapshot; not live Amazon verified"
+    },
+    "K18": {
+      "raw": 5,
+      "cached": 5
+    },
+    "L18": {
+      "raw": 2,
+      "cached": 2
+    },
+    "M18": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N18": {
+      "raw": "https://www.amazon.ca/dp/B0H7K3H6BM",
+      "cached": "https://www.amazon.ca/dp/B0H7K3H6BM"
+    },
+    "O18": {
+      "raw": "https://www.merchantwords.com/asin/ca/B0H7K3H6BM",
+      "cached": "https://www.merchantwords.com/asin/ca/B0H7K3H6BM"
+    },
+    "Q18": {
+      "raw": "Fun and easy for kids age 4+",
+      "cached": "Fun and easy for kids age 4+"
+    },
+    "R18": {
+      "raw": "Amazon Canada third-party index; very small rating sample",
+      "cached": "Amazon Canada third-party index; very small rating sample"
+    },
+    "A19": {
+      "raw": "Woodland wildlife",
+      "cached": "Woodland wildlife"
+    },
+    "B19": {
+      "raw": "Forest Friends Adventures Coloring Book for Kids",
+      "cached": "Forest Friends Adventures Coloring Book for Kids"
+    },
+    "C19": {
+      "raw": "Close woodland kids",
+      "cached": "Close woodland kids"
+    },
+    "D19": {
+      "raw": "US Amazon aggregator",
+      "cached": "US Amazon aggregator"
+    },
+    "E19": {
+      "raw": "B0G5KLGTP4",
+      "cached": "B0G5KLGTP4"
+    },
+    "F19": {
+      "raw": 11.99,
+      "cached": 11.99
+    },
+    "H19": {
+      "raw": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified",
+      "cached": "MerchantWords Amazon-indexed US snapshot; not live Amazon verified"
+    },
+    "K19": {
+      "raw": 5,
+      "cached": 5
+    },
+    "L19": {
+      "raw": 5,
+      "cached": 5
+    },
+    "M19": {
+      "raw": "Unverified",
+      "cached": "Unverified"
+    },
+    "N19": {
+      "raw": "https://www.amazon.com/dp/B0G5KLGTP4",
+      "cached": "https://www.amazon.com/dp/B0G5KLGTP4"
+    },
+    "O19": {
+      "raw": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book",
+      "cached": "https://www.merchantwords.com/page1products/us/woodland%20animals%20coloring%20book"
+    },
+    "Q19": {
+      "raw": "50 cute woodland animal pages; ages kids",
+      "cached": "50 cute woodland animal pages; ages kids"
+    },
+    "R19": {
+      "raw": "Amazon third-party index; small rating sample",
+      "cached": "Amazon third-party index; small rating sample"
+    }
+  },
+  "Royalty Scenarios": {
+    "A1": {
+      "raw": "Market",
+      "cached": "Market"
+    },
+    "B1": {
+      "raw": "List price",
+      "cached": "List price"
+    },
+    "C1": {
+      "raw": "Royalty rate",
+      "cached": "Royalty rate"
+    },
+    "D1": {
+      "raw": "Print cost",
+      "cached": "Print cost"
+    },
+    "E1": {
+      "raw": "Royalty / book",
+      "cached": "Royalty / book"
+    },
+    "F1": {
+      "raw": "Break-even 20 USD/CAD spend",
+      "cached": "Break-even 20 USD/CAD spend"
+    },
+    "G1": {
+      "raw": "Break-even 50 spend",
+      "cached": "Break-even 50 spend"
+    },
+    "H1": {
+      "raw": "Evidence",
+      "cached": "Evidence"
+    },
+    "A2": {
+      "raw": "US",
+      "cached": "US"
+    },
+    "B2": {
+      "raw": 8.99,
+      "cached": 8.99
+    },
+    "C2": {
+      "raw": 0.5,
+      "cached": 0.5
+    },
+    "D2": {
+      "raw": 2.84,
+      "cached": 2.84
+    },
+    "E2": {
+      "raw": "=B2*C2-D2",
+      "cached": 1.6550000000000002
+    },
+    "F2": {
+      "raw": "=ROUNDUP(20/E2,0)",
+      "cached": 13
+    },
+    "G2": {
+      "raw": "=ROUNDUP(50/E2,0)",
+      "cached": 31
+    },
+    "H2": {
+      "raw": "https://kdp.amazon.com/en_US/help/topic/G201834340",
+      "cached": "https://kdp.amazon.com/en_US/help/topic/G201834340"
+    },
+    "A3": {
+      "raw": "US",
+      "cached": "US"
+    },
+    "B3": {
+      "raw": 9.99,
+      "cached": 9.99
+    },
+    "C3": {
+      "raw": 0.6,
+      "cached": 0.6
+    },
+    "D3": {
+      "raw": 2.84,
+      "cached": 2.84
+    },
+    "E3": {
+      "raw": "=B3*C3-D3",
+      "cached": 3.154
+    },
+    "F3": {
+      "raw": "=ROUNDUP(20/E3,0)",
+      "cached": 7
+    },
+    "G3": {
+      "raw": "=ROUNDUP(50/E3,0)",
+      "cached": 16
+    },
+    "H3": {
+      "raw": "https://kdp.amazon.com/en_US/help/topic/G201834340",
+      "cached": "https://kdp.amazon.com/en_US/help/topic/G201834340"
+    },
+    "A4": {
+      "raw": "US",
+      "cached": "US"
+    },
+    "B4": {
+      "raw": 11.99,
+      "cached": 11.99
+    },
+    "C4": {
+      "raw": 0.6,
+      "cached": 0.6
+    },
+    "D4": {
+      "raw": 2.84,
+      "cached": 2.84
+    },
+    "E4": {
+      "raw": "=B4*C4-D4",
+      "cached": 4.354
+    },
+    "F4": {
+      "raw": "=ROUNDUP(20/E4,0)",
+      "cached": 5
+    },
+    "G4": {
+      "raw": "=ROUNDUP(50/E4,0)",
+      "cached": 12
+    },
+    "H4": {
+      "raw": "https://kdp.amazon.com/en_US/help/topic/G201834340",
+      "cached": "https://kdp.amazon.com/en_US/help/topic/G201834340"
+    },
+    "A5": {
+      "raw": "Canada",
+      "cached": "Canada"
+    },
+    "B5": {
+      "raw": 12.99,
+      "cached": 12.99
+    },
+    "C5": {
+      "raw": 0.5,
+      "cached": 0.5
+    },
+    "D5": {
+      "raw": 3.53,
+      "cached": 3.53
+    },
+    "E5": {
+      "raw": "=B5*C5-D5",
+      "cached": 2.9650000000000003
+    },
+    "F5": {
+      "raw": "=ROUNDUP(20/E5,0)",
+      "cached": 7
+    },
+    "G5": {
+      "raw": "=ROUNDUP(50/E5,0)",
+      "cached": 17
+    },
+    "H5": {
+      "raw": "https://kdp.amazon.com/en_US/help/topic/G201834340",
+      "cached": "https://kdp.amazon.com/en_US/help/topic/G201834340"
+    },
+    "A6": {
+      "raw": "Canada",
+      "cached": "Canada"
+    },
+    "B6": {
+      "raw": 13.99,
+      "cached": 13.99
+    },
+    "C6": {
+      "raw": 0.6,
+      "cached": 0.6
+    },
+    "D6": {
+      "raw": 3.53,
+      "cached": 3.53
+    },
+    "E6": {
+      "raw": "=B6*C6-D6",
+      "cached": 4.864000000000001
+    },
+    "F6": {
+      "raw": "=ROUNDUP(20/E6,0)",
+      "cached": 5
+    },
+    "G6": {
+      "raw": "=ROUNDUP(50/E6,0)",
+      "cached": 11
+    },
+    "H6": {
+      "raw": "https://kdp.amazon.com/en_US/help/topic/G201834340",
+      "cached": "https://kdp.amazon.com/en_US/help/topic/G201834340"
+    },
+    "A7": {
+      "raw": "Canada",
+      "cached": "Canada"
+    },
+    "B7": {
+      "raw": 15.99,
+      "cached": 15.99
+    },
+    "C7": {
+      "raw": 0.6,
+      "cached": 0.6
+    },
+    "D7": {
+      "raw": 3.53,
+      "cached": 3.53
+    },
+    "E7": {
+      "raw": "=B7*C7-D7",
+      "cached": 6.064
+    },
+    "F7": {
+      "raw": "=ROUNDUP(20/E7,0)",
+      "cached": 4
+    },
+    "G7": {
+      "raw": "=ROUNDUP(50/E7,0)",
+      "cached": 9
+    },
+    "H7": {
+      "raw": "https://kdp.amazon.com/en_US/help/topic/G201834340",
+      "cached": "https://kdp.amazon.com/en_US/help/topic/G201834340"
+    },
+    "A9": {
+      "raw": "Royalties exclude Amazon Ads, taxes, returns, proof copies, design time, exchange rates and other expenses.",
+      "cached": "Royalties exclude Amazon Ads, taxes, returns, proof copies, design time, exchange rates and other expenses."
+    },
+    "A10": {
+      "raw": "Printing schedule and rates are authoritative only when reconfirmed at launch with official KDP calculator.",
+      "cached": "Printing schedule and rates are authoritative only when reconfirmed at launch with official KDP calculator."
+    }
+  }
+}

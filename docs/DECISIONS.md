@@ -66,3 +66,7 @@ User provisionally kept B06 v2, B12 and B14–B18 for visual direction only, ret
 ## 2026-11-15 — Milestone 6: collection and editorial review
 
 User kept B19/B20/B21/B23/B24 visually and requested one B22 edit. Six final species and one junco revision were generated; the junco markings remain unresolved. All 30 have candidates, not final approvals. Cornell ID pages returned 200 for 29 species; B08 returned 403. A 150-row verification crosswalk and 30 draft activities were created; the original fact log remains pending. Scientific, artwork, print, economic and release gates remain open. See `books/book-001/artwork/batch-05/`.
+
+## 2026-11-15 — Milestone 7 interior review
+
+User accepted all 30 as working visual candidates only and authorized an interior review. The selected B22 v2 remains uncorrected because a reliable localized path edit could not be established; its activity avoids asserting invisible markings. B26 is provisionally interpreted as adult nonbreeding winter plumage, supported by Cornell's seasonal description, subject to artwork review. The 64-page draft includes revised activities; source-specific, scientific, human and physical-print gates remain open. See `books/book-001/interior-review/INTERIOR_QC.md`.

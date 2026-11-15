@@ -1,0 +1,212 @@
+[
+  {
+    "species_id": "B01",
+    "url": "https://www.allaboutbirds.org/guide/Northern_Cardinal/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.275714+00:00",
+    "http_status": 200,
+    "scientific_name": "Cardinalis cardinalis"
+  },
+  {
+    "species_id": "B02",
+    "url": "https://www.allaboutbirds.org/guide/Blue_Jay/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.276256+00:00",
+    "http_status": 200,
+    "scientific_name": "Cyanocitta cristata"
+  },
+  {
+    "species_id": "B03",
+    "url": "https://www.allaboutbirds.org/guide/American_Robin/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.276766+00:00",
+    "http_status": 200,
+    "scientific_name": "Turdus migratorius"
+  },
+  {
+    "species_id": "B04",
+    "url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.277251+00:00",
+    "http_status": 200,
+    "scientific_name": "Poecile atricapillus"
+  },
+  {
+    "species_id": "B05",
+    "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.277868+00:00",
+    "http_status": 200,
+    "scientific_name": "Poecile carolinensis"
+  },
+  {
+    "species_id": "B06",
+    "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.283353+00:00",
+    "http_status": 200,
+    "scientific_name": "Baeolophus bicolor"
+  },
+  {
+    "species_id": "B07",
+    "url": "https://www.allaboutbirds.org/guide/White-breasted_Nuthatch/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.287660+00:00",
+    "http_status": 200,
+    "scientific_name": "Sitta carolinensis"
+  },
+  {
+    "species_id": "B08",
+    "url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.288091+00:00",
+    "http_status": 200,
+    "scientific_name": "Sitta canadensis"
+  },
+  {
+    "species_id": "B09",
+    "url": "https://www.allaboutbirds.org/guide/Downy_Woodpecker/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.403165+00:00",
+    "http_status": 200,
+    "scientific_name": "Dryobates pubescens"
+  },
+  {
+    "species_id": "B10",
+    "url": "https://www.allaboutbirds.org/guide/Hairy_Woodpecker/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.537270+00:00",
+    "http_status": 200,
+    "scientific_name": "Leuconotopicus villosus"
+  },
+  {
+    "species_id": "B11",
+    "url": "https://www.allaboutbirds.org/guide/Red-bellied_Woodpecker/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.546270+00:00",
+    "http_status": 200,
+    "scientific_name": "Melanerpes carolinus"
+  },
+  {
+    "species_id": "B12",
+    "url": "https://www.allaboutbirds.org/guide/Northern_Flicker/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.570117+00:00",
+    "http_status": 200,
+    "scientific_name": "Colaptes auratus"
+  },
+  {
+    "species_id": "B13",
+    "url": "https://www.allaboutbirds.org/guide/Mourning_Dove/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.576767+00:00",
+    "http_status": 200,
+    "scientific_name": "Zenaida macroura"
+  },
+  {
+    "species_id": "B14",
+    "url": "https://www.allaboutbirds.org/guide/Rock_Pigeon/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.594098+00:00",
+    "http_status": 200,
+    "scientific_name": "Columba livia"
+  },
+  {
+    "species_id": "B15",
+    "url": "https://www.allaboutbirds.org/guide/American_Goldfinch/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.595613+00:00",
+    "http_status": 200,
+    "scientific_name": "Spinus tristis"
+  },
+  {
+    "species_id": "B16",
+    "url": "https://www.allaboutbirds.org/guide/House_Finch/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.597603+00:00",
+    "http_status": 200,
+    "scientific_name": "Haemorhous mexicanus"
+  },
+  {
+    "species_id": "B17",
+    "url": "https://www.allaboutbirds.org/guide/Purple_Finch/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.614709+00:00",
+    "http_status": 200,
+    "scientific_name": "Haemorhous purpureus"
+  },
+  {
+    "species_id": "B18",
+    "url": "https://www.allaboutbirds.org/guide/House_Sparrow/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.629050+00:00",
+    "http_status": 200,
+    "scientific_name": "Passer domesticus"
+  },
+  {
+    "species_id": "B19",
+    "url": "https://www.allaboutbirds.org/guide/Song_Sparrow/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.636448+00:00",
+    "http_status": 200,
+    "scientific_name": "Melospiza melodia"
+  },
+  {
+    "species_id": "B20",
+    "url": "https://www.allaboutbirds.org/guide/White-throated_Sparrow/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.679932+00:00",
+    "http_status": 200,
+    "scientific_name": "Zonotrichia albicollis"
+  },
+  {
+    "species_id": "B21",
+    "url": "https://www.allaboutbirds.org/guide/White-crowned_Sparrow/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.685780+00:00",
+    "http_status": 200,
+    "scientific_name": "Zonotrichia leucophrys"
+  },
+  {
+    "species_id": "B22",
+    "url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.706675+00:00",
+    "http_status": 200,
+    "scientific_name": "Junco hyemalis"
+  },
+  {
+    "species_id": "B23",
+    "url": "https://www.allaboutbirds.org/guide/Chipping_Sparrow/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.713325+00:00",
+    "http_status": 200,
+    "scientific_name": "Spizella passerina"
+  },
+  {
+    "species_id": "B24",
+    "url": "https://www.allaboutbirds.org/guide/Carolina_Wren/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.725630+00:00",
+    "http_status": 200,
+    "scientific_name": "Thryothorus ludovicianus"
+  },
+  {
+    "species_id": "B25",
+    "url": "https://www.allaboutbirds.org/guide/House_Wren/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.726251+00:00",
+    "http_status": 200,
+    "scientific_name": "Troglodytes aedon"
+  },
+  {
+    "species_id": "B26",
+    "url": "https://www.allaboutbirds.org/guide/European_Starling/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.728771+00:00",
+    "http_status": 200,
+    "scientific_name": "Sturnus vulgaris"
+  },
+  {
+    "species_id": "B27",
+    "url": "https://www.allaboutbirds.org/guide/Common_Grackle/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.729447+00:00",
+    "http_status": 200,
+    "scientific_name": "Quiscalus quiscula"
+  },
+  {
+    "species_id": "B28",
+    "url": "https://www.allaboutbirds.org/guide/Red-winged_Blackbird/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.737199+00:00",
+    "http_status": 200,
+    "scientific_name": "Agelaius phoeniceus"
+  },
+  {
+    "species_id": "B29",
+    "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.761174+00:00",
+    "http_status": 200,
+    "scientific_name": "Mimus polyglottos"
+  },
+  {
+    "species_id": "B30",
+    "url": "https://www.allaboutbirds.org/guide/Eastern_Bluebird/overview",
+    "retrieved_at_utc": "2026-11-15T05:46:11.765221+00:00",
+    "http_status": 200,
+    "scientific_name": "Sialia sialis"
+  }
+]

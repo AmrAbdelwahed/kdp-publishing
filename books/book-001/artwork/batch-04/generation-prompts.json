@@ -1,0 +1,74 @@
+[
+  {
+    "species_id": "B19",
+    "species": "Song Sparrow",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait black-and-white colouring book line illustration for children 6\u20139, white background, spacious colouring regions, smooth strong outlines, full bird and feet inside generous margins. The attached cardinal is an image reference for line weight and visual style ONLY: do not copy its anatomy, crest, branch, or composition. No text, shading, gradient, watermark, dense black fill or copied photographs. Species traits outlined for colouring. Use natural anatomy and non-identical perches or settings. Adult, sex unspecified; regional plumage varies. Draw a Song Sparrow on a low branch, facing left, rounded head, comparatively long tail, thick streaks on white breast and flanks; suggest central spot without imposing it as universal. Simple leaf, natural feet.",
+    "plumage_scope": "Adult, sex unspecified; regional plumage varies",
+    "generation_provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+    "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B20",
+    "species": "White-throated Sparrow",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait black-and-white colouring book line illustration for children 6\u20139, white background, spacious colouring regions, smooth strong outlines, full bird and feet inside generous margins. The attached cardinal is an image reference for line weight and visual style ONLY: do not copy its anatomy, crest, branch, or composition. No text, shading, gradient, watermark, dense black fill or copied photographs. Species traits outlined for colouring. Use natural anatomy and non-identical perches or settings. Adult, white-striped head form, sex unspecified. On the ground among a few broad leaves facing right, draw striped crown, defined throat and outlined small eye-to-bill area for the yellow mark, grey bill and plainish lower breast; no filled black head.",
+    "plumage_scope": "Adult, white-striped head form, sex unspecified",
+    "generation_provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+    "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B21",
+    "species": "White-crowned Sparrow",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait black-and-white colouring book line illustration for children 6\u20139, white background, spacious colouring regions, smooth strong outlines, full bird and feet inside generous margins. The attached cardinal is an image reference for line weight and visual style ONLY: do not copy its anatomy, crest, branch, or composition. No text, shading, gradient, watermark, dense black fill or copied photographs. Species traits outlined for colouring. Use natural anatomy and non-identical perches or settings. Adult, sex unspecified. Standing alert on a simple low rock facing left, with clear black-and-white crown stripes represented as broad colourable outlined bands, pale bill, plain underparts; natural proportion, long tail. Juveniles can differ.",
+    "plumage_scope": "Adult, sex unspecified",
+    "generation_provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+    "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B22",
+    "species": "Dark-eyed Junco",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait black-and-white colouring book line illustration for children 6\u20139, white background, spacious colouring regions, smooth strong outlines, full bird and feet inside generous margins. The attached cardinal is an image reference for line weight and visual style ONLY: do not copy its anatomy, crest, branch, or composition. No text, shading, gradient, watermark, dense black fill or copied photographs. Species traits outlined for colouring. Use natural anatomy and non-identical perches or settings. Adult slate-colored regional form, sex unspecified. On open ground beside one simple grass tuft facing right, compact junco with rounded head, pale bill, dark hood/body outlined from paler belly, and light outer tail-feather regions outlined; do not fill dark plumage black. Regional forms vary.",
+    "plumage_scope": "Adult slate-colored regional form, sex unspecified",
+    "generation_provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+    "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B23",
+    "species": "Chipping Sparrow",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait black-and-white colouring book line illustration for children 6\u20139, white background, spacious colouring regions, smooth strong outlines, full bird and feet inside generous margins. The attached cardinal is an image reference for line weight and visual style ONLY: do not copy its anatomy, crest, branch, or composition. No text, shading, gradient, watermark, dense black fill or copied photographs. Species traits outlined for colouring. Use natural anatomy and non-identical perches or settings. Breeding adult, sex unspecified. Perched sideways on a thin spruce twig facing left, with outlined rusty crown and eye line, pale relatively plain underparts, small finch-like bill, normal tail, sparse environment; simple areas for colouring.",
+    "plumage_scope": "Breeding adult, sex unspecified",
+    "generation_provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+    "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B24",
+    "species": "Carolina Wren",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait black-and-white colouring book line illustration for children 6\u20139, white background, spacious colouring regions, smooth strong outlines, full bird and feet inside generous margins. The attached cardinal is an image reference for line weight and visual style ONLY: do not copy its anatomy, crest, branch, or composition. No text, shading, gradient, watermark, dense black fill or copied photographs. Species traits outlined for colouring. Use natural anatomy and non-identical perches or settings. Adult, sex unspecified. Perch on a low rustic rail facing right, small rounded bird with long outlined pale eyebrow, slender downcurved bill and naturally raised tail; simple feather edges, natural feet and no excessive bars.",
+    "plumage_scope": "Adult, sex unspecified",
+    "generation_provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+    "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  }
+]

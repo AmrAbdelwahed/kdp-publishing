@@ -1,0 +1,60 @@
+{
+  "species": "White-crowned Sparrow",
+  "source_sha256": "290213fa918c3c5317f52952e975f3569ff5eed564cfc130af9341c246c3ce4e",
+  "svg_paths": 4,
+  "svg_has_image": false,
+  "svg_bytes": 53978,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 119621,
+  "removed_speckle_pixels": 0,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8929,
+  "source_enclosed_white_regions_25px": 36,
+  "vector_enclosed_white_regions_25px": 36,
+  "vector_ink_bbox": [
+    119,
+    234,
+    1157,
+    1396
+  ],
+  "thin_local_maxima_below_075pt_pct": 3.2,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "placed_art_inches": [
+    4.959,
+    6.042
+  ],
+  "original_ink_bbox": [
+    38,
+    155,
+    1078,
+    1315
+  ],
+  "original_edge_warning": false,
+  "species_id": "B21",
+  "revision": "v1",
+  "source_path": "books/book-001/artwork/batch-04/originals/B21.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+  "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T05:15:03.750738+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

@@ -1,6 +1,6 @@
 {
   "batch": "03",
-  "status": "Six new species and one B06 replacement; all need user, scientific and print review.",
+  "status": "User kept all seven designs visually; scientific, anatomy and print review remain pending.",
   "entries": [
     {
       "species_id": "B06",
@@ -8,7 +8,7 @@
       "revision": "v2",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Rounded form is more distinct from cardinal; verify forehead patch, crest, proportions and perch against source. One coarse region difference.",
-      "classification_basis": "preliminary visual screen; scientific and print review pending",
+      "classification_basis": "User kept visual direction; scientific and print review pending.",
       "original_path": "books/book-001/artwork/batch-03/originals/B06-v2.png",
       "original_sha256": "81f0f040257c260b0cc2a35f11c6b7604f70a5407aca2f471804e5bf6245b794",
       "svg_path": "books/book-001/artwork/batch-03/processed/B06-v2/B06-provisional.svg",
@@ -29,11 +29,12 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/id",
       "reference_access_note": "Cornell ID request failed proxy tunnel 403 on 2026-11-15 UTC; not independently verified.",
       "scientific_accuracy": "unverified",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
       "print_approval": false,
       "prior_revision_original": "books/book-001/artwork/batch-02/originals/B06.png",
-      "prior_revision_manifest": "books/book-001/artwork/batch-02/manifest.json"
+      "prior_revision_manifest": "books/book-001/artwork/batch-02/manifest.json",
+      "visual_decision_provenance": "Milestone 5 user KEEP decision; visual design direction only; scientific, anatomical and print approval remain pending."
     },
     {
       "species_id": "B12",
@@ -41,7 +42,7 @@
       "revision": "v1",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Check bill curvature, facial/moustache mark, breast crescent and spot pattern for chosen male yellow-shafted form; small filled spots may limit colouring.",
-      "classification_basis": "preliminary visual screen; scientific and print review pending",
+      "classification_basis": "User kept visual direction; scientific and print review pending.",
       "original_path": "books/book-001/artwork/batch-03/originals/B12.png",
       "original_sha256": "98cbdc131e5a248f3cb11753349f53b4e6415a447e1e18c64e189844190a2351",
       "svg_path": "books/book-001/artwork/batch-03/processed/B12-v1/B12-provisional.svg",
@@ -62,9 +63,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Northern_Flicker/id",
       "reference_access_note": "Cornell ID request failed proxy tunnel 403 on 2026-11-15 UTC; not independently verified.",
       "scientific_accuracy": "unverified",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "Milestone 5 user KEEP decision; visual design direction only; scientific, anatomical and print approval remain pending."
     },
     {
       "species_id": "B14",
@@ -72,7 +74,7 @@
       "revision": "v1",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Check cere, neck feather treatment, wing bars and leg/toe anatomy against a reference; verify typical plumage.",
-      "classification_basis": "preliminary visual screen; scientific and print review pending",
+      "classification_basis": "User kept visual direction; scientific and print review pending.",
       "original_path": "books/book-001/artwork/batch-03/originals/B14.png",
       "original_sha256": "8005dcf153ffd85f906c4d3b3948e310b1e0d7e5630efea66f4c601f02ea40f9",
       "svg_path": "books/book-001/artwork/batch-03/processed/B14-v1/B14-provisional.svg",
@@ -93,9 +95,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Rock_Pigeon/id",
       "reference_access_note": "Cornell ID request failed proxy tunnel 403 on 2026-11-15 UTC; not independently verified.",
       "scientific_accuracy": "unverified",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "Milestone 5 user KEEP decision; visual design direction only; scientific, anatomical and print approval remain pending."
     },
     {
       "species_id": "B15",
@@ -103,7 +106,7 @@
       "revision": "v1",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Cap and face boundary, wing markings and breeding-male plumage need checking; the dense seed head has small colouring regions. One coarse region difference.",
-      "classification_basis": "preliminary visual screen; scientific and print review pending",
+      "classification_basis": "User kept visual direction; scientific and print review pending.",
       "original_path": "books/book-001/artwork/batch-03/originals/B15.png",
       "original_sha256": "b9b590926936793a07d0f408a1be087d61965c613ea326d12301290d8839b76b",
       "svg_path": "books/book-001/artwork/batch-03/processed/B15-v1/B15-provisional.svg",
@@ -124,9 +127,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/American_Goldfinch/id",
       "reference_access_note": "Cornell ID request failed proxy tunnel 403 on 2026-11-15 UTC; not independently verified.",
       "scientific_accuracy": "unverified",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "Milestone 5 user KEEP decision; visual design direction only; scientific, anatomical and print approval remain pending."
     },
     {
       "species_id": "B16",
@@ -134,7 +138,7 @@
       "revision": "v1",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Check adult male plumage boundaries, finch proportions and flank markings against reference; compare with B17 without forcing differences. One coarse region difference.",
-      "classification_basis": "preliminary visual screen; scientific and print review pending",
+      "classification_basis": "User kept visual direction; scientific and print review pending.",
       "original_path": "books/book-001/artwork/batch-03/originals/B16.png",
       "original_sha256": "c1fb72a6537006c6cbbbacc3128bc42349689143fb36fac827574a55b5fed020",
       "svg_path": "books/book-001/artwork/batch-03/processed/B16-v1/B16-provisional.svg",
@@ -155,9 +159,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/House_Finch/id",
       "reference_access_note": "Cornell ID request failed proxy tunnel 403 on 2026-11-15 UTC; not independently verified.",
       "scientific_accuracy": "unverified",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "Milestone 5 user KEEP decision; visual design direction only; scientific, anatomical and print approval remain pending."
     },
     {
       "species_id": "B17",
@@ -165,7 +170,7 @@
       "revision": "v1",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Check adult male plumage boundaries, facial area and flank markings against reference; compare with B16 without forcing differences.",
-      "classification_basis": "preliminary visual screen; scientific and print review pending",
+      "classification_basis": "User kept visual direction; scientific and print review pending.",
       "original_path": "books/book-001/artwork/batch-03/originals/B17.png",
       "original_sha256": "ed216b429916e6c4f3ff2bab8b7b6cf9dc4e83043696cd91c8232a111568e90f",
       "svg_path": "books/book-001/artwork/batch-03/processed/B17-v1/B17-provisional.svg",
@@ -186,9 +191,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Purple_Finch/id",
       "reference_access_note": "Cornell ID request failed proxy tunnel 403 on 2026-11-15 UTC; not independently verified.",
       "scientific_accuracy": "unverified",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "Milestone 5 user KEEP decision; visual design direction only; scientific, anatomical and print approval remain pending."
     },
     {
       "species_id": "B18",
@@ -196,7 +202,7 @@
       "revision": "v1",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Check male head/throat pattern, bill and feet against reference. One coarse region difference.",
-      "classification_basis": "preliminary visual screen; scientific and print review pending",
+      "classification_basis": "User kept visual direction; scientific and print review pending.",
       "original_path": "books/book-001/artwork/batch-03/originals/B18.png",
       "original_sha256": "d1e7cde47e0d21d8386df7c4f2bf5fce5065c2c5143ab31ecd84875e06d88340",
       "svg_path": "books/book-001/artwork/batch-03/processed/B18-v1/B18-provisional.svg",
@@ -217,9 +223,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/House_Sparrow/id",
       "reference_access_note": "Cornell ID request failed proxy tunnel 403 on 2026-11-15 UTC; not independently verified.",
       "scientific_accuracy": "unverified",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "Milestone 5 user KEEP decision; visual design direction only; scientific, anatomical and print approval remain pending."
     }
   ]
 }

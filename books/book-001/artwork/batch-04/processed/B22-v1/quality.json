@@ -1,0 +1,60 @@
+{
+  "species": "Dark-eyed Junco",
+  "source_sha256": "4fc512255bd9b6a92caa0640945a62a600151579a3ef8573a94b1eda42f59e41",
+  "svg_paths": 5,
+  "svg_has_image": false,
+  "svg_bytes": 44560,
+  "input_size": [
+    1199,
+    1312
+  ],
+  "canvas_size": [
+    1359,
+    1472
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 89705,
+  "removed_speckle_pixels": 0,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8972,
+  "source_enclosed_white_regions_25px": 21,
+  "vector_enclosed_white_regions_25px": 21,
+  "vector_ink_bbox": [
+    109,
+    286,
+    1230,
+    1223
+  ],
+  "thin_local_maxima_below_075pt_pct": 1.61,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1472,
+  "raw_effective_ppi_at_padded_placement": 243.6,
+  "placed_art_inches": [
+    5.578,
+    6.042
+  ],
+  "original_ink_bbox": [
+    29,
+    206,
+    1151,
+    1143
+  ],
+  "original_edge_warning": false,
+  "species_id": "B22",
+  "revision": "v1",
+  "source_path": "books/book-001/artwork/batch-04/originals/B22.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "OpenAI image generation, actual cardinal PNG supplied as style reference; exact model and generation time unavailable.",
+  "reference_use": "Cardinal image for style only; Cornell text consulted; no Cornell photos used or traced.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T05:15:04.611049+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

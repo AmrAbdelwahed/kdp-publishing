@@ -58,3 +58,7 @@ The user accepted B01, B02 v2, B03 v2, B04, B07 v2 and B13 as current visual can
 ## 2026-11-15 — Milestone 4: visual decisions and Batch 3
 
 User kept B05, B08 and B11 visually and provisionally kept B09/B10, retaining their dark-area review. The user requested one B06 replacement and six new candidates B12 and B14–B18; all seven await visual, scientific and print review. The B06 v1 and all retained assets remain preserved. Revised B04/B05 activities teach multiple clues and uncertainty; comparative claims supplied by the user remain externally supplied pending independent verification. Cornell requests were blocked; no scientific or final KDP approval is inferred. See `books/book-001/artwork/batch-03/`.
+
+## 2026-11-15 — Milestone 5 Batch 4
+
+User provisionally kept B06 v2, B12 and B14–B18 for visual direction only, retaining their noted QC issues. Six new B19–B24 candidates were generated. Cornell ID pages were successfully retrieved through the configured proxy; source-backed observations and timestamps are recorded in `books/book-001/artwork/batch-04/SCIENTIFIC_REVIEW.md`. Artwork, regional applicability and final print decisions remain open. The existing 150-row fact log remains pending.

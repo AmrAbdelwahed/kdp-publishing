@@ -23,3 +23,6 @@ Owner approved a limited six-page editorial and layout prototype. PAGE_PLAN.csv 
 
 ## Milestone 1C: revised facing spreads
 Owner requested 1 introduction, 30 facing pairs on pages 2–61, and 3 back-matter pages 62–64. The three prototype pairs are cardinal 2–3, chickadee 8–9, robin 6–7. The preview places each pair consecutively, but its physical PDF pages are only a sample, not the full book. Do not print this as a complete interior. Clue-card icons are simple editorial diagrams, not verified ornithological illustrations. Cornell and KDP attempts on 2026-11-15 UTC were proxy-blocked; all three species' cues and all page plans require source review. Use revised prototype/QC_REPORT.md for current status; historical notes above describe the earlier iteration.
+
+## Milestone 2: batch 01 review
+The user accepted the revised cardinal as the visual style, with scientific and print checks remaining open, and authorized five new candidates. See `../artwork/batch-01/manifest.json`, `QC_REPORT.md` and the separate 12-page provisional proof. This is a review of the existing six lessons, not a change to the 64-page sequence. Three assets are flagged for targeted correction; all five remain unapproved. All range, seasonal and activity copy remains subject to fact checking.

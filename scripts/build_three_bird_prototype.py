@@ -86,6 +86,11 @@ def build():
      if i==0: c.line(x+10,572,x+22,572)
      elif i==1: c.circle(x+18,567,3)
      else: c.line(x+12,562,x+20,562)
+   elif bird.get('mission_lines'):
+    # Neutral symbols avoid reusing the robin's body-part pictograms for other species.
+    for i,label in enumerate(bird['clues']):
+     x=left+14+i*155;rect(x,550,145,35,7);text(label,x+32,574,108,SMALL)
+     check(x+7,558,18,18);c.circle(x+16,567,6)
    else:
     for i,label in enumerate(bird['clues']):
      x=left+14+i*155;rect(x,550,145,35,7);text(label,x+32,574,108,SMALL)
@@ -101,6 +106,13 @@ def build():
    elif bird['kind']=='chickadee':
     text('Draw a bird head. Add arrows for your three clues.',left+14,472,width-28)
     rect(left+14,329,width-28,110,5)
+   elif bird.get('mission_lines'):
+    for i,line in enumerate(bird['mission_lines']):
+     text(line,left+14,472-i*25,width-28)
+    if bird.get('draw_boxes'):
+     box_width=(width-42)/2
+     rect(left+14,329,box_width,75,5)
+     rect(left+28+box_width,329,box_width,75,5)
    else:
     text('I see a rounded __________, a slim __________,',left+14,472,width-28)
     text('and long __________. If hidden, write NOT SURE.',left+14,435,width-28)
@@ -116,15 +128,15 @@ def build():
   draw_page(bird,False);draw_page(bird,True)
  c.save()
  with fitz.open(pdf) as doc:
-  if len(doc)!=6: raise ValueError('Expected six pages')
-  sheet=Image.new('RGB',(2*326,3*416),'white')
+  if len(doc)!=2*len(BIRDS): raise ValueError('Expected one pair per bird')
+  sheet=Image.new('RGB',(2*326,len(BIRDS)*416),'white')
   for i,page in enumerate(doc):
    if abs(page.rect.width-612)>.01 or abs(page.rect.height-792)>.01: raise ValueError('Incorrect trim')
    pix=page.get_pixmap(matrix=fitz.Matrix(1,1),alpha=False)
    img=Image.frombytes('RGB',(pix.width,pix.height),pix.samples);img.thumbnail((306,396))
    sheet.paste(img,((i%2)*326+10,(i//2)*416+10))
   sheet.save(OUT/'contact-sheet.png')
- print('PASS: six 612 × 792 pt pages, mirrored design safe boxes, three facing spreads.')
+ print(f'PASS: {2*len(BIRDS)} pages, 612 × 792 pt, mirrored design safe boxes.')
 
 
 if __name__=='__main__': build()

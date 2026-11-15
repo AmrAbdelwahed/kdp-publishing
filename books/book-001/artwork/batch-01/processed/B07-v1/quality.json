@@ -1,0 +1,56 @@
+{
+  "species": "White-breasted Nuthatch",
+  "source_sha256": "fa91555262f800e87de6b784da3502a343fb2b672b0907fa500b9f8c4e79ff83",
+  "svg_paths": 15,
+  "svg_has_image": false,
+  "svg_bytes": 47036,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 119994,
+  "removed_speckle_pixels": 0,
+  "threshold": 160,
+  "threshold_mask_iou": 0.9026,
+  "source_enclosed_white_regions_25px": 27,
+  "vector_enclosed_white_regions_25px": 27,
+  "vector_ink_bbox": [
+    115,
+    82,
+    1117,
+    1479
+  ],
+  "thin_local_maxima_below_075pt_pct": 3.26,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "placed_art_inches": [
+    4.959,
+    6.042
+  ],
+  "original_ink_bbox": [
+    35,
+    2,
+    1038,
+    1399
+  ],
+  "original_edge_warning": true,
+  "species_id": "B07",
+  "revision": "v1",
+  "source_path": "books/book-001/artwork/batch-01/originals/B07.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "ChatGPT image generation with supplied cardinal PNG as visual style reference; exact prompt in generation-prompts.json",
+  "processed_at_utc": "2026-11-15T02:15:48.810750+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

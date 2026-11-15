@@ -1,0 +1,47 @@
+[
+  {
+    "species_id": "B03",
+    "species": "American Robin",
+    "prompt": "Create an ORIGINAL new bird colouring-book illustration using the supplied Northern Cardinal image ONLY as a visual STYLE reference: match its smooth moderately bold black outlines, simple naturalistic but friendly drawing, large open colouring areas, sparse environment and clean white paper. The supplied image is not the subject. Draw a different species with its OWN accurate species-specific silhouette, head, body, wing, tail and feet; do not merely alter a cardinal, copy its pose or trace a photograph. Full bird completely visible with comfortable clear margins on portrait page; age 6–9, high-quality clean closed black line art, pure white, no colour, gradients, grey, hatching, filled black shapes, words, numbers, borders or watermark. Clear identification features must be delineated with colourable outlined areas. One bird only. adult American Robin in relaxed ground-standing side view on a simple curved lawn line with two large grass tufts. Distinct round body, long legs, slim pointed bill, fairly long tail; clearly delineate the darker head and rounded orange-red breast with natural unfilled boundaries; the feet must stand on the ground, with anatomically plausible toes. No cardinal crest. Anatomy and colour-pattern boundaries require human review against an authoritative field guide; do not add any facts or labels.",
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "Identification and anatomy are draft; human reference review required.",
+    "generation_provenance": "ChatGPT image_gen tool output; original PNG; exact prompt in this record; no further edit or upscaling.",
+    "reference_use": "The cardinal source.png was supplied to image_gen as referenced_image_paths; visual style only."
+  },
+  {
+    "species_id": "B04",
+    "species": "Black-capped Chickadee",
+    "prompt": "Create an ORIGINAL new bird colouring-book illustration using the supplied Northern Cardinal image ONLY as a visual STYLE reference: match its smooth moderately bold black outlines, simple naturalistic but friendly drawing, large open colouring areas, sparse environment and clean white paper. The supplied image is not the subject. Draw a different species with its OWN accurate species-specific silhouette, head, body, wing, tail and feet; do not merely alter a cardinal, copy its pose or trace a photograph. Full bird completely visible with comfortable clear margins on portrait page; age 6–9, high-quality clean closed black line art, pure white, no colour, gradients, grey, hatching, filled black shapes, words, numbers, borders or watermark. Clear identification features must be delineated with colourable outlined areas. One bird only. a small round-bodied Black-capped Chickadee perched diagonally on a slender twig with a few broad leaves, facing left. Short fine bill, rounded head, unfilled outline boundaries that clearly distinguish dark cap, pale cheek and dark bib; short neck and modest longish tail. Depict naturally proportioned feet wrapped around twig, no cardinal crest. Anatomy and colour-pattern boundaries require human review against an authoritative field guide; do not add any facts or labels.",
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "Identification and anatomy are draft; human reference review required.",
+    "generation_provenance": "ChatGPT image_gen tool output; original PNG; exact prompt in this record; no further edit or upscaling.",
+    "reference_use": "The cardinal source.png was supplied to image_gen as referenced_image_paths; visual style only."
+  },
+  {
+    "species_id": "B02",
+    "species": "Blue Jay",
+    "prompt": "Create an ORIGINAL new bird colouring-book illustration using the supplied Northern Cardinal image ONLY as a visual STYLE reference: match its smooth moderately bold black outlines, simple naturalistic but friendly drawing, large open colouring areas, sparse environment and clean white paper. The supplied image is not the subject. Draw a different species with its OWN accurate species-specific silhouette, head, body, wing, tail and feet; do not merely alter a cardinal, copy its pose or trace a photograph. Full bird completely visible with comfortable clear margins on portrait page; age 6–9, high-quality clean closed black line art, pure white, no colour, gradients, grey, hatching, filled black shapes, words, numbers, borders or watermark. Clear identification features must be delineated with colourable outlined areas. One bird only. a Blue Jay with distinctly jay-like robust body and long broad tail, facing right in a three-quarter side view on a simple upright fence rail and one small leaf. Include the short crest, strong straight dark-looking but unfilled bill and a clear outlined necklace-like dark collar; suggest wing bars and tail bars with a few broad colourable bands. No crowded intricate pattern, no cardinal bill or cardinal body shape. Anatomy and colour-pattern boundaries require human review against an authoritative field guide; do not add any facts or labels.",
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "Identification and anatomy are draft; human reference review required.",
+    "generation_provenance": "ChatGPT image_gen tool output; original PNG; exact prompt in this record; no further edit or upscaling.",
+    "reference_use": "The cardinal source.png was supplied to image_gen as referenced_image_paths; visual style only."
+  },
+  {
+    "species_id": "B07",
+    "species": "White-breasted Nuthatch",
+    "prompt": "Create an ORIGINAL new bird colouring-book illustration using the supplied Northern Cardinal image ONLY as a visual STYLE reference: match its smooth moderately bold black outlines, simple naturalistic but friendly drawing, large open colouring areas, sparse environment and clean white paper. The supplied image is not the subject. Draw a different species with its OWN accurate species-specific silhouette, head, body, wing, tail and feet; do not merely alter a cardinal, copy its pose or trace a photograph. Full bird completely visible with comfortable clear margins on portrait page; age 6–9, high-quality clean closed black line art, pure white, no colour, gradients, grey, hatching, filled black shapes, words, numbers, borders or watermark. Clear identification features must be delineated with colourable outlined areas. One bird only. a compact White-breasted Nuthatch gripping the side of a broad vertical tree trunk, head pointing downward, in clear side view. Short neck, large head, long slender pointed bill, very short tail; clearly outlined dark cap and light face and breast. Natural feet gripping bark; simple broad trunk outline with just a few bark marks, no leaves and no crest. Anatomy and colour-pattern boundaries require human review against an authoritative field guide; do not add any facts or labels.",
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "Identification and anatomy are draft; human reference review required.",
+    "generation_provenance": "ChatGPT image_gen tool output; original PNG; exact prompt in this record; no further edit or upscaling.",
+    "reference_use": "The cardinal source.png was supplied to image_gen as referenced_image_paths; visual style only."
+  },
+  {
+    "species_id": "B13",
+    "species": "Mourning Dove",
+    "prompt": "Create an ORIGINAL new bird colouring-book illustration using the supplied Northern Cardinal image ONLY as a visual STYLE reference: match its smooth moderately bold black outlines, simple naturalistic but friendly drawing, large open colouring areas, sparse environment and clean white paper. The supplied image is not the subject. Draw a different species with its OWN accurate species-specific silhouette, head, body, wing, tail and feet; do not merely alter a cardinal, copy its pose or trace a photograph. Full bird completely visible with comfortable clear margins on portrait page; age 6–9, high-quality clean closed black line art, pure white, no colour, gradients, grey, hatching, filled black shapes, words, numbers, borders or watermark. Clear identification features must be delineated with colourable outlined areas. One bird only. a slender Mourning Dove calmly resting in a side view on a simple wide fence rail with a few distant open seedhead outlines. Distinctly small rounded head without crest, slim bill, plump tapered body and long pointed tail; subtle large outlined wing spots, lightly drawn eye ring and plausible feet. No cardinal bill, no crest, no dense foliage. Anatomy and colour-pattern boundaries require human review against an authoritative field guide; do not add any facts or labels.",
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "Identification and anatomy are draft; human reference review required.",
+    "generation_provenance": "ChatGPT image_gen tool output; original PNG; exact prompt in this record; no further edit or upscaling.",
+    "reference_use": "The cardinal source.png was supplied to image_gen as referenced_image_paths; visual style only."
+  }
+]

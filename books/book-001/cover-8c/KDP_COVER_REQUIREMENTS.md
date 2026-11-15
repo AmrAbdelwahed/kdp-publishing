@@ -1,0 +1,14 @@
+# Paperback cover requirements — preliminary, 2026-11-15
+
+Directly retrieved the official [Create a Paperback Cover](https://kdp.amazon.com/en_US/help/topic/G201953020), [Paperback Submission Guidelines](https://kdp.amazon.com/en_US/help/topic/G201857950), and [cover calculator](https://kdp.amazon.com/cover-calculator) on 2026-11-15 18:13 UTC (all HTTP 200). The calculator page was reached; a project-specific template has **not** been generated. Recheck before production.
+
+- Working specifications: paperback, 8.5 × 11 in trim, 64 pages, black ink on white paper, left-to-right. Confirm final page count, stock, binding and trim before calculating.
+- A final cover is one flattened, properly sized PDF spanning back, spine and front. KDP requires 0.125 in bleed on each outer edge. Width = back trim + front trim + spine + twice the bleed; height = trim height + twice the bleed.
+- For black ink on white paper, the submission guidelines give **page count × 0.002252 in** for spine thickness. This is a formula, not a final approved measurement. Use the official calculator and its template after specifications freeze; account for production variation.
+- At 64 pages **do not put text on the spine**. The two KDP pages are inconsistent at the boundary: the cover page says at least 79 pages, while the submission guidelines say more than 79. The distinction does not affect this 64-page book.
+- Keep front/back text at least 0.125 in inside the trim and out of the spine; the guidelines also say content not intended to be trimmed should be at least 0.25 in from the outside cover edge. Use the more conservative 0.25 in inside trim during design and follow the eventual template's safe zones and fold tolerances.
+- Reserve the back-cover barcode zone shown by the final template. KDP says it automatically places a barcode if none is supplied; do not place essential artwork or text under it. Verify the current barcode-specific specifications before creating the wrap.
+- Cover images: KDP specifies at least 300 DPI **at final placement** and recommends CMYK image color; flatten and embed fonts. Upscaling or DPI metadata does not create detail. KDP warns against spot colors, multiple color spaces and embedded color profiles; profiles are automatically removed. Review color conversions and proof appearance with the current guidance.
+- Use only artwork and fonts with rights suitable for commercial print and any required attribution; inspect licensing and AI-generated-content disclosure requirements for the chosen assets. Displayed concepts are RGB screen previews, not 300-DPI print-ready assets or final CMYK files. Their bird identification and anatomy require human review.
+
+The concepts are front-only visual drafts: no cover calculator dimensions, ISBN/barcode or print-ready full wrap has been produced. KDP preview, a physical proof and human approval remain outstanding.

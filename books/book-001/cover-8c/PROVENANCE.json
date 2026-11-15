@@ -1,0 +1,47 @@
+[
+  {
+    "concept": "A",
+    "generator": "OpenAI image generation tool, original background",
+    "generated_at": "2026-11-15",
+    "native_pixels": [
+      1103,
+      1426
+    ],
+    "source_file": "A-source-generated.png",
+    "source_sha256": "b47dfa0f2cd029598b474bff5c857d63471349e0eba5a8d7b84ff21a27574c60",
+    "layout": "Pillow; DejaVu Sans / DejaVu Serif; text applied separately",
+    "review_status": "UNAPPROVED \u2014 anatomy, rights, resolution and print review pending",
+    "generation_brief": "Sunlit backyard garden with a male Northern Cardinal and American Robin; original background without text, reserved title area.",
+    "rights_status": "Human commercial-rights and AI-disclosure review pending."
+  },
+  {
+    "concept": "B",
+    "generator": "OpenAI image generation tool, original background",
+    "generated_at": "2026-11-15",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "source_file": "B-source-generated.png",
+    "source_sha256": "e12289a925d88ac742c1a4a4047d2e5775e3192bbb7aef5525bae77674432535",
+    "layout": "Pillow; DejaVu Sans / DejaVu Serif; text applied separately",
+    "review_status": "UNAPPROVED \u2014 anatomy, rights, resolution and print review pending",
+    "generation_brief": "Field-notebook, magnifier and binoculars with male Northern Cardinal; original background without text, reserved title area.",
+    "rights_status": "Human commercial-rights and AI-disclosure review pending."
+  },
+  {
+    "concept": "C",
+    "generator": "OpenAI image generation tool, original background",
+    "generated_at": "2026-11-15",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "source_file": "C-source-generated.png",
+    "source_sha256": "80a22bd8e7f2b8bb4be25869b11555c15eed3f4ef1429d3047a6e8d1b49d58af",
+    "layout": "Pillow; DejaVu Sans / DejaVu Serif; text applied separately",
+    "review_status": "UNAPPROVED \u2014 anatomy, rights, resolution and print review pending",
+    "generation_brief": "Premium illustrated male Northern Cardinal on berry branch; original background without text, reserved title area.",
+    "rights_status": "Human commercial-rights and AI-disclosure review pending."
+  }
+]

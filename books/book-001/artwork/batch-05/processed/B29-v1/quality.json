@@ -1,0 +1,60 @@
+{
+  "species": "Northern Mockingbird",
+  "source_sha256": "f536f46058fa248181881b302076af77abe40ae84dbc759a930a28fde16918f1",
+  "svg_paths": 4,
+  "svg_has_image": false,
+  "svg_bytes": 51141,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 92814,
+  "removed_speckle_pixels": 0,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8876,
+  "source_enclosed_white_regions_25px": 21,
+  "vector_enclosed_white_regions_25px": 21,
+  "vector_ink_bbox": [
+    128,
+    326,
+    1142,
+    1374
+  ],
+  "thin_local_maxima_below_075pt_pct": 1.54,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "placed_art_inches": [
+    4.959,
+    6.042
+  ],
+  "original_ink_bbox": [
+    48,
+    246,
+    1063,
+    1294
+  ],
+  "original_edge_warning": false,
+  "species_id": "B29",
+  "revision": "v1",
+  "source_path": "books/book-001/artwork/batch-05/originals/B29.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+  "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T05:27:12.198257+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

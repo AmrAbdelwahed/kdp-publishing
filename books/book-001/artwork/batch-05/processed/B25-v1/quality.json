@@ -1,0 +1,60 @@
+{
+  "species": "House Wren",
+  "source_sha256": "76017bf354162f4537e9f7a921e36668adb8d4fdfa217e6201b58163390bef6a",
+  "svg_paths": 12,
+  "svg_has_image": false,
+  "svg_bytes": 64382,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 97519,
+  "removed_speckle_pixels": 7,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8671,
+  "source_enclosed_white_regions_25px": 29,
+  "vector_enclosed_white_regions_25px": 25,
+  "vector_ink_bbox": [
+    137,
+    358,
+    1167,
+    1261
+  ],
+  "thin_local_maxima_below_075pt_pct": 6.21,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "placed_art_inches": [
+    4.959,
+    6.042
+  ],
+  "original_ink_bbox": [
+    57,
+    278,
+    1087,
+    1181
+  ],
+  "original_edge_warning": false,
+  "species_id": "B25",
+  "revision": "v1",
+  "source_path": "books/book-001/artwork/batch-05/originals/B25.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+  "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T05:27:08.824279+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

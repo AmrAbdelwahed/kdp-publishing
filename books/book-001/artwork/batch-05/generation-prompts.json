@@ -1,0 +1,87 @@
+[
+  {
+    "species_id": "B25",
+    "species": "House Wren",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait-format black-and-white line-art colouring illustration for children ages 6\u20139. Use the attached cardinal image ONLY for artistic style and line weight; do not copy its anatomy, pose or branch. Natural species-specific body, clear identification boundaries, large colourable areas, clean smooth outlines, entire bird and feet inside generous white margins. White background, sparse setting, no text, watermarks, gray shading or large solid dark areas. Do not copy or trace photographs. Adult, sex unspecified. A small brown house wren on a slender twig next to a simple shrub, thin slightly curved bill, subtle eyebrow, barred wing and cocked tail, uncluttered broad areas.",
+    "plumage_scope": "Adult, sex unspecified",
+    "generation_provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+    "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B26",
+    "species": "European Starling",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait-format black-and-white line-art colouring illustration for children ages 6\u20139. Use the attached cardinal image ONLY for artistic style and line weight; do not copy its anatomy, pose or branch. Natural species-specific body, clear identification boundaries, large colourable areas, clean smooth outlines, entire bird and feet inside generous white margins. White background, sparse setting, no text, watermarks, gray shading or large solid dark areas. Do not copy or trace photographs. Adult breeding plumage, sex unspecified. A European starling walking on the ground facing left: stocky compact body, short tail, long pointed bill, lightly suggested scattered plumage speckles, clear open colourable spaces. Seasonal and juvenile appearances vary.",
+    "plumage_scope": "Adult breeding plumage, sex unspecified",
+    "generation_provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+    "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B27",
+    "species": "Common Grackle",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait-format black-and-white line-art colouring illustration for children ages 6\u20139. Use the attached cardinal image ONLY for artistic style and line weight; do not copy its anatomy, pose or branch. Natural species-specific body, clear identification boundaries, large colourable areas, clean smooth outlines, entire bird and feet inside generous white margins. White background, sparse setting, no text, watermarks, gray shading or large solid dark areas. Do not copy or trace photographs. Adult, sex unspecified. A common grackle standing on a broad low branch facing right; long keel-shaped tail, long straight bill, large pale eye, long body with natural proportions. Outline wing features without solid black fill.",
+    "plumage_scope": "Adult, sex unspecified",
+    "generation_provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+    "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B28",
+    "species": "Red-winged Blackbird",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait-format black-and-white line-art colouring illustration for children ages 6\u20139. Use the attached cardinal image ONLY for artistic style and line weight; do not copy its anatomy, pose or branch. Natural species-specific body, clear identification boundaries, large colourable areas, clean smooth outlines, entire bird and feet inside generous white margins. White background, sparse setting, no text, watermarks, gray shading or large solid dark areas. Do not copy or trace photographs. Adult male. Perched on a single broad cattail facing left, natural blackbird bill, large clearly outlined shoulder patch divided into two broad colourable bands, body outlined not filled in black.",
+    "plumage_scope": "Adult male",
+    "generation_provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+    "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B29",
+    "species": "Northern Mockingbird",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait-format black-and-white line-art colouring illustration for children ages 6\u20139. Use the attached cardinal image ONLY for artistic style and line weight; do not copy its anatomy, pose or branch. Natural species-specific body, clear identification boundaries, large colourable areas, clean smooth outlines, entire bird and feet inside generous white margins. White background, sparse setting, no text, watermarks, gray shading or large solid dark areas. Do not copy or trace photographs. Adult, sex unspecified. A slim long-tailed mockingbird on a low fence rail facing left, slender bill, visible wing bars and outlined white wing patches and outer tail, minimal line detail.",
+    "plumage_scope": "Adult, sex unspecified",
+    "generation_provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+    "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B30",
+    "species": "Eastern Bluebird",
+    "revision": "v1",
+    "prompt": "Create ONE original portrait-format black-and-white line-art colouring illustration for children ages 6\u20139. Use the attached cardinal image ONLY for artistic style and line weight; do not copy its anatomy, pose or branch. Natural species-specific body, clear identification boundaries, large colourable areas, clean smooth outlines, entire bird and feet inside generous white margins. White background, sparse setting, no text, watermarks, gray shading or large solid dark areas. Do not copy or trace photographs. Adult male. Upright bluebird on a simple post facing right, rounded head and short straight bill, clearly outlined rusty throat and breast region and distinct wings, shortish tail, spacious areas.",
+    "plumage_scope": "Adult male",
+    "generation_provenance": "OpenAI image generation with cardinal PNG as actual style image; model and generation time not provided.",
+    "reference_use": "Cardinal image for style only; Cornell ID text consulted; no source photo used.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B22",
+    "species": "Dark-eyed Junco",
+    "revision": "v2",
+    "prompt": "Edit the FIRST attached image, the existing Dark-eyed Junco artwork. Preserve the same ground-standing bird, pose, silhouette, surrounding grass, feet, composition and black-and-white colouring style. Make a clearly outlined, continuous separation between darker head/upper breast and pale belly appropriate to an adult slate-colored junco, keeping both regions open for colouring. Add two clear outlined white outer tail feather regions visible along the tail edges. Fix only clearly malformed anatomy if necessary. No grey, filled black shapes, text or watermark. Use the SECOND attached cardinal image for style only. Do not copy its anatomy or pose.",
+    "plumage_scope": "Adult slate-colored form; sex unspecified.",
+    "generation_provenance": "OpenAI image editing with original B22 image and cardinal style PNG as actual reference inputs; model and generation time unavailable.",
+    "reference_use": "First image is edited B22 v1; second is visual style only. Cornell identification text consulted; no source photographs used.",
+    "reference_sha256": {
+      "books/book-001/artwork/batch-04/originals/B22.png": "4fc512255bd9b6a92caa0640945a62a600151579a3ef8573a94b1eda42f59e41",
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  }
+]

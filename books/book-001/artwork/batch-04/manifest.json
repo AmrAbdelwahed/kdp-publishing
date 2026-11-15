@@ -1,5 +1,5 @@
 {
-  "status": "six new unapproved candidates",
+  "status": "B19 B20 B21 B23 B24 kept visually; B22 targeted revision requested. Scientific and print approval pending.",
   "entries": [
     {
       "species_id": "B19",
@@ -23,10 +23,11 @@
       "source_status": "identification text retrieved; illustration not scientifically approved",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "review_notes": "Fine filled breast streaks need colourability and print review; verify feet and overall anatomy.",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
       "print_approval": false,
-      "raster_ppi_at_padded_placement": 258.5
+      "raster_ppi_at_padded_placement": 258.5,
+      "visual_decision_provenance": "Milestone 6 user decision; visual direction only. B20 eye-to-bill and B21 filled stripes remain open."
     },
     {
       "species_id": "B20",
@@ -50,10 +51,11 @@
       "source_status": "identification text retrieved; illustration not scientifically approved",
       "review_classification": "NEEDS_TARGETED_REVIEW",
       "review_notes": "The eye-to-bill yellow patch is not clearly separated; crown and throat boundaries need close inspection.",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
       "print_approval": false,
-      "raster_ppi_at_padded_placement": 258.5
+      "raster_ppi_at_padded_placement": 258.5,
+      "visual_decision_provenance": "Milestone 6 user decision; visual direction only. B20 eye-to-bill and B21 filled stripes remain open."
     },
     {
       "species_id": "B21",
@@ -77,10 +79,11 @@
       "source_status": "identification text retrieved; illustration not scientifically approved",
       "review_classification": "NEEDS_TARGETED_REVIEW",
       "review_notes": "Crown stripes are filled black rather than colourable; inspect feet and print at size.",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
       "print_approval": false,
-      "raster_ppi_at_padded_placement": 258.5
+      "raster_ppi_at_padded_placement": 258.5,
+      "visual_decision_provenance": "Milestone 6 user decision; visual direction only. B20 eye-to-bill and B21 filled stripes remain open."
     },
     {
       "species_id": "B22",
@@ -104,10 +107,11 @@
       "source_status": "identification text retrieved; illustration not scientifically approved",
       "review_classification": "NEEDS_TARGETED_REVIEW",
       "review_notes": "The dark-body-to-pale-belly boundary is incomplete around the chest; outer-tail patches are not distinct; verify slate-colored form.",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "TARGETED_REVISION_REQUESTED",
       "human_approval": false,
       "print_approval": false,
-      "raster_ppi_at_padded_placement": 243.6
+      "raster_ppi_at_padded_placement": 243.6,
+      "visual_decision_provenance": "Milestone 6 user decision; visual direction only. B20 eye-to-bill and B21 filled stripes remain open."
     },
     {
       "species_id": "B23",
@@ -131,10 +135,11 @@
       "source_status": "identification text retrieved; illustration not scientifically approved",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "review_notes": "Inspect eye line, crown boundary and leg/branch grip; fine spruce needles may be difficult to colour.",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
       "print_approval": false,
-      "raster_ppi_at_padded_placement": 258.5
+      "raster_ppi_at_padded_placement": 258.5,
+      "visual_decision_provenance": "Milestone 6 user decision; visual direction only. B20 eye-to-bill and B21 filled stripes remain open."
     },
     {
       "species_id": "B24",
@@ -158,10 +163,11 @@
       "source_status": "identification text retrieved; illustration not scientifically approved",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "review_notes": "Eyebrow, bill and raised tail are visible; check feet, tail feather divisions and proportions against source.",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
       "print_approval": false,
-      "raster_ppi_at_padded_placement": 243.6
+      "raster_ppi_at_padded_placement": 243.6,
+      "visual_decision_provenance": "Milestone 6 user decision; visual direction only. B20 eye-to-bill and B21 filled stripes remain open."
     }
   ]
 }

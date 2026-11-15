@@ -62,3 +62,7 @@ User kept B05, B08 and B11 visually and provisionally kept B09/B10, retaining th
 ## 2026-11-15 — Milestone 5 Batch 4
 
 User provisionally kept B06 v2, B12 and B14–B18 for visual direction only, retaining their noted QC issues. Six new B19–B24 candidates were generated. Cornell ID pages were successfully retrieved through the configured proxy; source-backed observations and timestamps are recorded in `books/book-001/artwork/batch-04/SCIENTIFIC_REVIEW.md`. Artwork, regional applicability and final print decisions remain open. The existing 150-row fact log remains pending.
+
+## 2026-11-15 — Milestone 6: collection and editorial review
+
+User kept B19/B20/B21/B23/B24 visually and requested one B22 edit. Six final species and one junco revision were generated; the junco markings remain unresolved. All 30 have candidates, not final approvals. Cornell ID pages returned 200 for 29 species; B08 returned 403. A 150-row verification crosswalk and 30 draft activities were created; the original fact log remains pending. Scientific, artwork, print, economic and release gates remain open. See `books/book-001/artwork/batch-05/`.

@@ -1,0 +1,31 @@
+species_id,activity_page,format,instruction,answer_on_page_63,coverage_status
+B01,3,challenge,Where is the dark face clue?,C,Option and key checked programmatically; human age and science review pending
+B02,5,compare,Which part has the blue?,B,Option and key checked programmatically; human age and science review pending
+B03,7,colour,Colour the two clue swatches: ORANGE for underparts and DARK for head.,Orange / dark,Option and key checked programmatically; human age and science review pending
+B04,9,journal,"IMAGINARY SIGHTING: cap dark, cheeks pale. Can these clues alone tell which chickadee it is?",C,Option and key checked programmatically; human age and science review pending
+B05,11,draw,"Make a pattern key: shade CAP and BIB dark. Leave CHEEK pale. These bands are a key, not a bird portrait.",Dark / pale / dark,Option and key checked programmatically; human age and science review pending
+B06,13,lab,Connect each body clue to its colour. Use the fact above.,"1–B, 2–C, 3–A",Option and key checked programmatically; human age and science review pending
+B07,15,challenge,Which pair is pale?,B,Option and key checked programmatically; human age and science review pending
+B08,17,compare,Which stripe is white?,B,Option and key checked programmatically; human age and science review pending
+B09,19,colour,Use the pattern key: colour the squares marked BLACK. Leave the WHITE squares uncoloured.,Black / white checks,Option and key checked programmatically; human age and science review pending
+B10,21,journal,"IMAGINARY SIGHTING: striped head, checked wing; bill hidden. Can these clues alone settle the species?",B,Option and key checked programmatically; human age and science review pending
+B11,23,draw,Make a pattern key: shade every other band. Start with the band marked BLACK.,Black / white / black / white,Option and key checked programmatically; human age and science review pending
+B12,25,lab,The underwing is the underside of a wing. Connect each form to its colour.,"1–B, 2–A",Option and key checked programmatically; human age and science review pending
+B13,27,challenge,Where should a detective look for spots?,A,Option and key checked programmatically; human age and science review pending
+B14,29,compare,Which sample shows two bands?,A,Option and key checked programmatically; human age and science review pending
+B15,31,colour,Colour the clue swatches for this season: YELLOW for body and BLACK for forehead.,Yellow / black,Option and key checked programmatically; human age and science review pending
+B16,33,journal,"IMAGINARY SIGHTING: red head, other clues hidden. Is the species certain from this clue alone?",A,Option and key checked programmatically; human age and science review pending
+B17,35,draw,"Colour the HEAD and BREAST boxes pink-red. Leave TAIL uncoloured. This is a region key, not an exact feather boundary.",Head / breast,Option and key checked programmatically; human age and science review pending
+B18,37,lab,Connect each body part to its colour.,"1–B, 2–C, 3–A",Option and key checked programmatically; human age and science review pending
+B19,39,challenge,Where are the streaks described?,B,Option and key checked programmatically; human age and science review pending
+B20,41,compare,"In the tan-striped form, what colour are the pale head stripes called?",B,Option and key checked programmatically; human age and science review pending
+B21,43,colour,Colour the ADULT key black and white; colour the YOUNG key brown.,Black / white; brown,Option and key checked programmatically; human age and science review pending
+B22,45,journal,IMAGINARY SIGHTING: the bill is visible but the tail is hidden. Which detail can you record?,C,Option and key checked programmatically; human age and science review pending
+B23,47,draw,Make a head-pattern key: colour the crown band rusty. Draw a dark line through the eye dot.,Rusty crown / dark eye line,Option and key checked programmatically; human age and science review pending
+B24,49,lab,Connect each clue to its colour.,"1–B, 2–C, 3–A",Option and key checked programmatically; human age and science review pending
+B25,51,challenge,Which parts carry bars?,C,Option and key checked programmatically; human age and science review pending
+B26,53,compare,Which example shows the fresh winter pattern?,A,Option and key checked programmatically; human age and science review pending
+B27,55,colour,Colour the ADULT eye golden yellow and the YOUNG eye dark.,Golden / dark,Option and key checked programmatically; human age and science review pending
+B28,57,journal,IMAGINARY SIGHTING: the shoulder is hidden. What should your notes say about its colours?,B,Option and key checked programmatically; human age and science review pending
+B29,59,draw,Make a wing-pattern key: outline two bars inside the wing shape and leave them white. This is not a bird portrait.,Two pale bars,Option and key checked programmatically; human age and science review pending
+B30,61,lab,Connect each body region to its colour.,"1–B, 2–A",Option and key checked programmatically; human age and science review pending

@@ -21,8 +21,9 @@ pdfmetrics.registerFont(TTFont('Detective', FONT))
 pdfmetrics.registerFont(TTFont('DetectiveBold', BOLD))
 
 
-def build():
-    activities = json.loads((OUT / 'ACTIVITIES.json').read_text(encoding='utf8'))
+def build(output_dir=OUT, pdf_name='64-page-interior-8a-REVIEW.pdf', include_glossary=False):
+    output_dir = Path(output_dir)
+    activities = json.loads((output_dir / 'ACTIVITIES.json').read_text(encoding='utf8'))
     assert len(activities) == 30
     with tempfile.TemporaryDirectory(prefix='bird-8a-') as tmp:
         tmp = Path(tmp)
@@ -112,10 +113,15 @@ def build():
         def pair_cards(a, x):
             # These are labeled conceptual pattern diagrams, not anatomical drawings.
             sid = a['species_id']
-            left = x+3; right = x+252
-            for pos, option in ((left,a['options'][0]), (right,a['options'][1])):
+            positions = (x+3, x+252)
+            for pos, option in zip(positions, a['options']):
                 rounded(pos, 310, 237, 174, 10)
                 para(option, pos+10, 471, 217, 12, True, 38)
+            # Keep each original diagram attached to its semantic option when cards are reordered.
+            order = a.get('compare_order', [0, 1])
+            if sorted(order) != [0, 1]:
+                raise ValueError(f'Invalid comparison-card order: {order}')
+            left, right = (positions[order.index(i)] for i in (0, 1))
             if sid == 'B02':
                 for pos, text in ((left,'blue / black / white'), (right,'white / light gray')):
                     for j in range(3):rounded(pos+20+j*62, 358, 52, 44, 3)
@@ -221,6 +227,8 @@ def build():
         para('Welcome, detective! Each bird has a picture on the left and a clue mission on the right.',x,632,490,13,height=70)
         for i,(number,title,desc) in enumerate((('1','COLOUR','Use any colours, or follow a clue key.'),('2','IDENTIFY','Read the clue and solve a small mission.'),('3','OBSERVE','Look quietly if you wish; NOT SEEN and UNSURE are useful notes.'))):
             yy=480-i*103;rounded(x,yy,495,85,10);c.circle(x+35,yy+43,18,stroke=1,fill=0);para(number,x+30,yy+51,20,13,True,20);para(title,x+68,yy+67,395,12,True,20);para(desc,x+68,yy+44,405,11.5,height=40)
+        if include_glossary:
+            para('BIRD WORDS: crown = top of head; bib = throat patch; underparts = lower side; wing bar = stripe across a wing; range = where a bird may be found.',x,251,490,11.5,height=75)
         para('Birds differ by place, season and age. Never disturb a bird or nest; ask an adult before exploring.',x,153,490,11.5,height=60)
         c.showPage()
 
@@ -277,14 +285,14 @@ def build():
                 with fitz.open(ROOT/by_id[a['species_id']]['vector_art_pdf']) as art:
                     page.show_pdf_page(fitz.Rect(x+325, 792-444, x+475, 792-326),art,0,keep_proportion=True)
             doc.xref_set_key(doc.pdf_catalog(),'PageLayout','/TwoPageRight')
-            doc.save(OUT/'64-page-interior-8a-REVIEW.pdf',deflate=True,garbage=4)
+            doc.save(output_dir/pdf_name,deflate=True,garbage=4)
             for name,indices,cols in [('all-pages-contact.png',range(64),8),('activity-pages-contact.png',range(2,62,2),6)]:
                 rows=(len(indices)+cols-1)//cols;sheet=Image.new('RGB',(cols*220,rows*298),'white')
                 for slot,index in enumerate(indices):
                     pix=doc[index].get_pixmap(matrix=fitz.Matrix(.32,.32),alpha=False)
                     im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples)
                     sheet.paste(im,((slot%cols)*220+12,(slot//cols)*298+12))
-                sheet.save(OUT/name)
+                sheet.save(output_dir/name)
             # Show six genuinely different activity formats at identical scale.
             sheet=Image.new('RGB',(2*380,6*510),'white');draw=ImageDraw.Draw(sheet)
             f=ImageFont.truetype(FONT,14)
@@ -295,7 +303,7 @@ def build():
                     im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples)
                     sheet.paste(im,(col*380+20,i*510+35))
                     draw.text((col*380+20,i*510+10),'PREVIOUS' if col==0 else 'REVISED',font=f,fill='black')
-            sheet.save(OUT/'previous-versus-revised.png')
+            sheet.save(output_dir/'previous-versus-revised.png')
     print('Built 64-page review from original art pages and 34 revised pages.')
 
 if __name__ == '__main__':

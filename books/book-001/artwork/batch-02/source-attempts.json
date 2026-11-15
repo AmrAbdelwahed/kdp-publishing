@@ -1,0 +1,38 @@
+[
+  {
+    "species_id": "B05",
+    "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/id",
+    "attempted_at_utc": "2026-11-15T03:48:52.934021+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B06",
+    "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/id",
+    "attempted_at_utc": "2026-11-15T03:48:52.937995+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B08",
+    "url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id",
+    "attempted_at_utc": "2026-11-15T03:48:52.941717+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B09",
+    "url": "https://www.allaboutbirds.org/guide/Downy_Woodpecker/id",
+    "attempted_at_utc": "2026-11-15T03:48:52.945702+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B10",
+    "url": "https://www.allaboutbirds.org/guide/Hairy_Woodpecker/id",
+    "attempted_at_utc": "2026-11-15T03:48:52.949576+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B11",
+    "url": "https://www.allaboutbirds.org/guide/Red-bellied_Woodpecker/id",
+    "attempted_at_utc": "2026-11-15T03:48:52.954429+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

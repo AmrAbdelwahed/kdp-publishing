@@ -8,7 +8,7 @@
       "species": "Blue Jay",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
       "classification_reason": "The replacement has a more horizontal body, a longer barred tail, and a straighter bill than v1; it is visually distinct from the cardinal. However, the necklace remains filled black rather than outlined for colouring, and distinct wing bars are not clear. The source is landscape; inspect its smaller vertical placement and review jay anatomy against an authoritative source.",
-      "classification_basis": "preliminary assistant visual triage; scientific, user visual and print review pending",
+      "classification_basis": "preliminary assistant triage; user accepted visual direction only; scientific and print review pending",
       "original_path": "books/book-001/artwork/batch-01/originals/B02-v2.png",
       "original_sha256": "3b96d21394863ba35a96894a5c9bfee4225957c0457a1940696840ac6b53f0e9",
       "svg_path": "books/book-001/artwork/batch-01/processed/B02-v2/B02-provisional.svg",
@@ -63,14 +63,16 @@
       "actual_input_reference_hashes": {
         "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
       },
-      "visual_decision": "PENDING_USER_REVIEW"
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
+      "visual_decision_provenance": "User Milestone 3 decision: visual direction only; no scientific or print approval.",
+      "human_approval_scope": "No scientific, anatomy or final artwork approval recorded."
     },
     {
       "species_id": "B03",
       "species": "American Robin",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
       "classification_reason": "The scalloped neck is smoother and the ground-standing pose remains. A distinct boundary for orange-red underparts is still not clearly established; it needs reference-guided review. Confirm the feet and leg attachments.",
-      "classification_basis": "preliminary assistant visual triage; scientific, user visual and print review pending",
+      "classification_basis": "preliminary assistant triage; user accepted visual direction only; scientific and print review pending",
       "original_path": "books/book-001/artwork/batch-01/originals/B03-v2.png",
       "original_sha256": "dd6184801edba133d262c80801c63a3528f74644553a6e948ca16a47f891e1ed",
       "svg_path": "books/book-001/artwork/batch-01/processed/B03-v2/B03-provisional.svg",
@@ -126,7 +128,9 @@
         "books/book-001/artwork/batch-01/originals/B03.png": "ac39000a7db3dd0879c85127526a34de5804da201ece4d214907c92bc3023d0f",
         "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
       },
-      "visual_decision": "PENDING_USER_REVIEW"
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
+      "visual_decision_provenance": "User Milestone 3 decision: visual direction only; no scientific or print approval.",
+      "human_approval_scope": "No scientific, anatomy or final artwork approval recorded."
     },
     {
       "species_id": "B04",
@@ -164,7 +168,7 @@
       "species": "White-breasted Nuthatch",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "The solid cap is now outlined and the trunk has visible top and bottom ends. Head-down pose is preserved; cap boundaries, bill, wing, toes and grip still need reference and print-size review.",
-      "classification_basis": "preliminary assistant visual triage; scientific, user visual and print review pending",
+      "classification_basis": "preliminary assistant triage; user accepted visual direction only; scientific and print review pending",
       "original_path": "books/book-001/artwork/batch-01/originals/B07-v2.png",
       "original_sha256": "9983cc30874bb294aa670ffb913a839ceea9c6d884750d5a23d71cd97f3441c0",
       "svg_path": "books/book-001/artwork/batch-01/processed/B07-v2/B07-provisional.svg",
@@ -220,7 +224,9 @@
         "books/book-001/artwork/batch-01/originals/B07.png": "fa91555262f800e87de6b784da3502a343fb2b672b0907fa500b9f8c4e79ff83",
         "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
       },
-      "visual_decision": "PENDING_USER_REVIEW"
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
+      "visual_decision_provenance": "User Milestone 3 decision: visual direction only; no scientific or print approval.",
+      "human_approval_scope": "No scientific, anatomy or final artwork approval recorded."
     },
     {
       "species_id": "B13",
@@ -254,5 +260,5 @@
       "human_approval_scope": "No scientific, anatomy or final artwork approval recorded."
     }
   ],
-  "manifest_note": "Batch 1 v1 source files remain unchanged; current B02, B03 and B07 are v2. User provisionally accepted B04 and B13 visually only."
+  "manifest_note": "User accepted the six existing designs as visual candidates in Milestone 3. B03 breast boundary and B02 necklace/wing-bar verification remain in the QC backlog. Scientific and print approval remain pending; prior revisions remain unchanged."
 }

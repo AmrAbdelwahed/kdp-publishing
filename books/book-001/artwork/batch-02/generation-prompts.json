@@ -1,0 +1,68 @@
+[
+  {
+    "species_id": "B05",
+    "species": "Carolina Chickadee",
+    "revision": "v1",
+    "prompt": "Create ONE original, portrait-format, black-and-white colouring book illustration for ages 6\u20139. Use the attached cardinal image ONLY as reference for line weight, clean smooth contours, generous colourable spaces, restrained detail, white background and overall drawing aesthetic. Do not copy the cardinal anatomy, pose, branch or composition. Draw the requested species with its own plausible silhouette and proportions. Draw a complete bird and feet within generous white margins, minimal surroundings. Outlined features are colourable, no large solid-black regions, no grayscale, gradients, shading, text, labels, borders, watermark, or copied reference artwork. Natural bird anatomy and grip. Species-specific field marks are intended for later scientific verification. A compact Carolina Chickadee perched calmly facing left on a slender diagonal twig with a few simple leaves. Short fine bill, rounded head, open outlined dark cap, pale cheek and bib regions; simple wing and tail with open colourable areas. A distinctive chickadee silhouette without a crest.",
+    "generation_provenance": "Generated for this batch using OpenAI image generation with the accepted cardinal PNG supplied as an actual visual reference; original unapproved candidate.",
+    "reference_use": "Cardinal is a style reference only; species anatomy and composition must differ. Identification details require independent review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B06",
+    "species": "Tufted Titmouse",
+    "revision": "v1",
+    "prompt": "Create ONE original, portrait-format, black-and-white colouring book illustration for ages 6\u20139. Use the attached cardinal image ONLY as reference for line weight, clean smooth contours, generous colourable spaces, restrained detail, white background and overall drawing aesthetic. Do not copy the cardinal anatomy, pose, branch or composition. Draw the requested species with its own plausible silhouette and proportions. Draw a complete bird and feet within generous white margins, minimal surroundings. Outlined features are colourable, no large solid-black regions, no grayscale, gradients, shading, text, labels, borders, watermark, or copied reference artwork. Natural bird anatomy and grip. Species-specific field marks are intended for later scientific verification. An alert Tufted Titmouse upright on a simple broken fence post, facing right. Small pointed crest, short sturdy bill (not a cardinal bill), prominent eye, compact body and longish tail. Outline the face and wing without densely filled shapes. Different posture and surroundings from the style reference.",
+    "generation_provenance": "Generated for this batch using OpenAI image generation with the accepted cardinal PNG supplied as an actual visual reference; original unapproved candidate.",
+    "reference_use": "Cardinal is a style reference only; species anatomy and composition must differ. Identification details require independent review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B08",
+    "species": "Red-breasted Nuthatch",
+    "revision": "v1",
+    "prompt": "Create ONE original, portrait-format, black-and-white colouring book illustration for ages 6\u20139. Use the attached cardinal image ONLY as reference for line weight, clean smooth contours, generous colourable spaces, restrained detail, white background and overall drawing aesthetic. Do not copy the cardinal anatomy, pose, branch or composition. Draw the requested species with its own plausible silhouette and proportions. Draw a complete bird and feet within generous white margins, minimal surroundings. Outlined features are colourable, no large solid-black regions, no grayscale, gradients, shading, text, labels, borders, watermark, or copied reference artwork. Natural bird anatomy and grip. Species-specific field marks are intended for later scientific verification. A Red-breasted Nuthatch clinging head-down to the side of a simple upright tree trunk, facing left. Short tail, long pointed bill, compact nuthatch form; show outlined cap, light eyebrow and contrasting eye stripe as separate open colourable regions. Make trunk grip plausible, uncluttered, with a few broad wing details.",
+    "generation_provenance": "Generated for this batch using OpenAI image generation with the accepted cardinal PNG supplied as an actual visual reference; original unapproved candidate.",
+    "reference_use": "Cardinal is a style reference only; species anatomy and composition must differ. Identification details require independent review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B09",
+    "species": "Downy Woodpecker",
+    "revision": "v1",
+    "prompt": "Create ONE original, portrait-format, black-and-white colouring book illustration for ages 6\u20139. Use the attached cardinal image ONLY as reference for line weight, clean smooth contours, generous colourable spaces, restrained detail, white background and overall drawing aesthetic. Do not copy the cardinal anatomy, pose, branch or composition. Draw the requested species with its own plausible silhouette and proportions. Draw a complete bird and feet within generous white margins, minimal surroundings. Outlined features are colourable, no large solid-black regions, no grayscale, gradients, shading, text, labels, borders, watermark, or copied reference artwork. Natural bird anatomy and grip. Species-specific field marks are intended for later scientific verification. A small Downy Woodpecker clinging vertically to a slim tree trunk, side view facing right. A comparatively short straight pointed bill visibly shorter than the head, compact body, outlined head markings, broad simple wing patches and a tail braced at the trunk. Keep feet legible and natural. No text.",
+    "generation_provenance": "Generated for this batch using OpenAI image generation with the accepted cardinal PNG supplied as an actual visual reference; original unapproved candidate.",
+    "reference_use": "Cardinal is a style reference only; species anatomy and composition must differ. Identification details require independent review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B10",
+    "species": "Hairy Woodpecker",
+    "revision": "v1",
+    "prompt": "Create ONE original, portrait-format, black-and-white colouring book illustration for ages 6\u20139. Use the attached cardinal image ONLY as reference for line weight, clean smooth contours, generous colourable spaces, restrained detail, white background and overall drawing aesthetic. Do not copy the cardinal anatomy, pose, branch or composition. Draw the requested species with its own plausible silhouette and proportions. Draw a complete bird and feet within generous white margins, minimal surroundings. Outlined features are colourable, no large solid-black regions, no grayscale, gradients, shading, text, labels, borders, watermark, or copied reference artwork. Natural bird anatomy and grip. Species-specific field marks are intended for later scientific verification. A Hairy Woodpecker side view on a broad tree trunk, facing left and climbing at a gentle angle. Distinctive relatively long robust pointed bill approximately head length, outlined head stripes and broad wing markings, natural feet and braced tail. Show enough white margin and colourable space. Different trunk and pose from the Downy Woodpecker.",
+    "generation_provenance": "Generated for this batch using OpenAI image generation with the accepted cardinal PNG supplied as an actual visual reference; original unapproved candidate.",
+    "reference_use": "Cardinal is a style reference only; species anatomy and composition must differ. Identification details require independent review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B11",
+    "species": "Red-bellied Woodpecker",
+    "revision": "v1",
+    "prompt": "Create ONE original, portrait-format, black-and-white colouring book illustration for ages 6\u20139. Use the attached cardinal image ONLY as reference for line weight, clean smooth contours, generous colourable spaces, restrained detail, white background and overall drawing aesthetic. Do not copy the cardinal anatomy, pose, branch or composition. Draw the requested species with its own plausible silhouette and proportions. Draw a complete bird and feet within generous white margins, minimal surroundings. Outlined features are colourable, no large solid-black regions, no grayscale, gradients, shading, text, labels, borders, watermark, or copied reference artwork. Natural bird anatomy and grip. Species-specific field marks are intended for later scientific verification. A Red-bellied Woodpecker on the right side of an upright trunk, facing left, with a clear moderately long pointed bill, distinct outlined cap and nape, and broad simplified barred pattern over the back and wings. Plain unshaded underparts, no exaggerated red belly markings; natural climbing toes and a visible tail. Open colourable bands, not dense shading.",
+    "generation_provenance": "Generated for this batch using OpenAI image generation with the accepted cardinal PNG supplied as an actual visual reference; original unapproved candidate.",
+    "reference_use": "Cardinal is a style reference only; species anatomy and composition must differ. Identification details require independent review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  }
+]

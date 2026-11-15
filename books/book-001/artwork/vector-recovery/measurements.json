@@ -1,0 +1,98 @@
+[
+  {
+    "species": "cardinal",
+    "source_sha256": "c820eb98846d5b5a0ffacea46564ae655cd9561e907fd9485cf6d0c174636a26",
+    "svg_paths": 6,
+    "svg_has_image": false,
+    "svg_bytes": 54681,
+    "input_size": [
+      1199,
+      1312
+    ],
+    "canvas_size": [
+      1359,
+      1472
+    ],
+    "added_padding_pixels": 80,
+    "source_ink_pixels": 110905,
+    "removed_speckle_pixels": 1,
+    "threshold": 160,
+    "threshold_mask_iou": 0.8798,
+    "source_enclosed_white_regions_25px": 23,
+    "vector_enclosed_white_regions_25px": 23,
+    "vector_ink_bbox": [
+      101,
+      113,
+      1238,
+      1362
+    ],
+    "thin_local_maxima_below_075pt_pct": 3.17,
+    "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+    "anatomical_approval": "not reviewed",
+    "disposition": "PROVISIONAL_REVIEW_REQUIRED"
+  },
+  {
+    "species": "robin",
+    "source_sha256": "1c1a03e57458054a1cecd26008160ff48e30bdf23e4d609589a8c051cdd3e420",
+    "svg_paths": 5,
+    "svg_has_image": false,
+    "svg_bytes": 73879,
+    "input_size": [
+      1199,
+      1312
+    ],
+    "canvas_size": [
+      1359,
+      1472
+    ],
+    "added_padding_pixels": 80,
+    "source_ink_pixels": 125362,
+    "removed_speckle_pixels": 0,
+    "threshold": 160,
+    "threshold_mask_iou": 0.8892,
+    "source_enclosed_white_regions_25px": 40,
+    "vector_enclosed_white_regions_25px": 40,
+    "vector_ink_bbox": [
+      121,
+      173,
+      1234,
+      1378
+    ],
+    "thin_local_maxima_below_075pt_pct": 1.45,
+    "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+    "anatomical_approval": "not reviewed",
+    "disposition": "PROVISIONAL_REVIEW_REQUIRED"
+  },
+  {
+    "species": "chickadee",
+    "source_sha256": "cd35101be917ef02a264b3f33dbca7ab8d748207f08fdbcdb7bcf3c3103b3657",
+    "svg_paths": 1,
+    "svg_has_image": false,
+    "svg_bytes": 54336,
+    "input_size": [
+      1199,
+      1312
+    ],
+    "canvas_size": [
+      1359,
+      1472
+    ],
+    "added_padding_pixels": 80,
+    "source_ink_pixels": 122815,
+    "removed_speckle_pixels": 0,
+    "threshold": 160,
+    "threshold_mask_iou": 0.8951,
+    "source_enclosed_white_regions_25px": 23,
+    "vector_enclosed_white_regions_25px": 23,
+    "vector_ink_bbox": [
+      87,
+      244,
+      1271,
+      1362
+    ],
+    "thin_local_maxima_below_075pt_pct": 1.18,
+    "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+    "anatomical_approval": "not reviewed",
+    "disposition": "PROVISIONAL_REVIEW_REQUIRED"
+  }
+]

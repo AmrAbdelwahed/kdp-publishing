@@ -35,3 +35,6 @@ User directed page 1 introduction, 30 even-left/odd-right pairs on pages 2–61 
 
 ## 2026-11-14 — M1D: three illustration tests and placement gates
 User approved the 64-page facing-spread direction and three illustration tests, but not the other 27 assets or publication/spend. Three AI candidates were generated for human review. User supplied externally reviewed Cornell features and KDP values; exact source retrieval times are not supplied, and no independent Codex verification is claimed. The three candidates fail the 300 PPI threshold at current placement; none is approved. PDF remains a prototype with two placeholders and old cardinal style test until all three pass human review and technical gates.
+
+## 2026-11-14 — M1E: vector recovery review
+User authorized vector testing of three existing candidates without generating new AI artwork. Thresholded and traced copies are retained separately; source PNG hashes remain unchanged. Vector paths are provisional, no human approval inferred. Padding reduces the chickadee edge risk while reducing physical art size. Thin-line screening and anatomical review remain unresolved; see books/book-001/artwork/vector-recovery/IMAGE_QUALITY_REPORT.md. Recommendation: manually correct and validate before considering a wider illustration workflow. No proof orders, spending or publication.

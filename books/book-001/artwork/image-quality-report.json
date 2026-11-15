@@ -1,0 +1,110 @@
+[
+  {
+    "species": "cardinal",
+    "path": "books/book-001/artwork/candidates/cardinal.png",
+    "sha256": "c820eb98846d5b5a0ffacea46564ae655cd9561e907fd9485cf6d0c174636a26",
+    "provenance": "AI-generated ChatGPT image tool; milestone 1D; original PNG; no reference image supplied",
+    "format": "PNG",
+    "pixels": [
+      1199,
+      1312
+    ],
+    "placed_inches": [
+      5.521,
+      6.042
+    ],
+    "effective_ppi": [
+      217.2,
+      217.2
+    ],
+    "resolution_pass": false,
+    "ink_bbox_pixels": [
+      21,
+      32,
+      1159,
+      1282
+    ],
+    "edge_ink_warning": false,
+    "blank_warning": false,
+    "human_approved": false,
+    "approval_record_complete": false,
+    "approved_directory": false,
+    "line_and_placement_reviewed": false,
+    "line_thickness": "not automatically verified; inspect at final scale",
+    "anatomy_and_field_marks": "human review required",
+    "possible_duplicates": [],
+    "ready_for_placement": false
+  },
+  {
+    "species": "robin",
+    "path": "books/book-001/artwork/candidates/robin.png",
+    "sha256": "1c1a03e57458054a1cecd26008160ff48e30bdf23e4d609589a8c051cdd3e420",
+    "provenance": "AI-generated ChatGPT image tool; milestone 1D; original PNG; no reference image supplied",
+    "format": "PNG",
+    "pixels": [
+      1199,
+      1312
+    ],
+    "placed_inches": [
+      5.521,
+      6.042
+    ],
+    "effective_ppi": [
+      217.2,
+      217.2
+    ],
+    "resolution_pass": false,
+    "ink_bbox_pixels": [
+      41,
+      93,
+      1154,
+      1298
+    ],
+    "edge_ink_warning": false,
+    "blank_warning": false,
+    "human_approved": false,
+    "approval_record_complete": false,
+    "approved_directory": false,
+    "line_and_placement_reviewed": false,
+    "line_thickness": "not automatically verified; inspect at final scale",
+    "anatomy_and_field_marks": "human review required",
+    "possible_duplicates": [],
+    "ready_for_placement": false
+  },
+  {
+    "species": "chickadee",
+    "path": "books/book-001/artwork/candidates/chickadee.png",
+    "sha256": "cd35101be917ef02a264b3f33dbca7ab8d748207f08fdbcdb7bcf3c3103b3657",
+    "provenance": "AI-generated ChatGPT image tool; milestone 1D; original PNG; no reference image supplied",
+    "format": "PNG",
+    "pixels": [
+      1199,
+      1312
+    ],
+    "placed_inches": [
+      5.521,
+      6.042
+    ],
+    "effective_ppi": [
+      217.2,
+      217.2
+    ],
+    "resolution_pass": false,
+    "ink_bbox_pixels": [
+      7,
+      165,
+      1191,
+      1282
+    ],
+    "edge_ink_warning": true,
+    "blank_warning": false,
+    "human_approved": false,
+    "approval_record_complete": false,
+    "approved_directory": false,
+    "line_and_placement_reviewed": false,
+    "line_thickness": "not automatically verified; inspect at final scale",
+    "anatomy_and_field_marks": "human review required",
+    "possible_duplicates": [],
+    "ready_for_placement": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "species": "cardinal",
+    "path": "books/book-001/artwork/candidates/cardinal.png",
+    "sha256": "c820eb98846d5b5a0ffacea46564ae655cd9561e907fd9485cf6d0c174636a26",
+    "provenance": "AI-generated ChatGPT image tool; milestone 1D; original PNG; no reference image supplied",
+    "human_approved": false,
+    "reviewer": "",
+    "reviewed_at": "",
+    "approval_scope": ""
+  },
+  {
+    "species": "robin",
+    "path": "books/book-001/artwork/candidates/robin.png",
+    "sha256": "1c1a03e57458054a1cecd26008160ff48e30bdf23e4d609589a8c051cdd3e420",
+    "provenance": "AI-generated ChatGPT image tool; milestone 1D; original PNG; no reference image supplied",
+    "human_approved": false,
+    "reviewer": "",
+    "reviewed_at": "",
+    "approval_scope": ""
+  },
+  {
+    "species": "chickadee",
+    "path": "books/book-001/artwork/candidates/chickadee.png",
+    "sha256": "cd35101be917ef02a264b3f33dbca7ab8d748207f08fdbcdb7bcf3c3103b3657",
+    "provenance": "AI-generated ChatGPT image tool; milestone 1D; original PNG; no reference image supplied",
+    "human_approved": false,
+    "reviewer": "",
+    "reviewed_at": "",
+    "approval_scope": ""
+  }
+]

@@ -19,3 +19,6 @@ All identification and regional claims below are **UNVERIFIED**: the requested C
 
 ## Review requirements
 The child-facing prompts are provisional. Check all visual features, ranges, seasonal differences, lookalike risks and age fit against the exact sources in SOURCE_VERIFICATION.md. Ensure final typography, visual prompts and instructions are usable without colour vision and support a child who cannot see a bird locally. The introduction should cover safe non-invasive observation and avoid collecting personal location data.
+
+## Milestone 1D external-source addendum
+User-reported external Cornell checks support the specific features enumerated in SOURCE_VERIFICATION.md. Other wording, including occurrence, seasonal variation, comparison/distractor details and individual generated anatomy, is still unverified. This is not an independent Codex source retrieval.

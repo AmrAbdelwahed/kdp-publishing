@@ -32,3 +32,6 @@ Owner approved limited prototype and six-page preview, not complete illustration
 
 ## 2026-11-14 — M1C facing-spread revision
 User directed page 1 introduction, 30 even-left/odd-right pairs on pages 2–61 and three back-matter pages 62–64. Rebuilt the prototype and page-plan validation; prior iteration remains in Git history. All six Cornell/KDP reference attempts returned proxy 403 at 2026-11-15 00:30 UTC. Claims and supplied cost observations remain unverified. Recommendation REVISE pending source, artwork, accessibility and commercial review; no full image production approved.
+
+## 2026-11-14 — M1D: three illustration tests and placement gates
+User approved the 64-page facing-spread direction and three illustration tests, but not the other 27 assets or publication/spend. Three AI candidates were generated for human review. User supplied externally reviewed Cornell features and KDP values; exact source retrieval times are not supplied, and no independent Codex verification is claimed. The three candidates fail the 300 PPI threshold at current placement; none is approved. PDF remains a prototype with two placeholders and old cardinal style test until all three pass human review and technical gates.

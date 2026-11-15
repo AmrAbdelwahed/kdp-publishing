@@ -1,5 +1,7 @@
 """Build a six-page facing-spread proof; not a KDP-ready interior."""
 from pathlib import Path
+import json
+from check_bird_artwork import report, ART
 import fitz
 from PIL import Image
 from reportlab.pdfgen import canvas
@@ -15,7 +17,7 @@ OUT = ROOT / 'books/book-001/prototype'
 pdfmetrics.registerFont(TTFont('DejaVu', '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'))
 pdfmetrics.registerFont(TTFont('DejaVuBold', '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'))
 BODY = ParagraphStyle('body', fontName='DejaVu', fontSize=12, leading=17)
-SMALL = ParagraphStyle('small', fontName='DejaVu', fontSize=9, leading=12)
+SMALL = ParagraphStyle('small', fontName='DejaVu', fontSize=10, leading=13)
 TITLE = ParagraphStyle('title', fontName='DejaVuBold', fontSize=22, leading=28)
 HEADING = ParagraphStyle('heading', fontName='DejaVuBold', fontSize=14, leading=19)
 BIRDS = [
@@ -27,10 +29,15 @@ BIRDS = [
 def build():
  OUT.mkdir(parents=True, exist_ok=True)
  pdf=OUT/'three-bird-prototype.pdf'
- c=canvas.Canvas(str(pdf), pagesize=letter, pageCompression=1)
+ c=canvas.Canvas(str(pdf), pagesize=letter, pageCompression=1, initialFontName='DejaVu')
+ entries=json.loads((ART/'manifest.json').read_text())
+ results=report(entries)
+ ready = len(results)==3 and {r['species'] for r in results} == {'cardinal','robin','chickadee'} and all(r['ready_for_placement'] for r in results)
+ approved = {r['species']: ROOT/r['path'] for r in results} if ready else {}
  W,H=letter
  def draw_page(bird, activity):
   number=bird['page']+int(activity)
+  c.setLineWidth(1.0)
   left,right=(45,36) if number%2 else (36,45)
   width=W-left-right
   def check(x,y,w,h):
@@ -46,7 +53,10 @@ def build():
   if not activity:
    text(bird['cue'],left,661,width)
    x=left+12; bottom=190; w=width-24; h=435; check(x,bottom,w,h)
-   if bird['kind']=='cardinal':
+   if ready:
+    c.drawImage(ImageReader(str(approved[bird['kind']])),x,bottom,width=w,height=h,preserveAspectRatio=True,anchor='c')
+    text('APPROVED TEST IMAGE: still requires final print review.',left,168,width,SMALL)
+   elif bird['kind']=='cardinal':
     img=ROOT/'books/book-001/assets/test-illustration/northern-cardinal-style-test-2026-11-15.png'
     c.drawImage(ImageReader(str(img)),x,bottom,width=w,height=h,preserveAspectRatio=True,anchor='c')
     text('STYLE SAMPLE ONLY: anatomy and resolution not approved.',left,168,width,SMALL)

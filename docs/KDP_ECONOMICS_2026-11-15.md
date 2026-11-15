@@ -10,3 +10,6 @@ Assuming 64 pages, large trim 8.5 × 11 in, black ink/white paper, no bleed, sta
 
 ## Milestone 1C source recheck
 All three official links above again returned proxy 403 on 2026-11-15 00:30 UTC. The user supplied the US $9.99 / Canada C$13.99 60% thresholds and US $2.84 / Canada C$3.53 print costs as official-source observations. Treat them as externally supplied figures, not independently verified current policy. Assumptions, arithmetic and other cost exclusions above are unchanged.
+
+## Milestone 1D external review — 2026-11-14 Toronto
+The user reports external verification of the stated US/Canada costs and 60% thresholds against the official references above. Exact reviewer, source capture and retrieval time are unavailable; Codex itself did not retrieve the pages. This is externally supplied source verification. The arithmetic remains US$3.154 and C$4.864 before other costs, not net profit or demand evidence.

@@ -1,0 +1,37 @@
+{
+  "species": "cardinal",
+  "source_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "svg_paths": 6,
+  "svg_has_image": false,
+  "svg_bytes": 56593,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 109316,
+  "removed_speckle_pixels": 4,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8806,
+  "source_enclosed_white_regions_25px": 34,
+  "vector_enclosed_white_regions_25px": 32,
+  "vector_ink_bbox": [
+    104,
+    157,
+    1161,
+    1448
+  ],
+  "thin_local_maxima_below_075pt_pct": 3.93,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "approval": "unapproved",
+  "source": "User-provided ChatGPT image editing; GitHub commit 363dd1bd3a83c530f6329e20e1a74e2c291a9315, books/book-001/Northern Cardinal Perched on a Branch.png",
+  "retrieval_time_or_creation_details": "User did not provide original edit prompt or generation timestamp; repository commit retains upload."
+}

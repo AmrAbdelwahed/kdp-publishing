@@ -1,0 +1,26 @@
+[
+  {
+    "version": "B1",
+    "asset": "B1-background.png",
+    "source": "OpenAI image-editing tool, using cover-8c/B-front-concept.png and B-source-generated.png as visual references",
+    "date_utc": "2026-11-15",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "sha256": "009b8d1d43c42eb088fe4c1521490cd6dd1ef7ce74456890f02464e63095afe1",
+    "status": "unapproved, no scientific or physical-print approval"
+  },
+  {
+    "version": "B2",
+    "asset": "B2-background.png",
+    "source": "OpenAI image-editing tool, using cover-8c/B-front-concept.png and B-source-generated.png as visual references",
+    "date_utc": "2026-11-15",
+    "native_pixels": [
+      1102,
+      1427
+    ],
+    "sha256": "906a6afbce5119437e78746b02c5712efa3f8a635535c8ed708ccad5dd9e7c1a",
+    "status": "unapproved, no scientific or physical-print approval"
+  }
+]

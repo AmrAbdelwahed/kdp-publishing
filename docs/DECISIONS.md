@@ -82,3 +82,7 @@ The user approved the 64-page structure, selected working art and six activity f
 ## 2026-11-15 — Milestone 8C preliminary cover concepts
 
 The user authorized preliminary cover exploration while the 8B interior's scientific and print blockers remain open. Three original AI-generated front-only concepts and thumbnail comparisons were prepared. Concept B is recommended for user review, not approved as final. The screen-resolution assets fall below KDP's 300-DPI requirement at the intended full-cover size; species, font/artwork rights and print quality remain unapproved. The KDP cover calculator and wrap remain pending finalized specifications. No interior artwork, upload, proof order or publication was performed. See `books/book-001/cover-8c/`.
+
+## 2026-11-15 — Milestone 8D Concept B refinement
+
+The user selected Concept B as the working direction, not a publication approval. Two simplified screen-review variants, independently typeset exact title/subtitle and category text, back-cover copy and a conceptual wrap were prepared. B1 is recommended for further review. AI-edited backgrounds are 1102 × 1427 pixels, about 130 PPI at 8.5 × 11 in; higher-resolution replacement or reconstruction remains pending. The official calculator page was reached but its template could not be downloaded through the configured browser/network. The wrap uses an arbitrary spine and barcode placeholder, has no approved dimensions and must not be uploaded. Interior scientific/print statuses remain unchanged.

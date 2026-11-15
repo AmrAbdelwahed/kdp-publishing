@@ -38,3 +38,6 @@ User approved the 64-page facing-spread direction and three illustration tests, 
 
 ## 2026-11-14 — M1E: vector recovery review
 User authorized vector testing of three existing candidates without generating new AI artwork. Thresholded and traced copies are retained separately; source PNG hashes remain unchanged. Vector paths are provisional, no human approval inferred. Padding reduces the chickadee edge risk while reducing physical art size. Thin-line screening and anatomical review remain unresolved; see books/book-001/artwork/vector-recovery/IMAGE_QUALITY_REPORT.md. Recommendation: manually correct and validate before considering a wider illustration workflow. No proof orders, spending or publication.
+
+## 2026-11-14 — M1F: focused review, anatomical work unresolved
+The user requested reference-based targeted vector corrections. Cornell ID requests returned proxy 403 on 2026-11-15 01:15 UTC. The three traced illustrations contain large connected compound paths; reliable anatomical edits were not made without accessible references. Chickadee blank canvas alone was reframed, preserving all paths and transforms, and a provisional proof plus targeted editor briefs were prepared. Decision REVISE; the existing PDF is a review artifact, not a completed corrected final or approval to produce 27 further illustrations.

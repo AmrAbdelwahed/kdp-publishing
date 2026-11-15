@@ -94,3 +94,7 @@ The user selected B1 and provided a KDP template for the 64-page, 8.5 × 11-inch
 ## 2026-11-15 — Milestone 8F B1 print preflight
 
 The approved B1 layout remains frozen and its 8F review render is pixel-identical to 8E. The official white-paper formula gives a 0.144128-inch spine and 17.394128-inch wrap, matching the user-supplied template's drawn edge and rounding to its printed width. The supplied PDF MediaBox is 0.377197 pt narrower; KDP Previewer confirmation remains pending. A separate vector layout with the entire scene intentionally missing and native, overlapping reference crops were prepared. No genuinely detailed high-resolution scene or separate artwork was available; the ~130-PPI review image remains and exact ChatGPT prompts and slot dimensions are documented. The cover is not print-ready. No interior or prior source assets changed and no KDP upload, proof order or publication occurred. See `books/book-001/cover-8f/`.
+
+## 2026-11-15 — Milestone 8G artwork availability
+
+The user displayed a new B1 scene but its original PNG was not mounted or otherwise available as a file. Its stated dimensions imply approximately 163 PPI at the existing placement; the dimensions and hash cannot yet be verified. The official Real-ESRGAN Vulkan executable found no usable device; an ncnn CPU smoke test on an unrelated 32-pixel crop succeeded. No new-scene reconstruction, integration, approval or publishing action occurred. See `books/book-001/cover-8g/STATUS_AND_TOOL_CHECK.md`.

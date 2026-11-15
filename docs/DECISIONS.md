@@ -70,3 +70,7 @@ User kept B19/B20/B21/B23/B24 visually and requested one B22 edit. Six final spe
 ## 2026-11-15 — Milestone 7 interior review
 
 User accepted all 30 as working visual candidates only and authorized an interior review. The selected B22 v2 remains uncorrected because a reliable localized path edit could not be established; its activity avoids asserting invisible markings. B26 is provisionally interpreted as adult nonbreeding winter plumage, supported by Cornell's seasonal description, subject to artwork review. The 64-page draft includes revised activities; source-specific, scientific, human and physical-print gates remain open. See `books/book-001/interior-review/INTERIOR_QC.md`.
+
+## 2026-11-15 — Milestone 8A activity and claim review
+
+The user approved the 64-page structure and selected all 30 illustrations as working assets, without scientific or print approval. The activity review now uses six formats, source-specific clues and 30 answer entries. All 30 Cornell ID pages, including B08, were retrieved; the 150-row log separates identification-text checks from pending anatomy, occurrence, suitability and human review. Eight artwork issues were conservatively classified as publication blockers; no reliable local path edit was established, and no artwork was regenerated. See `books/book-001/interior-8a/`.

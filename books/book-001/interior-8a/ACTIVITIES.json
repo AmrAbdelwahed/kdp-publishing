@@ -1,0 +1,812 @@
+[
+  {
+    "species_id": "B01",
+    "species": "Northern Cardinal",
+    "page": 3,
+    "format": "challenge",
+    "title": "MASK MYSTERY",
+    "fact": "A male Northern Cardinal has a black face around its bill.",
+    "instruction": "Where is the dark face clue?",
+    "options": [
+      "Around the bill",
+      "On the tail",
+      "On the feet"
+    ],
+    "answer": "A",
+    "observation": "Look for a bird’s bill. Is its shape easy to see?",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Northern_Cardinal/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.859369+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Mask and bill are outlined; colour and anatomy require human confirmation.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B02",
+    "species": "Blue Jay",
+    "page": 5,
+    "format": "compare",
+    "title": "ABOVE OR BELOW?",
+    "fact": "A Blue Jay is blue, black and white above. Its underparts are white or light gray.",
+    "instruction": "Which part has the blue?",
+    "options": [
+      "A  Above",
+      "B  Underneath"
+    ],
+    "answer": "A",
+    "observation": "Notice one colour on a bird. Was it above or below?",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Blue_Jay/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.860109+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Necklace is filled; white wingbar is not clearly delineated in the working art.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B03",
+    "species": "American Robin",
+    "page": 7,
+    "format": "colour",
+    "title": "ROBIN COLOUR KEY",
+    "fact": "An American Robin has warm orange underparts and a darker head.",
+    "instruction": "Colour the two clue swatches: ORANGE for underparts and DARK for head.",
+    "options": [
+      "ORANGE: underparts",
+      "DARK: head"
+    ],
+    "answer": "Orange / dark",
+    "observation": "Can you find an orange colour outdoors? It need not be a bird.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/American_Robin/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.860602+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Orange underparts lack a clear continuous boundary; colour-key task avoids claiming one is drawn.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B04",
+    "species": "Black-capped Chickadee",
+    "page": 9,
+    "format": "journal",
+    "title": "A CHICKADEE CASE",
+    "fact": "Black-capped and Carolina Chickadees both have a black cap and bib with pale cheeks.",
+    "instruction": "IMAGINARY SIGHTING: cap dark, cheeks pale. Can these clues alone tell which chickadee it is?",
+    "options": [
+      "Black-capped",
+      "Carolina",
+      "Not enough clues"
+    ],
+    "answer": "C",
+    "observation": "If you see a small bird, note one clue without guessing its name.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.861010+00:00",
+        "section": "Color Pattern"
+      },
+      {
+        "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.861442+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Cap, cheek and bib areas are outlined; illustration alone cannot separate the lookalikes.",
+    "case_note": "Cap: dark   |   Cheeks: pale"
+  },
+  {
+    "species_id": "B05",
+    "species": "Carolina Chickadee",
+    "page": 11,
+    "format": "draw",
+    "title": "CAP • CHEEK • BIB",
+    "fact": "A Carolina Chickadee has a black cap, pale cheeks and a black bib.",
+    "instruction": "Make a pattern key: shade CAP and BIB dark. Leave CHEEK pale. These bands are a key, not a bird portrait.",
+    "options": [
+      "CAP",
+      "CHEEK",
+      "BIB"
+    ],
+    "answer": "Dark / pale / dark",
+    "observation": "Look for dark and pale shapes on any bird or picture.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.861442+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Cap, cheek and bib areas are outlined; the diagram is a conceptual key, not a second portrait.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B06",
+    "species": "Tufted Titmouse",
+    "page": 13,
+    "format": "lab",
+    "title": "TITMOUSE CLUE LINKS",
+    "fact": "A Tufted Titmouse is gray above and white below, with a black patch just above its bill.",
+    "instruction": "Connect each body clue to its colour. Use the fact above.",
+    "options": [
+      "Above=gray",
+      "Below=white",
+      "Patch=black"
+    ],
+    "answer": "1–B, 2–C, 3–A",
+    "observation": "Notice a bird’s head and body. Are they the same shade?",
+    "intended_sex_plumage": "Adult; sex unspecified; local and seasonal distribution unverified.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.862279+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "A small area above bill is outlined; check its shape and position against a guide.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B07",
+    "species": "White-breasted Nuthatch",
+    "page": 15,
+    "format": "challenge",
+    "title": "PALE-FACE FINDER",
+    "fact": "A White-breasted Nuthatch has a pale face and pale underparts.",
+    "instruction": "Which pair is pale?",
+    "options": [
+      "Face and underparts",
+      "Tail and bill",
+      "Feet and crown"
+    ],
+    "answer": "A",
+    "observation": "Watch a bird or picture for one light area.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/White-breasted_Nuthatch/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.863163+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Pale regions cannot be inferred from black-and-white outlines; page supplies the colour clue.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B08",
+    "species": "Red-breasted Nuthatch",
+    "page": 17,
+    "format": "compare",
+    "title": "TWO HEAD LINES",
+    "fact": "A Red-breasted Nuthatch has a dark stripe through its eye and a white stripe above the eye.",
+    "instruction": "Which stripe is white?",
+    "options": [
+      "A  Above the eye",
+      "B  Through the eye"
+    ],
+    "answer": "A",
+    "observation": "Can you spot a line on a bird’s head in real life or a picture?",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.867615+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Head line positions are suggested in the art; the new schematic explains their relative positions and is not a portrait.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B09",
+    "species": "Downy Woodpecker",
+    "page": 19,
+    "format": "colour",
+    "title": "WOODPECKER CHECKS",
+    "fact": "A Downy Woodpecker has black-and-white checked wings and a striped head.",
+    "instruction": "Use the pattern key: colour the squares marked BLACK. Leave the WHITE squares uncoloured.",
+    "options": [
+      "BLACK",
+      "WHITE"
+    ],
+    "answer": "Black / white checks",
+    "observation": "Look for a repeated pattern on a bird or in your home.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Downy_Woodpecker/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.991475+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Working wing uses broad filled bands rather than an evident checked pattern; artwork needs correction.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B10",
+    "species": "Hairy Woodpecker",
+    "page": 21,
+    "format": "journal",
+    "title": "NOT ENOUGH CLUES",
+    "fact": "Downy and Hairy Woodpeckers both have striped heads and black-and-white checked wings.",
+    "instruction": "IMAGINARY SIGHTING: striped head, checked wing; bill hidden. Can these clues alone settle the species?",
+    "options": [
+      "Yes, Downy",
+      "Yes, Hairy",
+      "Not enough clues"
+    ],
+    "answer": "C",
+    "observation": "Record one clue and one hidden detail on a bird or picture.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Hairy_Woodpecker/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.017137+00:00",
+        "section": "Color Pattern"
+      },
+      {
+        "url": "https://www.allaboutbirds.org/guide/Downy_Woodpecker/id",
+        "retrieved_at_utc": "2026-11-15T06:04:38.991475+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Working wing uses broad filled bands rather than an evident checked pattern; artwork needs correction.",
+    "case_note": "Head: striped   |   Wing: checked   |   Bill: hidden"
+  },
+  {
+    "species_id": "B11",
+    "species": "Red-bellied Woodpecker",
+    "page": 23,
+    "format": "draw",
+    "title": "BACK-STRIPE PATTERN",
+    "fact": "A Red-bellied Woodpecker has a black-and-white striped back.",
+    "instruction": "Make a pattern key: shade every other band. Start with the band marked BLACK.",
+    "options": [
+      "BLACK",
+      "WHITE",
+      "BLACK",
+      "WHITE"
+    ],
+    "answer": "Black / white / black / white",
+    "observation": "Look for a stripe pattern on a bird or somewhere nearby.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Red-bellied_Woodpecker/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.019554+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Striped areas appear on the drawing; verify whether the actual back marking is accurately placed.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B12",
+    "species": "Northern Flicker",
+    "page": 25,
+    "format": "lab",
+    "title": "FLICKER COLOUR LAB",
+    "fact": "Yellow-shafted flickers have yellow underwings; red-shafted flickers have red underwings. Their ranges can meet.",
+    "instruction": "Connect each form to its underwing colour.",
+    "options": [
+      "Yellow-shafted=yellow",
+      "Red-shafted=red"
+    ],
+    "answer": "1–B, 2–A",
+    "observation": "Imagine a flying bird. Which part might be hard to see?",
+    "intended_sex_plumage": "Proposed male yellow-shafted form; sex and form require reference review; ranges vary and overlap or intergrade.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Northern_Flicker/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.038785+00:00",
+        "section": "Regional Differences"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Wing colour differs between forms and is not directly observable in this outline; spots are filled and small.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B13",
+    "species": "Mourning Dove",
+    "page": 27,
+    "format": "challenge",
+    "title": "DOVE SPOT SEARCH",
+    "fact": "A Mourning Dove has dark spots on its wings.",
+    "instruction": "Where should a detective look for spots?",
+    "options": [
+      "On the wings",
+      "On the bill",
+      "On the feet"
+    ],
+    "answer": "A",
+    "observation": "Notice whether a bird’s wing looks plain or patterned.",
+    "intended_sex_plumage": "Not specified in prior artwork; determine with reference before final copy.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Mourning_Dove/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.062799+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Wing spots are shown as outlines; placement and colour are not independently approved.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B14",
+    "species": "Rock Pigeon",
+    "page": 29,
+    "format": "compare",
+    "title": "PIGEON PATTERNS",
+    "fact": "Rock Pigeon wing patterns vary. Many have two dark bands; others have spots or plain wings.",
+    "instruction": "Which sample shows two bands?",
+    "options": [
+      "A  Two bands",
+      "B  Spots"
+    ],
+    "answer": "A",
+    "observation": "Look for a patterned wing, or sketch a pattern from memory.",
+    "intended_sex_plumage": "Adult, typical gray-pattern plumage; variation, regional occurrence and sex unverified.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Rock_Pigeon/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.083101+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "The pattern examples are concepts; candidate wing pattern needs source and print review.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B15",
+    "species": "American Goldfinch",
+    "page": 31,
+    "format": "colour",
+    "title": "GOLDFINCH SEASON",
+    "fact": "An adult male American Goldfinch is bright yellow in spring and early summer, with a black forehead.",
+    "instruction": "Colour the clue swatches for this season: YELLOW for body and BLACK for forehead.",
+    "options": [
+      "YELLOW: body",
+      "BLACK: forehead"
+    ],
+    "answer": "Yellow / black",
+    "observation": "Notice the season. Does that help you describe what you see?",
+    "intended_sex_plumage": "Proposed adult male breeding plumage; nonbreeding appearance and range/season require source review.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/American_Goldfinch/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.106673+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Forehead region and face may not represent the reference accurately; seedhead has small areas.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B16",
+    "species": "House Finch",
+    "page": 33,
+    "format": "journal",
+    "title": "FINCH FILE",
+    "fact": "Male House Finches and male Purple Finches can both show red on the head and breast.",
+    "instruction": "IMAGINARY SIGHTING: red head, other clues hidden. Is the species certain from this clue alone?",
+    "options": [
+      "House Finch",
+      "Purple Finch",
+      "Not enough clues"
+    ],
+    "answer": "C",
+    "observation": "Write one colour clue and one detail you could not see.",
+    "intended_sex_plumage": "Proposed adult male; colour and plumage vary; sex, marks, range and season require source review.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/House_Finch/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.115741+00:00",
+        "section": "Color Pattern"
+      },
+      {
+        "url": "https://www.allaboutbirds.org/guide/Purple_Finch/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.123772+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Colour is not conveyed by black-and-white art; lookalike task explicitly permits uncertainty.",
+    "case_note": "Head: red   |   Other clues: hidden"
+  },
+  {
+    "species_id": "B17",
+    "species": "Purple Finch",
+    "page": 35,
+    "format": "draw",
+    "title": "PURPLE FINCH CLUES",
+    "fact": "A male Purple Finch has pink-red on its head and breast.",
+    "instruction": "Colour the HEAD and BREAST boxes pink-red. Leave TAIL uncoloured. This is a region key, not an exact feather boundary.",
+    "options": [
+      "HEAD",
+      "BREAST"
+    ],
+    "answer": "Head / breast",
+    "observation": "Find a bird’s head and breast before trying to name it.",
+    "intended_sex_plumage": "Proposed adult male; colour and plumage vary; sex, marks, range and season require source review.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Purple_Finch/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.123772+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Colour is not conveyed by black-and-white art; colour-region key is conceptual.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B18",
+    "species": "House Sparrow",
+    "page": 37,
+    "format": "lab",
+    "title": "SPARROW FACE MAP",
+    "fact": "A male House Sparrow has a gray head, white cheeks and a black bib.",
+    "instruction": "Connect each body part to its colour.",
+    "options": [
+      "Head=gray",
+      "Cheeks=white",
+      "Bib=black"
+    ],
+    "answer": "1–B, 2–C, 3–A",
+    "observation": "Sketch a head and mark any part you could not see.",
+    "intended_sex_plumage": "Proposed adult male; sex, markings and regional and seasonal occurrence require source review.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/House_Sparrow/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.125046+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Bib and cheek areas are outlined but placement and actual plumage require review.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B19",
+    "species": "Song Sparrow",
+    "page": 39,
+    "format": "challenge",
+    "title": "STREAK DETECTIVE",
+    "fact": "A Song Sparrow has heavy streaks on its chest and sides. Streaking varies by region.",
+    "instruction": "Where are the streaks described?",
+    "options": [
+      "Chest and sides",
+      "Bill only",
+      "Feet only"
+    ],
+    "answer": "A",
+    "observation": "Look for streaks on a bird or in this picture.",
+    "intended_sex_plumage": "Adult, sex unspecified; regional plumage varies",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Song_Sparrow/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.133697+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Streaks are filled dark; overall body remains colourable and requires actual-size inspection.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B20",
+    "species": "White-throated Sparrow",
+    "page": 41,
+    "format": "compare",
+    "title": "TWO STRIPE FORMS",
+    "fact": "White-throated Sparrows have white-striped or tan-striped head forms.",
+    "instruction": "In the tan-striped form, what colour are the pale head stripes called?",
+    "options": [
+      "A  White",
+      "B  Tan"
+    ],
+    "answer": "B",
+    "observation": "Notice a head pattern; write UNSURE if colour is hidden.",
+    "intended_sex_plumage": "Adult, white-striped head form, sex unspecified",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/White-throated_Sparrow/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.138884+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "A small eye-to-bill region is outlined, but placement and colourability require expert/print inspection.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B21",
+    "species": "White-crowned Sparrow",
+    "page": 43,
+    "format": "colour",
+    "title": "CROWN COLOUR CLUES",
+    "fact": "Adult White-crowned Sparrows have black-and-white crown stripes. Young birds have brown head markings.",
+    "instruction": "Colour the ADULT key black and white; colour the YOUNG key brown.",
+    "options": [
+      "ADULT: black / white",
+      "YOUNG: brown"
+    ],
+    "answer": "Black / white; brown",
+    "observation": "Would you describe a bird as adult or UNSURE?",
+    "intended_sex_plumage": "Adult, sex unspecified",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/White-crowned_Sparrow/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.157301+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Crown bands are filled; adult/young comparison is on a separate abstract key.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B22",
+    "species": "Dark-eyed Junco",
+    "page": 45,
+    "format": "journal",
+    "title": "JUNCO NOTE",
+    "fact": "Dark-eyed Juncos vary by region. Their bills are often pink; outer tail feathers can show white.",
+    "instruction": "IMAGINARY SIGHTING: the bill is visible but the tail is hidden. Which detail can you record?",
+    "options": [
+      "The bill",
+      "The hidden tail colour",
+      "An exact age"
+    ],
+    "answer": "A",
+    "observation": "Record one visible detail; mark a hidden part NOT SEEN.",
+    "intended_sex_plumage": "Adult slate-colored form; sex unspecified.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.201200+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Selected v2 lacks a clear slate-to-pale boundary and obvious outer-tail regions; task does not claim they are shown.",
+    "case_note": "Bill: visible   |   Tail: hidden"
+  },
+  {
+    "species_id": "B23",
+    "species": "Chipping Sparrow",
+    "page": 47,
+    "format": "draw",
+    "title": "SUMMER CROWN KEY",
+    "fact": "A summer Chipping Sparrow has a rusty crown and a dark line through its eye.",
+    "instruction": "Make a head-pattern key: colour the crown band rusty. Draw a dark line through the eye dot.",
+    "options": [
+      "RUSTY CROWN",
+      "EYE DOT"
+    ],
+    "answer": "Rusty crown / dark eye line",
+    "observation": "Notice whether a bird has a visible line by its eye.",
+    "intended_sex_plumage": "Breeding adult, sex unspecified",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Chipping_Sparrow/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.201434+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Eye line and crown boundary are suggested; the key is schematic and requires anatomy review.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B24",
+    "species": "Carolina Wren",
+    "page": 49,
+    "format": "lab",
+    "title": "WREN CLUE LINKS",
+    "fact": "Carolina Wrens have a white eyebrow, a dark bill and warm buffy-orange underparts.",
+    "instruction": "Connect each clue to its colour.",
+    "options": [
+      "Eyebrow=white",
+      "Bill=dark",
+      "Underparts=buffy-orange"
+    ],
+    "answer": "1–B, 2–C, 3–A",
+    "observation": "Listen or look quietly; record only what you notice.",
+    "intended_sex_plumage": "Adult, sex unspecified",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Carolina_Wren/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.205461+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Eyebrow line, throat and bill appear in outline; region colours are given by the activity key.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B25",
+    "species": "House Wren",
+    "page": 51,
+    "format": "challenge",
+    "title": "WREN PATTERN HUNT",
+    "fact": "House Wrens have darker bars on their wings and tail.",
+    "instruction": "Which parts carry bars?",
+    "options": [
+      "Wings and tail",
+      "Bill and eye",
+      "Feet and belly"
+    ],
+    "answer": "A",
+    "observation": "Look for repeated marks on a wing or tail.",
+    "intended_sex_plumage": "Adult, sex unspecified",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/House_Wren/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.211612+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Tail and wing bars are outlined; coarse enclosed-region count fell from 29 to 25 in the trace, so inspect junctions.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B26",
+    "species": "European Starling",
+    "page": 53,
+    "format": "compare",
+    "title": "STARLING SEASONS",
+    "fact": "In fresh winter plumage, European Starlings are brown with pale spots. Summer birds look darker and iridescent.",
+    "instruction": "Which example shows the fresh winter pattern?",
+    "options": [
+      "A  Pale spots",
+      "B  Darker look"
+    ],
+    "answer": "A",
+    "observation": "Note the season when you observe a bird or picture.",
+    "intended_sex_plumage": "Working interpretation: adult, sex unspecified, fresh nonbreeding winter plumage; spotted body and long narrow bill are consistent with Cornell text, but image anatomy requires review.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/European_Starling/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.263092+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Spotted winter interpretation is plausible from source; tiny spots and bill still need print/anatomy review.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B27",
+    "species": "Common Grackle",
+    "page": 55,
+    "format": "colour",
+    "title": "GRACKLE EYE KEY",
+    "fact": "Adult Common Grackles have a golden eye. Young birds have dark eyes.",
+    "instruction": "Colour the ADULT eye golden yellow and the YOUNG eye dark.",
+    "options": [
+      "ADULT: golden",
+      "YOUNG: dark"
+    ],
+    "answer": "Golden / dark",
+    "observation": "Can you see a bird’s eye colour? UNSURE is okay.",
+    "intended_sex_plumage": "Adult, sex unspecified",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Common_Grackle/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.270837+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Eye is represented by a small outline; colour is supplied by the activity key.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B28",
+    "species": "Red-winged Blackbird",
+    "page": 57,
+    "format": "journal",
+    "title": "HIDDEN SHOULDER",
+    "fact": "Male Red-winged Blackbirds have red and yellow shoulder patches; females look different.",
+    "instruction": "IMAGINARY SIGHTING: the shoulder is hidden. What should your notes say about its colours?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Not seen"
+    ],
+    "answer": "C",
+    "observation": "Practise writing NOT SEEN for any hidden part.",
+    "intended_sex_plumage": "Adult male",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Red-winged_Blackbird/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.283671+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Shoulder patch is outlined; its exact placement and colouring space need source/print review.",
+    "case_note": "Shoulder: hidden   |   Colours: ?"
+  },
+  {
+    "species_id": "B29",
+    "species": "Northern Mockingbird",
+    "page": 59,
+    "format": "draw",
+    "title": "MOCKINGBIRD BARS",
+    "fact": "Northern Mockingbirds have two white wing bars and white outer tail feathers.",
+    "instruction": "Make a wing-pattern key: outline two bars inside the wing shape and leave them white. This is not a bird portrait.",
+    "options": [
+      "TWO PALE BARS"
+    ],
+    "answer": "Two pale bars",
+    "observation": "Look for wing marks when a bird is still.",
+    "intended_sex_plumage": "Adult, sex unspecified",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.284296+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "The working art does not clearly separate both pale wing bars; the activity uses a separate pattern key.",
+    "case_note": ""
+  },
+  {
+    "species_id": "B30",
+    "species": "Eastern Bluebird",
+    "page": 61,
+    "format": "lab",
+    "title": "BLUEBIRD COLOUR LINKS",
+    "fact": "A male Eastern Bluebird is blue above, with a rusty throat and breast.",
+    "instruction": "Connect each body region to its colour.",
+    "options": [
+      "Upperparts=blue",
+      "Throat and breast=rusty"
+    ],
+    "answer": "1–B, 2–A",
+    "observation": "Name a body region you can see, or record UNSURE.",
+    "intended_sex_plumage": "Adult male",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Eastern_Bluebird/id",
+        "retrieved_at_utc": "2026-11-15T06:04:39.290132+00:00",
+        "section": "Color Pattern"
+      }
+    ],
+    "fact_status": "SOURCE CHECKED against the listed section; expert review pending",
+    "illustration_status": "Head/breast boundary and facial marking may mislead; the exercise uses a separate region key.",
+    "case_note": ""
+  }
+]

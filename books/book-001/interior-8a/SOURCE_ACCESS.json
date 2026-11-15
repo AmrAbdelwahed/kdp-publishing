@@ -1,0 +1,233 @@
+[
+  {
+    "source_id": "B01",
+    "url": "https://www.allaboutbirds.org/guide/Northern_Cardinal/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.859369+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Northern_Cardinal/id"
+  },
+  {
+    "source_id": "B02",
+    "url": "https://www.allaboutbirds.org/guide/Blue_Jay/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.860109+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Blue_Jay/id"
+  },
+  {
+    "source_id": "B03",
+    "url": "https://www.allaboutbirds.org/guide/American_Robin/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.860602+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/American_Robin/id"
+  },
+  {
+    "source_id": "B04",
+    "url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.861010+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/id"
+  },
+  {
+    "source_id": "B05",
+    "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.861442+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/id"
+  },
+  {
+    "source_id": "B06",
+    "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.862279+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/id"
+  },
+  {
+    "source_id": "B07",
+    "url": "https://www.allaboutbirds.org/guide/White-breasted_Nuthatch/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.863163+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/White-breasted_Nuthatch/id"
+  },
+  {
+    "source_id": "B08",
+    "url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.867615+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id"
+  },
+  {
+    "source_id": "B09",
+    "url": "https://www.allaboutbirds.org/guide/Downy_Woodpecker/id",
+    "retrieved_at_utc": "2026-11-15T06:04:38.991475+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Downy_Woodpecker/id"
+  },
+  {
+    "source_id": "B10",
+    "url": "https://www.allaboutbirds.org/guide/Hairy_Woodpecker/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.017137+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Hairy_Woodpecker/id"
+  },
+  {
+    "source_id": "B11",
+    "url": "https://www.allaboutbirds.org/guide/Red-bellied_Woodpecker/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.019554+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Red-bellied_Woodpecker/id"
+  },
+  {
+    "source_id": "B12",
+    "url": "https://www.allaboutbirds.org/guide/Northern_Flicker/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.038785+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Northern_Flicker/id"
+  },
+  {
+    "source_id": "B13",
+    "url": "https://www.allaboutbirds.org/guide/Mourning_Dove/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.062799+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Mourning_Dove/id"
+  },
+  {
+    "source_id": "B14",
+    "url": "https://www.allaboutbirds.org/guide/Rock_Pigeon/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.083101+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Rock_Pigeon/id"
+  },
+  {
+    "source_id": "B15",
+    "url": "https://www.allaboutbirds.org/guide/American_Goldfinch/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.106673+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/American_Goldfinch/id"
+  },
+  {
+    "source_id": "B16",
+    "url": "https://www.allaboutbirds.org/guide/House_Finch/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.115741+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/House_Finch/id"
+  },
+  {
+    "source_id": "B17",
+    "url": "https://www.allaboutbirds.org/guide/Purple_Finch/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.123772+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Purple_Finch/id"
+  },
+  {
+    "source_id": "B18",
+    "url": "https://www.allaboutbirds.org/guide/House_Sparrow/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.125046+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/House_Sparrow/id"
+  },
+  {
+    "source_id": "B19",
+    "url": "https://www.allaboutbirds.org/guide/Song_Sparrow/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.133697+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Song_Sparrow/id"
+  },
+  {
+    "source_id": "B20",
+    "url": "https://www.allaboutbirds.org/guide/White-throated_Sparrow/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.138884+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/White-throated_Sparrow/id"
+  },
+  {
+    "source_id": "B21",
+    "url": "https://www.allaboutbirds.org/guide/White-crowned_Sparrow/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.157301+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/White-crowned_Sparrow/id"
+  },
+  {
+    "source_id": "B22",
+    "url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.201200+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Dark-eyed_Junco/id"
+  },
+  {
+    "source_id": "B23",
+    "url": "https://www.allaboutbirds.org/guide/Chipping_Sparrow/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.201434+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Chipping_Sparrow/id"
+  },
+  {
+    "source_id": "B24",
+    "url": "https://www.allaboutbirds.org/guide/Carolina_Wren/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.205461+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Carolina_Wren/id"
+  },
+  {
+    "source_id": "B25",
+    "url": "https://www.allaboutbirds.org/guide/House_Wren/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.211612+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/House_Wren/id"
+  },
+  {
+    "source_id": "B26",
+    "url": "https://www.allaboutbirds.org/guide/European_Starling/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.263092+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/European_Starling/id"
+  },
+  {
+    "source_id": "B27",
+    "url": "https://www.allaboutbirds.org/guide/Common_Grackle/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.270837+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Common_Grackle/id"
+  },
+  {
+    "source_id": "B28",
+    "url": "https://www.allaboutbirds.org/guide/Red-winged_Blackbird/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.283671+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Red-winged_Blackbird/id"
+  },
+  {
+    "source_id": "B29",
+    "url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.284296+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Northern_Mockingbird/id"
+  },
+  {
+    "source_id": "B30",
+    "url": "https://www.allaboutbirds.org/guide/Eastern_Bluebird/id",
+    "retrieved_at_utc": "2026-11-15T06:04:39.290132+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Eastern_Bluebird/id"
+  },
+  {
+    "source_id": "B08_ALT",
+    "url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/overview",
+    "retrieved_at_utc": "2026-11-15T06:04:39.295392+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/overview"
+  },
+  {
+    "source_id": "B04_COMPARE",
+    "url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/species-compare",
+    "retrieved_at_utc": "2026-11-15T06:04:39.302433+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/species-compare"
+  },
+  {
+    "source_id": "B05_COMPARE",
+    "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/species-compare",
+    "retrieved_at_utc": "2026-11-15T06:04:39.357412+00:00",
+    "http_status": 200,
+    "final_url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/species-compare"
+  }
+]

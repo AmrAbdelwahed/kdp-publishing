@@ -1,0 +1,86 @@
+[
+  {
+    "name": "cardinal-reference",
+    "file": "cardinal-reference.png",
+    "source_rect_px": [
+      145,
+      145,
+      750,
+      740
+    ],
+    "original_pixels": [
+      605,
+      595
+    ],
+    "front_trim_top_left_inches": [
+      1.118421052631579,
+      4.432375613174492
+    ],
+    "placement_inches": [
+      4.666515426497278,
+      4.5865451997196915
+    ],
+    "minimum_pixels_300ppi": [
+      1400,
+      1376
+    ],
+    "sha256": "328b5e56a52a5e30046607151198ae85bc223b786d68772c93a370e85d3b60c7",
+    "status": "REFERENCE ONLY: contains background and overlap; not an isolated or high-resolution asset"
+  },
+  {
+    "name": "magnifier-notebook-reference",
+    "file": "magnifier-notebook-reference.png",
+    "source_rect_px": [
+      20,
+      105,
+      900,
+      903
+    ],
+    "original_pixels": [
+      880,
+      798
+    ],
+    "front_trim_top_left_inches": [
+      0.1542649727767695,
+      4.124036440084092
+    ],
+    "placement_inches": [
+      6.787658802177859,
+      6.151366503153469
+    ],
+    "minimum_pixels_300ppi": [
+      2037,
+      1846
+    ],
+    "sha256": "3a3a2b3c53c4f5179276467e23a52ead85b33fa9c429fef419af75572ae2d627",
+    "status": "REFERENCE ONLY: contains background and overlap; not an isolated or high-resolution asset"
+  },
+  {
+    "name": "binoculars-reference",
+    "file": "binoculars-reference.png",
+    "source_rect_px": [
+      490,
+      590,
+      1102,
+      903
+    ],
+    "original_pixels": [
+      612,
+      313
+    ],
+    "front_trim_top_left_inches": [
+      3.779491833030853,
+      7.862648913805185
+    ],
+    "placement_inches": [
+      4.720508166969147,
+      2.4127540294323757
+    ],
+    "minimum_pixels_300ppi": [
+      1417,
+      724
+    ],
+    "sha256": "ca543f98e0286459834702ba025f77c37b06e24d30f3fe05209c7f24dd15e3f3",
+    "status": "REFERENCE ONLY: contains background and overlap; not an isolated or high-resolution asset"
+  }
+]

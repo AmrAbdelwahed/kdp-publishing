@@ -31,7 +31,7 @@ def centered(c,text,y,font,size,x):
     c.setFont(font,size);c.drawCentredString(x,y,text)
 
 
-def build():
+def build(include_scene=True):
     OUT.mkdir(parents=True,exist_ok=True);g=template_geometry()
     (OUT/'TEMPLATE_GEOMETRY.json').write_text(json.dumps(g,indent=2)+'\n')
     # Crop original 8D pixels, without enlargement. The crop still includes detailed
@@ -60,7 +60,8 @@ def build():
     # Front vector background fills the outer bleed; scene remains the low-PPI native crop.
     c.setFillColor(HexColor('#fdf3e0'));c.rect(fx,by+535,w-fx,810-(by+535),fill=1,stroke=0)
     scene_y=by+(1427-1333)*792/1427;scene_h=903*792/1427
-    c.drawImage(str(OUT/'B1-scene-native-crop.png'),fx,scene_y,width=612,height=scene_h,mask='auto')
+    if include_scene:
+        c.drawImage(str(OUT/'B1-scene-native-crop.png'),fx,scene_y,width=612,height=scene_h,mask='auto')
     c.setFillColor(cream);c.roundRect(fx+28,by+535,556,233,14,fill=1,stroke=0)
     c.setFillColor(green);mid=fx+306
     centered(c,'Backyard',by+715,'BirdBold',49,mid);centered(c,'Bird Detectives',by+662,'BirdBold',49,mid)

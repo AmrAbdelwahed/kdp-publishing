@@ -28,9 +28,16 @@ def process(species_id, source, revision, batch=BATCH):
     if not batch.is_relative_to(art_root) or not batch.name.startswith('batch-'):
         raise ValueError('Batch must be a batch-* directory inside the artwork directory')
     prompts = json.loads((batch / 'generation-prompts.json').read_text())
-    spec = next((x for x in prompts if x['species_id'] == species_id), None)
-    if not spec:
-        raise ValueError(f'{species_id} has no recorded prompt in {batch}')
+    for revision_file in sorted(batch.glob('revision-prompts-*.json')):
+        prompts += json.loads(revision_file.read_text())
+    matches = [x for x in prompts if x['species_id'] == species_id and x.get('revision', 'v1') == revision]
+    if len(matches) != 1:
+        raise ValueError(f'Expected exactly one recorded prompt for {species_id} {revision} in {batch}')
+    spec = matches[0]
+    for path, expected in spec.get('reference_sha256', {}).items():
+        reference = (ROOT / path).resolve()
+        if not reference.is_relative_to(ROOT) or not reference.is_file() or hashlib.sha256(reference.read_bytes()).hexdigest() != expected:
+            raise ValueError(f'Reference identity mismatch: {path}')
     if not spec.get('generation_provenance') or not spec.get('reference_use'):
         raise ValueError('Record actual generation provenance and reference use before processing')
     if not revision or not revision.isalnum():
@@ -72,6 +79,7 @@ def process(species_id, source, revision, batch=BATCH):
                     reference_path=str(REFERENCE.relative_to(ROOT)),
                     reference_sha256=hashlib.sha256(REFERENCE.read_bytes()).hexdigest(),
                     provenance=spec['generation_provenance'], reference_use=spec['reference_use'],
+                    input_reference_hashes=spec.get('reference_sha256', {}),
                     processed_at_utc=datetime.now(timezone.utc).isoformat(),
                     human_approved=False, scientific_review='pending', print_review='pending',
                     warning='Heuristics do not prove closed regions or minimum stroke width; inspect at actual size')

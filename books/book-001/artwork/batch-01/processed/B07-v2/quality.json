@@ -1,0 +1,61 @@
+{
+  "species": "White-breasted Nuthatch",
+  "source_sha256": "9983cc30874bb294aa670ffb913a839ceea9c6d884750d5a23d71cd97f3441c0",
+  "svg_paths": 11,
+  "svg_has_image": false,
+  "svg_bytes": 50251,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 103281,
+  "removed_speckle_pixels": 0,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8881,
+  "source_enclosed_white_regions_25px": 29,
+  "vector_enclosed_white_regions_25px": 29,
+  "vector_ink_bbox": [
+    157,
+    203,
+    1111,
+    1400
+  ],
+  "thin_local_maxima_below_075pt_pct": 2.33,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "placed_art_inches": [
+    4.959,
+    6.042
+  ],
+  "original_ink_bbox": [
+    77,
+    123,
+    1031,
+    1320
+  ],
+  "original_edge_warning": false,
+  "species_id": "B07",
+  "revision": "v2",
+  "source_path": "books/book-001/artwork/batch-01/originals/B07-v2.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "ChatGPT image_gen: one targeted edit of batch B07 v1, with cardinal style reference; original v1 preserved.",
+  "reference_use": "First referenced_image_paths is B07 v1 for editing; second is cardinal source.png for style only.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/batch-01/originals/B07.png": "fa91555262f800e87de6b784da3502a343fb2b672b0907fa500b9f8c4e79ff83",
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T02:36:37.114425+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

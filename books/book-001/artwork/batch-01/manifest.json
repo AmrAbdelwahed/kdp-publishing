@@ -1,49 +1,83 @@
 {
   "batch": "01",
   "master_visual_reference": "cardinal-revised-review/source.png",
-  "master_status": "user accepted visual aesthetic only; not scientific or print approval",
+  "master_status": "User accepted the cardinal visual aesthetic; scientific and print approval remain pending.",
   "entries": [
     {
       "species_id": "B02",
       "species": "Blue Jay",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
-      "classification_reason": "Overall body and pose remain very close to the cardinal reference, despite jay collar and tail bars; the dark collar is filled and the fence lines meet the image edge. Compare bill, body, tail, head and collar to a jay guide; inspect one detected white-region change in the trace.",
-      "classification_basis": "preliminary visual assessment; neither human scientific approval nor print approval",
-      "original_path": "books/book-001/artwork/batch-01/originals/B02.png",
-      "original_sha256": "c2c9eef9aa7935c33ef21ca208d77e7cd0d6edb48a8d028103158980b9c72c71",
-      "svg_path": "books/book-001/artwork/batch-01/processed/B02-v1/B02-provisional.svg",
-      "svg_sha256": "6c98dd48b4415e132e590c656d91cf4eda45d5502cf13d507bd7e8dbbb21f067",
-      "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B02-v1/B02-vector-art.pdf",
-      "vector_pdf_sha256": "c1463f80ea8c81cf42ba511c1e5412af8897d326577002e13587f54065503e7c",
-      "quality_path": "books/book-001/artwork/batch-01/processed/B02-v1/quality.json",
+      "classification_reason": "The replacement has a more horizontal body, a longer barred tail, and a straighter bill than v1; it is visually distinct from the cardinal. However, the necklace remains filled black rather than outlined for colouring, and distinct wing bars are not clear. The source is landscape; inspect its smaller vertical placement and review jay anatomy against an authoritative source.",
+      "classification_basis": "preliminary assistant visual triage; scientific, user visual and print review pending",
+      "original_path": "books/book-001/artwork/batch-01/originals/B02-v2.png",
+      "original_sha256": "3b96d21394863ba35a96894a5c9bfee4225957c0457a1940696840ac6b53f0e9",
+      "svg_path": "books/book-001/artwork/batch-01/processed/B02-v2/B02-provisional.svg",
+      "svg_sha256": "74fa462346964907bbb84ae3cc41c708fb7ef4b847d4a0dd5ee2d789d30db67e",
+      "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B02-v2/B02-vector-art.pdf",
+      "vector_pdf_sha256": "e7a6c851234f86d39f1ce51a89506909e3ec39e2fdde013b8c44312d8aee1ccc",
+      "quality_path": "books/book-001/artwork/batch-01/processed/B02-v2/quality.json",
       "input_pixels": [
-        1122,
-        1402
+        1536,
+        1024
       ],
-      "source_raster_ppi_at_padded_placement": 258.5,
+      "source_raster_ppi_at_padded_placement": 240.9,
       "visual_reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
       "visual_reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
-      "prompt_path": "books/book-001/artwork/batch-01/generation-prompts.json",
-      "generation_provenance": "ChatGPT image_gen tool with supplied cardinal image as referenced_image_paths; exact prompt in prompt file. Exact model and generation time not provided by tool.",
+      "prompt_path": "books/book-001/artwork/batch-01/revision-prompts-v2.json",
+      "generation_provenance": "ChatGPT image_gen: one new Blue Jay candidate; species photo supplied inline in chat visually interpreted by assistant, not supplied as an image-tool input or copied; exact prompt in this record.",
       "scientific_accuracy": "unverified; human reference review required",
       "human_approval": false,
       "print_approval": false,
       "species_reference_url": "https://www.allaboutbirds.org/guide/Blue_Jay/overview",
-      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending.",
+      "prior_revisions": [
+        {
+          "species_id": "B02",
+          "species": "Blue Jay",
+          "review_classification": "NEEDS_TARGETED_CORRECTION",
+          "classification_reason": "Overall body and pose remain very close to the cardinal reference, despite jay collar and tail bars; the dark collar is filled and the fence lines meet the image edge. Compare bill, body, tail, head and collar to a jay guide; inspect one detected white-region change in the trace.",
+          "classification_basis": "preliminary visual assessment; neither human scientific approval nor print approval",
+          "original_path": "books/book-001/artwork/batch-01/originals/B02.png",
+          "original_sha256": "c2c9eef9aa7935c33ef21ca208d77e7cd0d6edb48a8d028103158980b9c72c71",
+          "svg_path": "books/book-001/artwork/batch-01/processed/B02-v1/B02-provisional.svg",
+          "svg_sha256": "6c98dd48b4415e132e590c656d91cf4eda45d5502cf13d507bd7e8dbbb21f067",
+          "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B02-v1/B02-vector-art.pdf",
+          "vector_pdf_sha256": "c1463f80ea8c81cf42ba511c1e5412af8897d326577002e13587f54065503e7c",
+          "quality_path": "books/book-001/artwork/batch-01/processed/B02-v1/quality.json",
+          "input_pixels": [
+            1122,
+            1402
+          ],
+          "source_raster_ppi_at_padded_placement": 258.5,
+          "visual_reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+          "visual_reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+          "prompt_path": "books/book-001/artwork/batch-01/generation-prompts.json",
+          "generation_provenance": "ChatGPT image_gen tool with supplied cardinal image as referenced_image_paths; exact prompt in prompt file. Exact model and generation time not provided by tool.",
+          "scientific_accuracy": "unverified; human reference review required",
+          "human_approval": false,
+          "print_approval": false,
+          "species_reference_url": "https://www.allaboutbirds.org/guide/Blue_Jay/overview",
+          "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+        }
+      ],
+      "actual_input_reference_hashes": {
+        "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+      },
+      "visual_decision": "PENDING_USER_REVIEW"
     },
     {
       "species_id": "B03",
       "species": "American Robin",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
-      "classification_reason": "The image lacks an obvious continuous boundary for the orange underparts, and its scalloped face/neck transition needs reference review. Check feet, leg attachment and the one detected white-region change in the trace.",
-      "classification_basis": "preliminary visual assessment; neither human scientific approval nor print approval",
-      "original_path": "books/book-001/artwork/batch-01/originals/B03.png",
-      "original_sha256": "ac39000a7db3dd0879c85127526a34de5804da201ece4d214907c92bc3023d0f",
-      "svg_path": "books/book-001/artwork/batch-01/processed/B03-v1/B03-provisional.svg",
-      "svg_sha256": "8d3e4ad61c63b4e950986795524f00d6e89b11aa6a1ddcc3e313c9edfd107f86",
-      "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B03-v1/B03-vector-art.pdf",
-      "vector_pdf_sha256": "146ab0ce82aea8e6d2a7315675dd28121b6b4d535b445c0839b6ea190902200d",
-      "quality_path": "books/book-001/artwork/batch-01/processed/B03-v1/quality.json",
+      "classification_reason": "The scalloped neck is smoother and the ground-standing pose remains. A distinct boundary for orange-red underparts is still not clearly established; it needs reference-guided review. Confirm the feet and leg attachments.",
+      "classification_basis": "preliminary assistant visual triage; scientific, user visual and print review pending",
+      "original_path": "books/book-001/artwork/batch-01/originals/B03-v2.png",
+      "original_sha256": "dd6184801edba133d262c80801c63a3528f74644553a6e948ca16a47f891e1ed",
+      "svg_path": "books/book-001/artwork/batch-01/processed/B03-v2/B03-provisional.svg",
+      "svg_sha256": "05eee1d2eaf0c07c80b473bcf91d152f402b1258b02d586b3f4902a38cdadd09",
+      "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B03-v2/B03-vector-art.pdf",
+      "vector_pdf_sha256": "a8964ffb64fce77fd6fb1f47becaf521b3532829768cb14b6d09466c74a1699f",
+      "quality_path": "books/book-001/artwork/batch-01/processed/B03-v2/quality.json",
       "input_pixels": [
         1122,
         1402
@@ -51,13 +85,48 @@
       "source_raster_ppi_at_padded_placement": 258.5,
       "visual_reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
       "visual_reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
-      "prompt_path": "books/book-001/artwork/batch-01/generation-prompts.json",
-      "generation_provenance": "ChatGPT image_gen tool with supplied cardinal image as referenced_image_paths; exact prompt in prompt file. Exact model and generation time not provided by tool.",
+      "prompt_path": "books/book-001/artwork/batch-01/revision-prompts-v2.json",
+      "generation_provenance": "ChatGPT image_gen: one targeted edit of batch B03 v1, with cardinal style reference; original v1 preserved.",
       "scientific_accuracy": "unverified; human reference review required",
       "human_approval": false,
       "print_approval": false,
       "species_reference_url": "https://www.allaboutbirds.org/guide/American_Robin/overview",
-      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending.",
+      "prior_revisions": [
+        {
+          "species_id": "B03",
+          "species": "American Robin",
+          "review_classification": "NEEDS_TARGETED_CORRECTION",
+          "classification_reason": "The image lacks an obvious continuous boundary for the orange underparts, and its scalloped face/neck transition needs reference review. Check feet, leg attachment and the one detected white-region change in the trace.",
+          "classification_basis": "preliminary visual assessment; neither human scientific approval nor print approval",
+          "original_path": "books/book-001/artwork/batch-01/originals/B03.png",
+          "original_sha256": "ac39000a7db3dd0879c85127526a34de5804da201ece4d214907c92bc3023d0f",
+          "svg_path": "books/book-001/artwork/batch-01/processed/B03-v1/B03-provisional.svg",
+          "svg_sha256": "8d3e4ad61c63b4e950986795524f00d6e89b11aa6a1ddcc3e313c9edfd107f86",
+          "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B03-v1/B03-vector-art.pdf",
+          "vector_pdf_sha256": "146ab0ce82aea8e6d2a7315675dd28121b6b4d535b445c0839b6ea190902200d",
+          "quality_path": "books/book-001/artwork/batch-01/processed/B03-v1/quality.json",
+          "input_pixels": [
+            1122,
+            1402
+          ],
+          "source_raster_ppi_at_padded_placement": 258.5,
+          "visual_reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+          "visual_reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+          "prompt_path": "books/book-001/artwork/batch-01/generation-prompts.json",
+          "generation_provenance": "ChatGPT image_gen tool with supplied cardinal image as referenced_image_paths; exact prompt in prompt file. Exact model and generation time not provided by tool.",
+          "scientific_accuracy": "unverified; human reference review required",
+          "human_approval": false,
+          "print_approval": false,
+          "species_reference_url": "https://www.allaboutbirds.org/guide/American_Robin/overview",
+          "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+        }
+      ],
+      "actual_input_reference_hashes": {
+        "books/book-001/artwork/batch-01/originals/B03.png": "ac39000a7db3dd0879c85127526a34de5804da201ece4d214907c92bc3023d0f",
+        "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+      },
+      "visual_decision": "PENDING_USER_REVIEW"
     },
     {
       "species_id": "B04",
@@ -85,21 +154,24 @@
       "human_approval": false,
       "print_approval": false,
       "species_reference_url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/overview",
-      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending.",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
+      "visual_decision_provenance": "User Milestone 2B message; visual design only, not scientific or print approval.",
+      "human_approval_scope": "No scientific, anatomy or final artwork approval recorded."
     },
     {
       "species_id": "B07",
       "species": "White-breasted Nuthatch",
-      "review_classification": "NEEDS_TARGETED_CORRECTION",
-      "classification_reason": "The dark cap is filled rather than a colourable region, and the trunk runs off the top and bottom of the original canvas. Extra tracing padding does not restore cropped scene detail. Check foot grip, bill, tail and pose against a guide.",
-      "classification_basis": "preliminary visual assessment; neither human scientific approval nor print approval",
-      "original_path": "books/book-001/artwork/batch-01/originals/B07.png",
-      "original_sha256": "fa91555262f800e87de6b784da3502a343fb2b672b0907fa500b9f8c4e79ff83",
-      "svg_path": "books/book-001/artwork/batch-01/processed/B07-v1/B07-provisional.svg",
-      "svg_sha256": "01cfb827916cac5a2a1f97a5c3eb2e138f30e60653c2561fa4bf740eaecabe2b",
-      "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B07-v1/B07-vector-art.pdf",
-      "vector_pdf_sha256": "8e9ab88b43b6d4d871073f916b2482561dcaa715976a782e17b768e54da667ad",
-      "quality_path": "books/book-001/artwork/batch-01/processed/B07-v1/quality.json",
+      "review_classification": "READY_FOR_HUMAN_REVIEW",
+      "classification_reason": "The solid cap is now outlined and the trunk has visible top and bottom ends. Head-down pose is preserved; cap boundaries, bill, wing, toes and grip still need reference and print-size review.",
+      "classification_basis": "preliminary assistant visual triage; scientific, user visual and print review pending",
+      "original_path": "books/book-001/artwork/batch-01/originals/B07-v2.png",
+      "original_sha256": "9983cc30874bb294aa670ffb913a839ceea9c6d884750d5a23d71cd97f3441c0",
+      "svg_path": "books/book-001/artwork/batch-01/processed/B07-v2/B07-provisional.svg",
+      "svg_sha256": "6488222d478a27f3f42a70bf06c3478d457ee0c4ecda07bdd2a12a28aeff4f8d",
+      "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B07-v2/B07-vector-art.pdf",
+      "vector_pdf_sha256": "e2a155a1951451ae7e30c2902769cdcd5d948302cc158633f6fb5a566050a6df",
+      "quality_path": "books/book-001/artwork/batch-01/processed/B07-v2/quality.json",
       "input_pixels": [
         1122,
         1402
@@ -107,13 +179,48 @@
       "source_raster_ppi_at_padded_placement": 258.5,
       "visual_reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
       "visual_reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
-      "prompt_path": "books/book-001/artwork/batch-01/generation-prompts.json",
-      "generation_provenance": "ChatGPT image_gen tool with supplied cardinal image as referenced_image_paths; exact prompt in prompt file. Exact model and generation time not provided by tool.",
+      "prompt_path": "books/book-001/artwork/batch-01/revision-prompts-v2.json",
+      "generation_provenance": "ChatGPT image_gen: one targeted edit of batch B07 v1, with cardinal style reference; original v1 preserved.",
       "scientific_accuracy": "unverified; human reference review required",
       "human_approval": false,
       "print_approval": false,
       "species_reference_url": "https://www.allaboutbirds.org/guide/White-breasted_Nuthatch/overview",
-      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending.",
+      "prior_revisions": [
+        {
+          "species_id": "B07",
+          "species": "White-breasted Nuthatch",
+          "review_classification": "NEEDS_TARGETED_CORRECTION",
+          "classification_reason": "The dark cap is filled rather than a colourable region, and the trunk runs off the top and bottom of the original canvas. Extra tracing padding does not restore cropped scene detail. Check foot grip, bill, tail and pose against a guide.",
+          "classification_basis": "preliminary visual assessment; neither human scientific approval nor print approval",
+          "original_path": "books/book-001/artwork/batch-01/originals/B07.png",
+          "original_sha256": "fa91555262f800e87de6b784da3502a343fb2b672b0907fa500b9f8c4e79ff83",
+          "svg_path": "books/book-001/artwork/batch-01/processed/B07-v1/B07-provisional.svg",
+          "svg_sha256": "01cfb827916cac5a2a1f97a5c3eb2e138f30e60653c2561fa4bf740eaecabe2b",
+          "vector_art_pdf": "books/book-001/artwork/batch-01/processed/B07-v1/B07-vector-art.pdf",
+          "vector_pdf_sha256": "8e9ab88b43b6d4d871073f916b2482561dcaa715976a782e17b768e54da667ad",
+          "quality_path": "books/book-001/artwork/batch-01/processed/B07-v1/quality.json",
+          "input_pixels": [
+            1122,
+            1402
+          ],
+          "source_raster_ppi_at_padded_placement": 258.5,
+          "visual_reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+          "visual_reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+          "prompt_path": "books/book-001/artwork/batch-01/generation-prompts.json",
+          "generation_provenance": "ChatGPT image_gen tool with supplied cardinal image as referenced_image_paths; exact prompt in prompt file. Exact model and generation time not provided by tool.",
+          "scientific_accuracy": "unverified; human reference review required",
+          "human_approval": false,
+          "print_approval": false,
+          "species_reference_url": "https://www.allaboutbirds.org/guide/White-breasted_Nuthatch/overview",
+          "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+        }
+      ],
+      "actual_input_reference_hashes": {
+        "books/book-001/artwork/batch-01/originals/B07.png": "fa91555262f800e87de6b784da3502a343fb2b672b0907fa500b9f8c4e79ff83",
+        "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+      },
+      "visual_decision": "PENDING_USER_REVIEW"
     },
     {
       "species_id": "B13",
@@ -141,7 +248,11 @@
       "human_approval": false,
       "print_approval": false,
       "species_reference_url": "https://www.allaboutbirds.org/guide/Mourning_Dove/overview",
-      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending."
+      "reference_access_note": "No independent access: Cornell ID page returned proxy 403 on 2026-11-15 02:16 UTC; species reference review pending.",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
+      "visual_decision_provenance": "User Milestone 2B message; visual design only, not scientific or print approval.",
+      "human_approval_scope": "No scientific, anatomy or final artwork approval recorded."
     }
-  ]
+  ],
+  "manifest_note": "Batch 1 v1 source files remain unchanged; current B02, B03 and B07 are v2. User provisionally accepted B04 and B13 visually only."
 }

@@ -1,0 +1,60 @@
+{
+  "species": "Blue Jay",
+  "source_sha256": "3b96d21394863ba35a96894a5c9bfee4225957c0457a1940696840ac6b53f0e9",
+  "svg_paths": 4,
+  "svg_has_image": false,
+  "svg_bytes": 58512,
+  "input_size": [
+    1536,
+    1024
+  ],
+  "canvas_size": [
+    1696,
+    1184
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 124720,
+  "removed_speckle_pixels": 1,
+  "threshold": 160,
+  "threshold_mask_iou": 0.9006,
+  "source_enclosed_white_regions_25px": 27,
+  "vector_enclosed_white_regions_25px": 27,
+  "vector_ink_bbox": [
+    111,
+    176,
+    1587,
+    1072
+  ],
+  "thin_local_maxima_below_075pt_pct": 2.17,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1184,
+  "raw_effective_ppi_at_padded_placement": 240.9,
+  "placed_art_inches": [
+    7.042,
+    4.916
+  ],
+  "original_ink_bbox": [
+    31,
+    96,
+    1507,
+    992
+  ],
+  "original_edge_warning": false,
+  "species_id": "B02",
+  "revision": "v2",
+  "source_path": "books/book-001/artwork/batch-01/originals/B02-v2.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "ChatGPT image_gen: one new Blue Jay candidate; species photo supplied inline in chat visually interpreted by assistant, not supplied as an image-tool input or copied; exact prompt in this record.",
+  "reference_use": "Cardinal source PNG was supplied as referenced_image_paths for style; user-provided inline Blue Jay photo was viewed by the assistant for a verbal feature description, not passed as an image-tool reference.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T02:36:34.857493+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

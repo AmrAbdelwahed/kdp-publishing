@@ -1,0 +1,54 @@
+[
+  {
+    "species_id": "B02",
+    "revision": "v2",
+    "species": "Blue Jay",
+    "reference_paths": [
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png"
+    ],
+    "prompt": "Produce original clean black outline art on white for children ages 6–9, matching the supplied cardinal style reference in line weight, simple naturalistic look, generous enclosed colouring areas, minimal background and no text, gradients, grey, shading, solid black decorative fills, borders or watermark. This is not scientific approval; a human will check final species anatomy and line quality. Generate a NEW Blue Jay, not a cardinal or an edit of a cardinal silhouette. Use the reference image only for line-art style. Give it a jay-specific elongated, robust body, relatively long barred tail, strong straight pointed bill and a low natural crest, with the head and body leaning forward on a simple diagonal branch in side view facing LEFT. Outline the pale cheek, dark necklace marking around the neck, broad simple wing bars and barred tail as unfilled colouring regions; keep a few large leaves and generous margins. The human provided a separate Blue Jay photograph in chat, observed for the long horizontal body/tail, pointed bill, crest and neck band; do not trace, copy, or duplicate that photo. No cardinal deep conical bill, cardinal pose or generic cardinal-shaped body. Whole bird and perch visible.",
+    "generation_provenance": "ChatGPT image_gen: one new Blue Jay candidate; species photo supplied inline in chat visually interpreted by assistant, not supplied as an image-tool input or copied; exact prompt in this record.",
+    "reference_use": "Cardinal source PNG was supplied as referenced_image_paths for style; user-provided inline Blue Jay photo was viewed by the assistant for a verbal feature description, not passed as an image-tool reference.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    },
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "pending; Cornell source proxy-blocked; user-supplied Blue Jay photo not independently attributed"
+  },
+  {
+    "species_id": "B03",
+    "revision": "v2",
+    "species": "American Robin",
+    "reference_paths": [
+      "books/book-001/artwork/batch-01/originals/B03.png",
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png"
+    ],
+    "prompt": "Produce original clean black outline art on white for children ages 6–9, matching the supplied cardinal style reference in line weight, simple naturalistic look, generous enclosed colouring areas, minimal background and no text, gradients, grey, shading, solid black decorative fills, borders or watermark. This is not scientific approval; a human will check final species anatomy and line quality. Targeted EDIT of the FIRST supplied image, the American Robin. The SECOND image is the cardinal STYLE reference only. Preserve the original robin’s side-facing ground-standing pose, long legs, overall proportion, grass setting and simple open colouring layout. Smooth the unnatural scalloped face/neck transition into a natural unobtrusive transition, and add a clean reference-appropriate outline separating the orange-red breast/underparts from the darker head and upperparts without creating an artificial necklace or collar. Keep those regions unfilled and colourable. Carefully fix visibly malformed foot/toe or leg attachments while keeping natural ground contact. Keep bill, both wings and full tail scientifically plausible; no added birds, captions, decorations or crest. The original and generated work must still be reviewed by a human using an authoritative robin reference.",
+    "generation_provenance": "ChatGPT image_gen: one targeted edit of batch B03 v1, with cardinal style reference; original v1 preserved.",
+    "reference_use": "First referenced_image_paths is B03 v1 for editing; second is cardinal source.png for style only.",
+    "reference_sha256": {
+      "books/book-001/artwork/batch-01/originals/B03.png": "ac39000a7db3dd0879c85127526a34de5804da201ece4d214907c92bc3023d0f",
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    },
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "pending; Cornell source proxy-blocked; user-supplied Blue Jay photo not independently attributed"
+  },
+  {
+    "species_id": "B07",
+    "revision": "v2",
+    "species": "White-breasted Nuthatch",
+    "reference_paths": [
+      "books/book-001/artwork/batch-01/originals/B07.png",
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png"
+    ],
+    "prompt": "Produce original clean black outline art on white for children ages 6–9, matching the supplied cardinal style reference in line weight, simple naturalistic look, generous enclosed colouring areas, minimal background and no text, gradients, grey, shading, solid black decorative fills, borders or watermark. This is not scientific approval; a human will check final species anatomy and line quality. Targeted EDIT of the FIRST supplied image, the White-breasted Nuthatch. The SECOND image is the cardinal STYLE reference only. Preserve the nuthatch’s distinctive head-down pose while clinging to a tree, its compact body, short tail and long pointed bill. Replace the existing solid black cap with a correctly placed outlined unfilled colourable cap; keep the pale face visible. Show a short naturally bounded trunk section fully within generous white page margins, not cropped at the top or bottom, while keeping the bird large and easily colourable. Check two feet and toes have plausible grip on the bark and preserve clear wing and body boundaries. No captions, extra birds, shading, fills or dense bark texture. The original and generated work must still be reviewed by a human using an authoritative nuthatch reference.",
+    "generation_provenance": "ChatGPT image_gen: one targeted edit of batch B07 v1, with cardinal style reference; original v1 preserved.",
+    "reference_use": "First referenced_image_paths is B07 v1 for editing; second is cardinal source.png for style only.",
+    "reference_sha256": {
+      "books/book-001/artwork/batch-01/originals/B07.png": "fa91555262f800e87de6b784da3502a343fb2b672b0907fa500b9f8c4e79ff83",
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    },
+    "visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+    "scientific_status": "pending; Cornell source proxy-blocked; user-supplied Blue Jay photo not independently attributed"
+  }
+]

@@ -11,7 +11,9 @@ BATCH = ROOT / 'books/book-001/artwork/batch-01'
 FONT = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
 
 
-def build():
+def build(output_dir=BATCH):
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
     manifest = json.loads((BATCH / 'manifest.json').read_text())
     entries = {r['species_id']: r for r in manifest['entries']}
     existing = {r['kind']: r for r in layout.BIRDS}
@@ -34,7 +36,7 @@ def build():
     with tempfile.TemporaryDirectory(prefix='bird-batch-proof-') as tmp:
         layout.OUT = Path(tmp)
         layout.build()
-        proof = BATCH / 'six-bird-provisional-proof.pdf'
+        proof = output_dir / 'six-bird-provisional-proof.pdf'
         with fitz.open(Path(tmp) / 'three-bird-prototype.pdf') as doc:
             subjects = [('B01','cardinal'),('B02','Blue Jay'),('B03','American Robin'),
                         ('B04','Black-capped Chickadee'),('B07','White-breasted Nuthatch'),('B13','Mourning Dove')]
@@ -48,7 +50,10 @@ def build():
                     label = 'MASTER STYLE: VISUALLY ACCEPTED; PRINT / FACT CHECK PENDING'
                 else:
                     vector = ROOT/entries[sid]['vector_art_pdf']
-                    label = entries[sid]['review_classification'].replace('_',' ') + ' / UNAPPROVED'
+                    if entries[sid].get('visual_decision') == 'PROVISIONALLY_ACCEPTED_BY_USER':
+                        label = 'VISUALLY ACCEPTED / PRINT / FACT CHECK PENDING'
+                    else:
+                        label = entries[sid]['review_classification'].replace('_',' ') + ' / UNAPPROVED'
                 page.apply_redactions(images=2,graphics=1,text=0)
                 with fitz.open(vector) as artwork:
                     page.show_pdf_page(area,artwork,0,keep_proportion=True)
@@ -63,7 +68,7 @@ def build():
                 pix=page.get_pixmap(matrix=fitz.Matrix(.5,.5),alpha=False)
                 im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples)
                 sheet.paste(im,((i%2)*326+10,(i//2)*416+10))
-            sheet.save(BATCH/'facing-spreads-contact.png')
+            sheet.save(output_dir/'facing-spreads-contact.png')
     # 5 pairs of original source and rendered vector. Both fit identical thumbnails.
     sheet=Image.new('RGB',(1200,5*700),'white')
     draw=ImageDraw.Draw(sheet); font=ImageFont.truetype(FONT,20)
@@ -77,8 +82,12 @@ def build():
             im.thumbnail((560,620));sheet.paste(im,(col*600+(600-im.width)//2,row*700+62))
             draw.text((col*600+12,row*700+10),f"{entry['species']} / {'ORIGINAL' if col==0 else 'VECTOR'}",font=font,fill='black')
             draw.text((col*600+12,row*700+36),entry['review_classification'].replace('_',' '),font=font,fill='black')
-    sheet.save(BATCH/'original-versus-vector-contact.png')
-    print('Created provisional 12-page proof and contact sheets; all candidates remain unapproved.')
+    sheet.save(output_dir/'original-versus-vector-contact.png')
+    print('Created provisional 12-page proof and contact sheets; scientific and print review remain pending.')
 
 
-if __name__ == '__main__': build()
+if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--output', type=Path, default=BATCH)
+    build(parser.parse_args().output)

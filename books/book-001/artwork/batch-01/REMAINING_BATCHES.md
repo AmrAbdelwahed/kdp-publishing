@@ -19,3 +19,6 @@ B19 Song Sparrow, B20 White-throated Sparrow, B21 White-crowned Sparrow, B22 Dar
 ## Future batch 5 — 6 species
 
 B25 House Wren, B26 European Starling, B27 Common Grackle, B28 Red-winged Blackbird, B29 Northern Mockingbird, B30 Eastern Bluebird
+
+## Milestone 2B update
+The user provisionally accepted the chickadee and dove visuals and requested three revisions. Review the current `review-2b/` proof and decide whether to proceed; the remaining 24 have not been authorized for generation.

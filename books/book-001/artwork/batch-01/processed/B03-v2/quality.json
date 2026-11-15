@@ -1,0 +1,61 @@
+{
+  "species": "American Robin",
+  "source_sha256": "dd6184801edba133d262c80801c63a3528f74644553a6e948ca16a47f891e1ed",
+  "svg_paths": 2,
+  "svg_has_image": false,
+  "svg_bytes": 50957,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 88208,
+  "removed_speckle_pixels": 3,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8657,
+  "source_enclosed_white_regions_25px": 24,
+  "vector_enclosed_white_regions_25px": 24,
+  "vector_ink_bbox": [
+    106,
+    295,
+    1178,
+    1318
+  ],
+  "thin_local_maxima_below_075pt_pct": 4.37,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "placed_art_inches": [
+    4.959,
+    6.042
+  ],
+  "original_ink_bbox": [
+    25,
+    215,
+    1098,
+    1238
+  ],
+  "original_edge_warning": false,
+  "species_id": "B03",
+  "revision": "v2",
+  "source_path": "books/book-001/artwork/batch-01/originals/B03-v2.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "ChatGPT image_gen: one targeted edit of batch B03 v1, with cardinal style reference; original v1 preserved.",
+  "reference_use": "First referenced_image_paths is B03 v1 for editing; second is cardinal source.png for style only.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/batch-01/originals/B03.png": "ac39000a7db3dd0879c85127526a34de5804da201ece4d214907c92bc3023d0f",
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T02:36:36.083644+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

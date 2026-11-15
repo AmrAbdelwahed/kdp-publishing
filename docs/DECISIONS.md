@@ -54,3 +54,7 @@ User provisionally accepted the B04 chickadee and B13 dove visual designs and ma
 ## 2026-11-15 — Batch 1 visual direction and Batch 2
 
 The user accepted B01, B02 v2, B03 v2, B04, B07 v2 and B13 as current visual candidates only. B03 still needs an orange-underparts boundary correction; B02 necklace and wing bars need verification. Scientific, anatomy and final print approval were not granted. The user authorized six more candidates (B05, B06, B08–B11); each remains unapproved and the 64-page plan remains unchanged. Cornell ID pages could not be retrieved through the network proxy, so species marks and range/season caveats remain independently unverified. See `books/book-001/artwork/batch-02/QC_REPORT.md`.
+
+## 2026-11-15 — Milestone 4: visual decisions and Batch 3
+
+User kept B05, B08 and B11 visually and provisionally kept B09/B10, retaining their dark-area review. The user requested one B06 replacement and six new candidates B12 and B14–B18; all seven await visual, scientific and print review. The B06 v1 and all retained assets remain preserved. Revised B04/B05 activities teach multiple clues and uncertainty; comparative claims supplied by the user remain externally supplied pending independent verification. Cornell requests were blocked; no scientific or final KDP approval is inferred. See `books/book-001/artwork/batch-03/`.

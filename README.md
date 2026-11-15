@@ -2,7 +2,7 @@
 Original, AI-assisted children's colouring/activity books. First candidate: **Backyard Bird Detectives: Color, Spot & Explore**, ages 6–9. US and Canadian paperback markets; low-cost print-on-demand pilot November 10–December 9, 2026.
 
 ## Status
-**Milestone 2: five new bird candidates are ready for joint review.** The user accepted the revised cardinal as the visual style only. Five originals and vector traces, a 12-page provisional proof, classifications and the remaining-batch schedule are in `books/book-001/artwork/batch-01/` (current proof in `review-2b/`). The chickadee and dove are provisionally accepted visually. Milestone 2B includes three revisions: the nuthatch is ready for human review, while the Jay necklace/wing pattern and robin underparts remain targeted issues. No scientific or print approval is implied. Marketplace demand and current KDP rules remain unverified; source records and earlier decisions are retained.
+**Milestone 4: 18 bird candidates are available for review.** The user kept the earlier visual directions, with the Downy and Hairy Woodpeckers provisional; the titmouse has a new unapproved v2 and six new species await review. See `books/book-001/artwork/batch-03/` for the 36-page selection, candidate manifest, provenance and scientific backlog. All scientific and print approval remains pending; market demand and current KDP rules remain unverified.
 
 ## Setup and validation
 Use the existing checkout. Python 3, no extra packages or secrets required for the current documents and CSV validator:
@@ -26,7 +26,7 @@ To regenerate imported research, run `python scripts/import_week1.py`; this impo
 - docs/PRODUCTION_PLAN.md: deferred Python production requirements.
 
 ## Next steps
-Review the five-bird batch together, decide whether to adjust the visual template or authorize the remaining 24, and complete scientific and print-quality checks before final production. Marketplace and current official KDP evidence remain open; do not treat the prototype as demand validation.
+Review the seven new images together and complete source and print checks before approving any additional production. The 36-page PDF is a selection, not a complete interior or demand validation.
 
 ## Milestone 1A — 2026-11-11
 Manual capture workflow is ready; verification remains incomplete (0 US / 0 CA independently verified bird listings). Fresh public probes remained proxy-denied. Use [capture guide](research/marketplace/CAPTURE_GUIDE.md) and research/marketplace/capture_template.csv for 10 US and 5 CA paperbacks; all prior source data is preserved. The append-only importer validates captures, archives supporting files and flags duplicates/conflicts without promoting them to verified evidence. See research/marketplace/RECOMMENDATION.md: CONDITIONAL GO unchanged, scores unchanged. Missing current Amazon prices/ranks/ratings, edition metadata, age/feature evidence, customer feedback and official KDP costs still block a stronger recommendation.

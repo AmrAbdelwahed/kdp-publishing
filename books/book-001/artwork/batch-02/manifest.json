@@ -2,14 +2,14 @@
   "batch": "02",
   "master_visual_reference": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
   "master_visual_reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
-  "status": "Six unapproved original candidates; vector and layout screening do not constitute scientific or print approval.",
+  "status": "User kept B05, B08 and B11 visually and provisionally kept B09/B10; B06 v1 superseded by unapproved v2 in batch-03. No scientific or print approval.",
   "entries": [
     {
       "species_id": "B05",
       "species": "Carolina Chickadee",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
       "classification_reason": "Compare cap, bib, bill and proportions against verified Carolina and Black-capped Chickadee references; the long legs and prominent bill deserve special scrutiny.",
-      "classification_basis": "assistant preliminary visual triage; user, scientific and print review pending",
+      "classification_basis": "user visual decision; scientific, anatomical, colouring and print review pending",
       "original_path": "books/book-001/artwork/batch-02/originals/B05.png",
       "original_sha256": "ba7bf074b3223f1efaaa91c17c9811412528075618eca9e3c22948de57200118",
       "svg_path": "books/book-001/artwork/batch-02/processed/B05-v1/B05-provisional.svg",
@@ -29,9 +29,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/id",
       "reference_access_note": "Cornell ID page could not be retrieved: proxy tunnel 403, 2026-11-15 UTC.",
       "scientific_accuracy": "unverified; independent source review required",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "User Milestone 4 KEEP decision; B09 and B10 kept provisionally, pending dark-area review. Visual direction only."
     },
     {
       "species_id": "B06",
@@ -58,16 +59,17 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/id",
       "reference_access_note": "Cornell ID page could not be retrieved: proxy tunnel 403, 2026-11-15 UTC.",
       "scientific_accuracy": "unverified; independent source review required",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "SUPERSEDED_BY_B06_V2",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "User directed a single regeneration in Milestone 4; v1 preserved."
     },
     {
       "species_id": "B08",
       "species": "Red-breasted Nuthatch",
       "review_classification": "READY_FOR_HUMAN_REVIEW",
       "classification_reason": "Check eye stripe, eyebrow, cap, feet and grip against a reliable guide; compare directly with white-breasted nuthatch. Trunk approaches source-image edges; padding does not restore scene detail.",
-      "classification_basis": "assistant preliminary visual triage; user, scientific and print review pending",
+      "classification_basis": "user visual decision; scientific, anatomical, colouring and print review pending",
       "original_path": "books/book-001/artwork/batch-02/originals/B08.png",
       "original_sha256": "eda17d2e0f6e9ef16fd95a8b4323a0f40a28b66bd3a28128f468aa65c5b9e29b",
       "svg_path": "books/book-001/artwork/batch-02/processed/B08-v1/B08-provisional.svg",
@@ -87,16 +89,17 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/id",
       "reference_access_note": "Cornell ID page could not be retrieved: proxy tunnel 403, 2026-11-15 UTC.",
       "scientific_accuracy": "unverified; independent source review required",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "User Milestone 4 KEEP decision; B09 and B10 kept provisionally, pending dark-area review. Visual direction only."
     },
     {
       "species_id": "B09",
       "species": "Downy Woodpecker",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
       "classification_reason": "Head and wing contain solid dark filled bands rather than colourable regions. Verify actual downy markings, short bill, feet and trunk grip against a guide; tree approaches image edge.",
-      "classification_basis": "assistant preliminary visual triage; user, scientific and print review pending",
+      "classification_basis": "user visual decision; scientific, anatomical, colouring and print review pending",
       "original_path": "books/book-001/artwork/batch-02/originals/B09.png",
       "original_sha256": "b78be1e9081792fff17866950c33f392d1012bbf9ab2be10d5e33d10f4d71024",
       "svg_path": "books/book-001/artwork/batch-02/processed/B09-v1/B09-provisional.svg",
@@ -116,16 +119,17 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Downy_Woodpecker/id",
       "reference_access_note": "Cornell ID page could not be retrieved: proxy tunnel 403, 2026-11-15 UTC.",
       "scientific_accuracy": "unverified; independent source review required",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "User Milestone 4 KEEP decision; B09 and B10 kept provisionally, pending dark-area review. Visual direction only."
     },
     {
       "species_id": "B10",
       "species": "Hairy Woodpecker",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
       "classification_reason": "Head and wing contain solid dark filled bands rather than colourable regions. Verify hairy markings and long bill against a guide and compare with B09; tree approaches image edge.",
-      "classification_basis": "assistant preliminary visual triage; user, scientific and print review pending",
+      "classification_basis": "user visual decision; scientific, anatomical, colouring and print review pending",
       "original_path": "books/book-001/artwork/batch-02/originals/B10.png",
       "original_sha256": "bf413f5702ba0542c8dc3c8fe4578063dcf80b04e503aae618811318d06ec25d",
       "svg_path": "books/book-001/artwork/batch-02/processed/B10-v1/B10-provisional.svg",
@@ -145,16 +149,17 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Hairy_Woodpecker/id",
       "reference_access_note": "Cornell ID page could not be retrieved: proxy tunnel 403, 2026-11-15 UTC.",
       "scientific_accuracy": "unverified; independent source review required",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "User Milestone 4 KEEP decision; B09 and B10 kept provisionally, pending dark-area review. Visual direction only."
     },
     {
       "species_id": "B11",
       "species": "Red-bellied Woodpecker",
       "review_classification": "NEEDS_TARGETED_CORRECTION",
       "classification_reason": "Verify cap/nape outline, barred back and tail, bill and feet against a reliable guide. One coarse enclosed-region difference after tracing; tree approaches image edge.",
-      "classification_basis": "assistant preliminary visual triage; user, scientific and print review pending",
+      "classification_basis": "user visual decision; scientific, anatomical, colouring and print review pending",
       "original_path": "books/book-001/artwork/batch-02/originals/B11.png",
       "original_sha256": "6b89464e8f7914798c9afd179998f3cc16fa8c42430f83912458b2b37533125c",
       "svg_path": "books/book-001/artwork/batch-02/processed/B11-v1/B11-provisional.svg",
@@ -174,9 +179,10 @@
       "species_reference_url": "https://www.allaboutbirds.org/guide/Red-bellied_Woodpecker/id",
       "reference_access_note": "Cornell ID page could not be retrieved: proxy tunnel 403, 2026-11-15 UTC.",
       "scientific_accuracy": "unverified; independent source review required",
-      "visual_decision": "PENDING_USER_REVIEW",
+      "visual_decision": "PROVISIONALLY_ACCEPTED_BY_USER",
       "human_approval": false,
-      "print_approval": false
+      "print_approval": false,
+      "visual_decision_provenance": "User Milestone 4 KEEP decision; B09 and B10 kept provisionally, pending dark-area review. Visual direction only."
     }
   ]
 }

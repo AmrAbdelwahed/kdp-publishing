@@ -1,0 +1,86 @@
+[
+  {
+    "species_id": "B06",
+    "species": "Tufted Titmouse",
+    "revision": "v2",
+    "prompt": "Create ONE original black-and-white colouring-book illustration for children aged 6\u20139, portrait aspect, plain white background. The attached cardinal image controls artistic STYLE ONLY: bold smooth line, simple naturalistic look, spacious colourable regions. Do not copy the cardinal pose, anatomy, crest, mask, branch or composition. Give the requested species its own plausible form and markings. Depict entire bird, naturally attached feet, minimal setting, generous margins. Outline dark plumage as open colourable regions; no large solid black patches, shading, grayscale, gradients, text, watermarks or copied photographs. Keep identifying features without tiny clutter. Candidate scientific details need later expert checking. Adult, sex unspecified. A small stocky Tufted Titmouse, with a very large rounded head, small pointed crest, small outlined forehead patch, short stout bill, round eye; no cardinal facial mask. Perched almost horizontally facing left on a slender curved stem. A compact body, short legs and suitable tail and wings.",
+    "plumage_scope_and_caveat": "Adult; sex unspecified; local and seasonal distribution unverified.",
+    "generation_provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+    "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B12",
+    "species": "Northern Flicker",
+    "revision": "v1",
+    "prompt": "Create ONE original black-and-white colouring-book illustration for children aged 6\u20139, portrait aspect, plain white background. The attached cardinal image controls artistic STYLE ONLY: bold smooth line, simple naturalistic look, spacious colourable regions. Do not copy the cardinal pose, anatomy, crest, mask, branch or composition. Give the requested species its own plausible form and markings. Depict entire bird, naturally attached feet, minimal setting, generous margins. Outline dark plumage as open colourable regions; no large solid black patches, shading, grayscale, gradients, text, watermarks or copied photographs. Keep identifying features without tiny clutter. Candidate scientific details need later expert checking. Adult male, proposed yellow-shafted form. Depict a Northern Flicker standing on open ground in three-quarter profile with a long slightly curved bill, outlined cheek/moustache mark, spotted breast and belly, an outlined breast crescent and a simple tail. Uncluttered short grass; do not copy any photograph.",
+    "plumage_scope_and_caveat": "Proposed male yellow-shafted form; sex and form require reference review; ranges vary and overlap or intergrade.",
+    "generation_provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+    "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B14",
+    "species": "Rock Pigeon",
+    "revision": "v1",
+    "prompt": "Create ONE original black-and-white colouring-book illustration for children aged 6\u20139, portrait aspect, plain white background. The attached cardinal image controls artistic STYLE ONLY: bold smooth line, simple naturalistic look, spacious colourable regions. Do not copy the cardinal pose, anatomy, crest, mask, branch or composition. Give the requested species its own plausible form and markings. Depict entire bird, naturally attached feet, minimal setting, generous margins. Outline dark plumage as open colourable regions; no large solid black patches, shading, grayscale, gradients, text, watermarks or copied photographs. Keep identifying features without tiny clutter. Candidate scientific details need later expert checking. Adult, typical gray-pattern plumage represented as outlines; sex unspecified. Draw a Rock Pigeon standing on a simple broad flat ledge facing left: small rounded head, short bill with visible cere, plump body, two wing-bar outlines and naturally spaced toes. Minimal background.",
+    "plumage_scope_and_caveat": "Adult, typical gray-pattern plumage; variation, regional occurrence and sex unverified.",
+    "generation_provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+    "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B15",
+    "species": "American Goldfinch",
+    "revision": "v1",
+    "prompt": "Create ONE original black-and-white colouring-book illustration for children aged 6\u20139, portrait aspect, plain white background. The attached cardinal image controls artistic STYLE ONLY: bold smooth line, simple naturalistic look, spacious colourable regions. Do not copy the cardinal pose, anatomy, crest, mask, branch or composition. Give the requested species its own plausible form and markings. Depict entire bird, naturally attached feet, minimal setting, generous margins. Outline dark plumage as open colourable regions; no large solid black patches, shading, grayscale, gradients, text, watermarks or copied photographs. Keep identifying features without tiny clutter. Candidate scientific details need later expert checking. Adult male in proposed breeding plumage perched sideways on a broad simple seedhead stalk. Small finch with short conical bill; outline cap, wing patches and feather boundaries as open colouring regions; avoid needless complexity. Show a complete tail and natural toes.",
+    "plumage_scope_and_caveat": "Proposed adult male breeding plumage; nonbreeding appearance and range/season require source review.",
+    "generation_provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+    "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B16",
+    "species": "House Finch",
+    "revision": "v1",
+    "prompt": "Create ONE original black-and-white colouring-book illustration for children aged 6\u20139, portrait aspect, plain white background. The attached cardinal image controls artistic STYLE ONLY: bold smooth line, simple naturalistic look, spacious colourable regions. Do not copy the cardinal pose, anatomy, crest, mask, branch or composition. Give the requested species its own plausible form and markings. Depict entire bird, naturally attached feet, minimal setting, generous margins. Outline dark plumage as open colourable regions; no large solid black patches, shading, grayscale, gradients, text, watermarks or copied photographs. Keep identifying features without tiny clutter. Candidate scientific details need later expert checking. Adult male House Finch, side view on a low curving bare branch, short conical bill and finch-like proportions; outline face and breast colour areas and simplified flank streaks while leaving generous open colouring spaces. Preserve natural subtlety, not contrived differences from Purple Finch.",
+    "plumage_scope_and_caveat": "Proposed adult male; colour and plumage vary; sex, marks, range and season require source review.",
+    "generation_provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+    "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B17",
+    "species": "Purple Finch",
+    "revision": "v1",
+    "prompt": "Create ONE original black-and-white colouring-book illustration for children aged 6\u20139, portrait aspect, plain white background. The attached cardinal image controls artistic STYLE ONLY: bold smooth line, simple naturalistic look, spacious colourable regions. Do not copy the cardinal pose, anatomy, crest, mask, branch or composition. Give the requested species its own plausible form and markings. Depict entire bird, naturally attached feet, minimal setting, generous margins. Outline dark plumage as open colourable regions; no large solid black patches, shading, grayscale, gradients, text, watermarks or copied photographs. Keep identifying features without tiny clutter. Candidate scientific details need later expert checking. Adult male Purple Finch viewed from a slightly different angle on a small cluster of twigs. Short conical bill and stocky finch profile; suggest head, breast and flank markings using simple open contours, keeping broad colouring spaces. Do not exaggerate differences from House Finch; similar birds can be uncertain.",
+    "plumage_scope_and_caveat": "Proposed adult male; colour and plumage vary; sex, marks, range and season require source review.",
+    "generation_provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+    "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  },
+  {
+    "species_id": "B18",
+    "species": "House Sparrow",
+    "revision": "v1",
+    "prompt": "Create ONE original black-and-white colouring-book illustration for children aged 6\u20139, portrait aspect, plain white background. The attached cardinal image controls artistic STYLE ONLY: bold smooth line, simple naturalistic look, spacious colourable regions. Do not copy the cardinal pose, anatomy, crest, mask, branch or composition. Give the requested species its own plausible form and markings. Depict entire bird, naturally attached feet, minimal setting, generous margins. Outline dark plumage as open colourable regions; no large solid black patches, shading, grayscale, gradients, text, watermarks or copied photographs. Keep identifying features without tiny clutter. Candidate scientific details need later expert checking. Adult male House Sparrow standing on a simple low fence rail, profile facing right. Small sturdy sparrow, short conical bill, outline head and throat pattern as open colourable regions, simple wings and full tail; clear natural legs and toes. No cardinal crest.",
+    "plumage_scope_and_caveat": "Proposed adult male; sex, markings and regional and seasonal occurrence require source review.",
+    "generation_provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+    "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+    "reference_sha256": {
+      "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+    }
+  }
+]

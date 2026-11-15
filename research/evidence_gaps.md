@@ -23,3 +23,7 @@ New material commercial risk: publisher/retailer-reported Coloring Nature Birds 
 
 ## Milestone 2 scope update
 The user has accepted the revised cardinal's visual style and authorized one five-species illustration batch; earlier “planning only” or “no illustration” statements describe prior gates, not this authorization. The five new images remain unapproved for scientific accuracy, print or release; see ../books/book-001/artwork/batch-01/QC_REPORT.md. The user will review those five together before deciding whether to authorize the other 24. Marketplace, source, anatomy and KDP verification gaps remain open. No demand or commercial conclusion follows from image generation.
+
+
+## Milestone 4 scope update
+The user authorized one B06 replacement and six more species; 18 candidate birds now exist, with scientific and print review outstanding. Earlier restrictions on illustration described prior gates. The current commercial recommendation and evidence gaps remain unchanged. See ../books/book-001/artwork/batch-03/FACT_CHECK_BACKLOG.md.

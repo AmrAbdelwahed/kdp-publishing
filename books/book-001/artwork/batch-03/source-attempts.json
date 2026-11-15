@@ -1,0 +1,56 @@
+[
+  {
+    "species_id": "B06",
+    "url": "https://www.allaboutbirds.org/guide/Tufted_Titmouse/id",
+    "attempted_at_utc": "2026-11-15T04:12:01.511663+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B12",
+    "url": "https://www.allaboutbirds.org/guide/Northern_Flicker/id",
+    "attempted_at_utc": "2026-11-15T04:12:01.516450+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B14",
+    "url": "https://www.allaboutbirds.org/guide/Rock_Pigeon/id",
+    "attempted_at_utc": "2026-11-15T04:12:01.520400+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B15",
+    "url": "https://www.allaboutbirds.org/guide/American_Goldfinch/id",
+    "attempted_at_utc": "2026-11-15T04:12:01.524373+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B16",
+    "url": "https://www.allaboutbirds.org/guide/House_Finch/id",
+    "attempted_at_utc": "2026-11-15T04:12:01.528137+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B17",
+    "url": "https://www.allaboutbirds.org/guide/Purple_Finch/id",
+    "attempted_at_utc": "2026-11-15T04:12:01.531904+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B18",
+    "url": "https://www.allaboutbirds.org/guide/House_Sparrow/id",
+    "attempted_at_utc": "2026-11-15T04:12:01.535500+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B04",
+    "url": "https://www.allaboutbirds.org/guide/Black-capped_Chickadee/species-compare",
+    "attempted_at_utc": "2026-11-15T04:12:01.539289+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "species_id": "B05",
+    "url": "https://www.allaboutbirds.org/guide/Carolina_Chickadee/species-compare",
+    "attempted_at_utc": "2026-11-15T04:12:01.543076+00:00",
+    "result": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

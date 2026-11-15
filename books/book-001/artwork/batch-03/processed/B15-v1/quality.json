@@ -1,0 +1,60 @@
+{
+  "species": "American Goldfinch",
+  "source_sha256": "b9b590926936793a07d0f408a1be087d61965c613ea326d12301290d8839b76b",
+  "svg_paths": 2,
+  "svg_has_image": false,
+  "svg_bytes": 70447,
+  "input_size": [
+    1122,
+    1402
+  ],
+  "canvas_size": [
+    1282,
+    1562
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 122173,
+  "removed_speckle_pixels": 3,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8883,
+  "source_enclosed_white_regions_25px": 59,
+  "vector_enclosed_white_regions_25px": 58,
+  "vector_ink_bbox": [
+    114,
+    215,
+    1164,
+    1457
+  ],
+  "thin_local_maxima_below_075pt_pct": 1.52,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1562,
+  "raw_effective_ppi_at_padded_placement": 258.5,
+  "placed_art_inches": [
+    4.959,
+    6.042
+  ],
+  "original_ink_bbox": [
+    34,
+    136,
+    1084,
+    1377
+  ],
+  "original_edge_warning": false,
+  "species_id": "B15",
+  "revision": "v1",
+  "source_path": "books/book-001/artwork/batch-03/originals/B15.png",
+  "reference_path": "books/book-001/artwork/candidates/cardinal-revised-review/source.png",
+  "reference_sha256": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8",
+  "provenance": "OpenAI image generation using the cardinal PNG as an actual image input for style. Original candidate; exact model and generation time not provided.",
+  "reference_use": "Cardinal is style only, never species reference; no Cornell image was provided. Species features and distribution pending independent source review.",
+  "input_reference_hashes": {
+    "books/book-001/artwork/candidates/cardinal-revised-review/source.png": "fa8b2cea39c5204689a454834757dcd0e933353f81365d5b639a3e7fd2e5dad8"
+  },
+  "processed_at_utc": "2026-11-15T04:15:00.428278+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size"
+}

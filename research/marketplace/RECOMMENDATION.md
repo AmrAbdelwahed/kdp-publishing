@@ -18,3 +18,7 @@ Reassess after 10 relevant US / 5 CA paperback captures with direct/adjacent bre
 
 ## Required next input
 Supply completed capture CSV (or XLSX/screenshots plus URLs and capture times) with supporting evidence for 10 US and 5 CA paperback listings. Partial batches are accepted. For inaccessible fields, leave blanks and explain. See CAPTURE_GUIDE.md for exact fields and links. Current capture template has zero real observations; no production/creative work is authorized.
+
+
+## Addendum — 2026-11-15 uploaded observations
+See NOV14_RECONCILIATION.md. The 2026-11-14 report adds four reported detail-page observations and four US search identities, but has no supporting screenshots/exact capture times or independent rechecks. Three Amazon.com prices are CAD due to delivery location Canada. One CA adult-title price is CAD. Three one-time BSRs, one rating count and no critical-review text are reported. These do not establish demand. A publisher/retailer-reported 64-page, ages 5–10 product overlaps the proposed concept materially; it is not itself a verified Amazon offer. Recommendation remains conditional; scores unchanged. Proceed only with a reversible style test, not production approval.

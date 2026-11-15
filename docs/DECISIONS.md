@@ -22,3 +22,7 @@ Retain CONDITIONAL GO for planning only. Source confirms existing bird facts, pu
 
 ## 2026-11-11 — M1A-001: human-assisted marketplace verification
 Continue from b455abe; preserve prior research and scores. Public US/CA search and product probes still denied. Prepare 15-slot CSV, source-linked seed searches and append-only evidence importer. No actual observations invented or imported. Retain CONDITIONAL GO for planning, not full production. Import confidence is collector-reported; human evidence review remains required. See research/marketplace/RECOMMENDATION.md for updated gate and CAPTURE_GUIDE.md for required inputs. No illustrations, production system, spending or publishing.
+
+
+## 2026-11-15 — M1B-001: reconcile November 14 source-attributed observations
+Three files from commit 14d7cb9 are preserved in dated raw locations and hashed. Workbook formulas leave all niche scores unchanged. The browser report is user-provided; exact capture time and screenshots absent, so reports are not independently verified. Three Amazon.com prices are CAD due to delivery in Canada; no comparable US USD listing prices established. One Canada price, three one-time BSRs, one rating count; no review themes. A reported 64-page ages-5–10 competitor materially narrows the differentiation claim. Keep CONDITIONAL GO, unchanged scorecard. Permit only a reversible style-test illustration and blueprint refinement, pending further evidence review; no full-scale assets, PDF generator, spending, upload or publication.

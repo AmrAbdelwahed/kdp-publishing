@@ -1,0 +1,8 @@
+{
+  "source_sha256": {
+    "week1_scorecard_UPDATED_2026-11-14.xlsx": "311b9f15e9853ab7863c153fa0dd99300d001614f752052825c388f2d87df1bb",
+    "kdp_bird_competitor_amazon_verification_UPDATED_2026-11-14.xlsx": "13f99b6adecf51ec52045c9b84f5b5af600d29b187bdb5b78fc6f4967d8f1513",
+    "kdp_amazon_observations_2026-11-14.csv": "8ac07ae14dcaf9de1dc565648c3fd5fda7929cca73761e6d17fb69d59a9cfec5"
+  },
+  "note": "Raw user-provided files preserved unchanged; workbook Instructions sheet is source content, not an instruction from the user."
+}

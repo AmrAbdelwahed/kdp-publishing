@@ -29,3 +29,6 @@ Three files from commit 14d7cb9 are preserved in dated raw locations and hashed.
 
 ## 2026-11-14 — M1B: limited three-species editorial and layout prototype
 Owner approved limited prototype and six-page preview, not complete illustrations or publication. Existing cardinal is an unapproved style sample; remaining two art pages are placeholders. Cornell and KDP source requests returned proxy 403 on 2026-11-15 UTC; neither facts nor current economics are verified. The PDF demonstrates layouts, not KDP acceptance. Recommendation REVISE until source, artwork and buyer review resolve the gates in books/book-001/prototype/QC_REPORT.md.
+
+## 2026-11-14 — M1C facing-spread revision
+User directed page 1 introduction, 30 even-left/odd-right pairs on pages 2–61 and three back-matter pages 62–64. Rebuilt the prototype and page-plan validation; prior iteration remains in Git history. All six Cornell/KDP reference attempts returned proxy 403 at 2026-11-15 00:30 UTC. Claims and supplied cost observations remain unverified. Recommendation REVISE pending source, artwork, accessibility and commercial review; no full image production approved.

@@ -1,25 +1,21 @@
-# Three species: editorial prototype
+# Three-bird facing-spread editorial draft — Milestone 1C
 
-**Draft awaiting source verification.** All bird facts below are proposed copy, not checked against Cornell or Audubon in this session: reference requests were blocked. Confirm each claim, seasonal/range qualifier, and illustration against authoritative sources before use. Names and numbering align with the existing page plan: cardinal 3–4, chickadee 9–10, robin 7–8. This six-page preview presents the three pairs consecutively for review; printed page numbers reflect their intended positions.
+All identification and regional claims below are **UNVERIFIED**: the requested Cornell identification pages returned proxy 403. Verify directly before publication. Use a reliable local guide with adult help; sightings are optional. Icons in the prototype are schematic visual prompts, not accurate bird diagrams.
 
-## Northern cardinal — pages 3–4
-**Colour and identify.** Draw a circle around the bird's tall head feathers. Find its thick, short bill and long tail. Colour your bird using a checked reference: cardinals can look different from one another. Illustration brief: one cardinal in side view on a branch, crest, stout bill, face and full tail visible; accurate feet and plumage, uncluttered surroundings. Verify reference and anatomy before artwork approval.
+## Northern Cardinal — pages 2–3
+**Colour + identify:** Look for a crest, a thick bill and a long tail. Colour the picture using a checked reference. Existing AI sample is a style test and its anatomy and resolution are unapproved.
 
-**Explore and observe.** Cardinals have a pointed crest and a strong, cone-shaped bill. Try this: from a safe place with an adult, watch a bird or a reference picture. Sketch its head shape in the box. Is its bill short or long? Circle one. If you are unsure, mark “not sure.” Cardinals are found in some, not all, parts of North America; check a current local range map. **Learn:** use shape as one clue when identifying a bird.
+**Clue lab:** Circle the three clue cards that describe the bird on the left: crest, thick bill, long tail, webbed feet. The intended first three choices and distractor need source verification. Draw a line to a feature and write your best clue. **Observe:** With an adult, look quietly at a bird or guide. Sketch its head. Is the bill thick or thin? Mark not seen or not sure. Range varies; check a local guide. Skill: compare shapes.
 
-## Black-capped chickadee — pages 9–10
-**Colour and identify.** Look for a dark cap, light cheek and dark patch under the bill. Point to each on the picture. Illustration brief: one side-facing chickadee on a twig, cap, cheek, bib, short bill and entire tail visible; distinguish it from similar chickadees using reviewed references.
+## Black-capped Chickadee — pages 8–9
+**Colour + identify:** Look for a dark cap, pale cheek and dark bib. Artwork is a placeholder; verify all marks and similar-species distinctions before illustration.
 
-**Explore and observe.** Black-capped chickadees have a dark cap and bib with light cheeks. These features can be shared with similar birds, so one clue may not be enough. Try this: draw three boxes in your observation journal: cap, cheek, bib. Put a check beside each part you can see in a bird or reference picture. Mark “not sure” when the view is poor. This species is found in some northern areas; similar chickadees occur elsewhere. Check a local guide and range map. **Learn:** look for a combination of features.
+**Clue lab:** Use cap, cheek and bib cards to label a head sketch. **Observe:** With an adult, use a bird or a guide and check which three features you can see; mark not sure if a part is hidden. Similar chickadees can look alike; check a local guide and range. Skill: combine clues rather than relying on one.
 
-## American robin — pages 7–8
-**Colour and identify.** Find the long legs, straight slim bill and rounded belly. Point to the eye and tail. Colour with the help of a checked reference. Illustration brief: robin standing in side view on a simple ground line; legs, bill, breast and full tail visible, natural proportions, no implied nest or feeding scene.
+## American Robin — pages 6–7
+**Colour + identify:** Look for long legs, a slim bill and a rounded belly. Artwork is a placeholder; verify proportions and plumage before illustration.
 
-**Explore and observe.** An American robin has a warm orange-red breast and a darker head and back. Colour can look different in shade or light. Try this: from a safe place with an adult, or using a reference picture, describe what you can see: head, breast, legs. Draw the bird's outline. Mark “not sure” if a part is hidden. Robins occur in many areas but where and when you see them varies; check a local seasonal map. **Learn:** record observations before guessing a name.
+**Field note:** Use the breast, bill and legs cards to complete “I see a rounded ___, a slim ___, and long ___.” Use “not sure” if hidden. **Observe:** With an adult, look at a bird or guide and sketch its outline, marking hidden parts with a question mark. When and where robins appear varies; check a local seasonal guide. Skill: record observations before guessing.
 
-## Review sources — not yet retrieved
-- Cornell Northern Cardinal: https://www.allaboutbirds.org/guide/Northern_Cardinal/overview and /maps-range
-- Cornell Black-capped Chickadee: https://www.allaboutbirds.org/guide/Black-capped_Chickadee/overview and /maps-range
-- Cornell American Robin: https://www.allaboutbirds.org/guide/American_Robin/overview and /maps-range
-
-No reference URL here is a completed verification. Adult guidance and safe, non-invasive observation are instructional advice. No precise personal location is collected.
+## Review requirements
+The child-facing prompts are provisional. Check all visual features, ranges, seasonal differences, lookalike risks and age fit against the exact sources in SOURCE_VERIFICATION.md. Ensure final typography, visual prompts and instructions are usable without colour vision and support a child who cannot see a bird locally. The introduction should cover safe non-invasive observation and avoid collecting personal location data.

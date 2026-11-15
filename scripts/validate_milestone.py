@@ -32,9 +32,13 @@ def validate():
         assert len(selected) == 30
         assert {row['species_id'] for row in selected} == ids
     for index, bird in enumerate(species, 1):
-        art, activity = pages[2 * index:2 * index + 2]
+        art, activity = pages[2 * index - 1:2 * index + 1]
         assert art['species_id'] == activity['species_id'] == bird['species_id']
         assert int(activity['page']) == int(art['page']) + 1
+        assert int(art['page']) % 2 == 0 and int(activity['page']) % 2 == 1
+    assert [int(pages[i]['page']) for i in (0, 61, 62, 63)] == [1, 62, 63, 64]
+    assert pages[0]['page_type'] == 'front_matter'
+    assert all(p['page_type'] == 'back_matter' for p in pages[61:])
     assert len(facts) == 150 and len({r['check_id'] for r in facts}) == 150
     assert all(r['status'] == 'pending' and not r['retrieved_at_utc'] for r in facts)
     assert {r['species_id'] for r in facts} == ids

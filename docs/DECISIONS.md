@@ -98,3 +98,7 @@ The approved B1 layout remains frozen and its 8F review render is pixel-identica
 ## 2026-11-15 — Milestone 8G artwork availability
 
 The user displayed a new B1 scene but its original PNG was not mounted or otherwise available as a file. Its stated dimensions imply approximately 163 PPI at the existing placement; the dimensions and hash cannot yet be verified. The official Real-ESRGAN Vulkan executable found no usable device; an ncnn CPU smoke test on an unrelated 32-pixel crop succeeded. No new-scene reconstruction, integration, approval or publishing action occurred. See `books/book-001/cover-8g/STATUS_AND_TOOL_CHECK.md`.
+
+## 2026-11-15 — Milestone 8G user-provided B1 scene
+
+The original 1386 × 1135 PNG was obtained from user commit e40a32d and preserved with its source hash. Real-ESRGAN x4plus ran on CPU using context-padded tiles and produced a 5544 × 4540 candidate; output sampling at the unchanged scene placement is about 652 PPI, but model-generated detail is not recovered source detail. Source and model were each integrated into review-only wraps with the 8F text, back and template layout unchanged. The new scene has a larger magnifier and cropped binoculars than 8F, and the model intensifies fine feather/face texture. Human approval, actual-size print, anatomy, rights, AI disclosure, color and KDP Previewer remain pending. No KDP upload, proof or publication occurred. See `books/book-001/cover-8g/`.

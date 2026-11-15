@@ -1,3 +1,5 @@
+> Historical note: the missing PNG was subsequently retrieved byte-for-byte from commit `e40a32d`. See the current review report for the completed assessment.
+
 # Milestone 8G — blocked pending original artwork
 
 The user displayed a new B1 scene named `Nature Observation Kit with Cardinal.png` and reported 1386 × 1135 native pixels. The image is visible in the conversation but no corresponding source file or attachment identifier was made available in this workspace on 2026-11-15. The PNG has **not** been imported, hashed, reconstructed, or integrated. The user-supplied dimensions have not been independently verified. Do not replace it with a screenshot or a visually similar regenerated image; those would not preserve its original bytes or provenance.

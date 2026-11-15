@@ -31,13 +31,15 @@ def centered(c,text,y,font,size,x):
     c.setFont(font,size);c.drawCentredString(x,y,text)
 
 
-def build(include_scene=True):
+def build(include_scene=True, scene_path=None):
     OUT.mkdir(parents=True,exist_ok=True);g=template_geometry()
     (OUT/'TEMPLATE_GEOMETRY.json').write_text(json.dumps(g,indent=2)+'\n')
     # Crop original 8D pixels, without enlargement. The crop still includes detailed
     # notebook, magnifier and binoculars as well as some textured green background.
-    with Image.open(ROOT/'books/book-001/cover-8d/B1-background.png') as src:
-        src.crop((0,430,1102,1333)).save(OUT/'B1-scene-native-crop.png')
+    if scene_path is None:
+        with Image.open(ROOT/'books/book-001/cover-8d/B1-background.png') as src:
+            src.crop((0,430,1102,1333)).save(OUT/'B1-scene-native-crop.png')
+        scene_path = OUT/'B1-scene-native-crop.png'
     w,h=g['width'],g['height'];left,right=g['folds']; bx=9;by=9;fx=right
     green=HexColor('#173c2b');cream=HexColor('#fff9e8');gold=HexColor('#e2c473')
     temp=OUT/'wrap-before-inset.pdf'
@@ -61,7 +63,7 @@ def build(include_scene=True):
     c.setFillColor(HexColor('#fdf3e0'));c.rect(fx,by+535,w-fx,810-(by+535),fill=1,stroke=0)
     scene_y=by+(1427-1333)*792/1427;scene_h=903*792/1427
     if include_scene:
-        c.drawImage(str(OUT/'B1-scene-native-crop.png'),fx,scene_y,width=612,height=scene_h,mask='auto')
+        c.drawImage(str(scene_path),fx,scene_y,width=612,height=scene_h,mask='auto')
     c.setFillColor(cream);c.roundRect(fx+28,by+535,556,233,14,fill=1,stroke=0)
     c.setFillColor(green);mid=fx+306
     centered(c,'Backyard',by+715,'BirdBold',49,mid);centered(c,'Bird Detectives',by+662,'BirdBold',49,mid)

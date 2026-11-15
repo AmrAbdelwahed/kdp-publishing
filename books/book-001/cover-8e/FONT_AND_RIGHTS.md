@@ -1,0 +1,7 @@
+# Font and artwork rights — review pending
+
+The review PDF's visible text uses DejaVu Sans, Sans Bold and Serif Bold. They are embedded TrueType subsets; `pdffonts` reports `emb yes` for all three, and **no Helvetica resource**. The prior unused Helvetica was avoided by setting the canvas's initial font to an embedded font. The [DejaVu license notice](../interior-8b/FONT_LICENSE.txt) is preserved for human commercial-use and notice review; embedding a font is not itself proof of rights or final KDP compliance.
+
+The scene is a native crop of the AI-edited B1 source recorded in [8D provenance](../cover-8d/ARTWORK_PROVENANCE.json), itself derived from the original 8C Concept B. `B1-scene-native-crop.png` was cut from source pixel rectangle (0, 430, 1102, 1333), without resampling. The back inset comes from the pre-existing B01 vector candidate. A human must review commercial rights, originality, AI-generated-content disclosure and all artwork including any replacement; no rights clearance or scientific approval is asserted.
+
+Cornell's [Northern Cardinal ID page](https://www.allaboutbirds.org/guide/Northern_Cardinal/id) was retrieved HTTP 200 at 2026-11-15 18:45:27 UTC. Its male description supports red plumage, thick bill, prominent crest, and black around the bill and throat. The B1 drawing displays those broad cues; toes, facial boundaries, anatomy and similarity/rights still require qualified human review. Reference photos have not been copied or traced.

@@ -1,0 +1,41 @@
+{
+  "selected": "A \u2014 original B1 scene reconstructed with Real-ESRGAN x4plus",
+  "user_decision": "Visual direction approved; no scientific, print, rights, upload or publication approval.",
+  "source_scene": "books/book-001/cover-8f/B1-scene-native-crop.png",
+  "source_scene_sha256": "3627d8fa6d1f0be90968f56368222db4635ce4e2e16096d8c1686b40e54ff365",
+  "selected_scene": "books/book-001/cover-8h/assets/B1-original-realesrgan-x4.png",
+  "selected_scene_sha256": "f0eb54a3d26280179360651a9d41115f2e6258634d4b20eba85b023bc3b67bad",
+  "source_wrap": "books/book-001/cover-8h/A-full-wrap-REVIEW.pdf",
+  "source_wrap_sha256": "d8319622377e3c66d1e86786c02f6b977785e3819b58109b316bec0c64bd82e9",
+  "candidate_wrap": "selected-cover-full-wrap-CANDIDATE.pdf",
+  "candidate_wrap_sha256": "d8319622377e3c66d1e86786c02f6b977785e3819b58109b316bec0c64bd82e9",
+  "template": "books/book-001/cover-8e/source/KDP-template-original.pdf",
+  "template_sha256": "15c08c0ad55b241d6dc11c097f1fc6b35467aa6ff6bd6b302f7191c6eb06b9fa",
+  "scene_native_pixels": [
+    1102,
+    903
+  ],
+  "model_output_pixels": [
+    4408,
+    3612
+  ],
+  "effective_output_ppi": [
+    518.59,
+    518.91
+  ],
+  "native_detail_ppi": [
+    129.65,
+    129.73
+  ],
+  "human_scientific_approval": false,
+  "human_print_approval": false,
+  "publication_approval": false,
+  "open_gates": [
+    "AI reconstruction detail",
+    "scientific anatomy",
+    "artwork and font rights",
+    "color handling",
+    "template MediaBox mismatch",
+    "physical print and KDP Previewer"
+  ]
+}

@@ -1,0 +1,6 @@
+# Local review package
+
+- Print `selected-cover-front-actual-size.pdf` at 100% on letter paper for a local front-cover check. The full wrap is `selected-cover-full-wrap-CANDIDATE.pdf`; it is a review candidate, not an approved upload file.
+- Print `interior-print-packet-100-percent.pdf` on letter paper at **Actual Size / 100%**, with automatic Fit/Shrink disabled. Use **long-edge duplex**, beginning with the packet cover on a right-hand front side. Keep that cover: all ten selected illustration/activity pairs then appear as even-left/odd-right spreads. The 24 pages comprise cover, 20 spread pages and book pages 62–64. It includes the nine priority birds and B13's high thin-line-screen result.
+- Use `physical-review-checklist.pdf` to record actual findings and `../interior-8b/CHILD_CAREGIVER_FEEDBACK.pdf` for real reader feedback. No results have been filled in. A home printer may clip unprintable margins; distinguish its results from a KDP proof.
+- The complete `interior-candidate-REVIEW.pdf` is 64 pages. Review labels were removed from a separate copy while page numbers were retained; page 64’s source sentence was adapted for print and its digital link annotations removed, while the source URL and species list remain. Neither the copy nor its filename implies scientific, print or publication approval. See `READINESS_REPORT.md` before any further action.

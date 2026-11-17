@@ -119,3 +119,8 @@ The user accepted new B09 and B10 illustrations as visual candidates, without sc
 ## 2026-11-17 — Woodpecker visual candidates
 
 The user visually accepted the supplied B09 Downy and B10 Hairy replacements in commit `18e7336`. Preserve the v1 art and import v2; use v2 only on interior pages 18 and 20 for review. Visual candidate acceptance is not scientific or physical-print approval. Expert review of anatomy and wing-pattern interpretation and actual-size print review remain pending.
+
+
+## 2026-11-17 — Digital final review before physical testing
+
+The user authorized artwork, editorial, rights and cover checks without a local printer. Preserve the selected B1 cover and the two accepted woodpecker revisions; do not regenerate them absent a confirmed substantive defect. User confirmed that the B09 and B10 replacement PNGs were created with ChatGPT and no third-party photo or artwork inputs. The dated `books/book-001/final-review/` records source checks and pending human scientific, rights, cover color and physical-print decisions. No upload, proof order or publication is authorized.

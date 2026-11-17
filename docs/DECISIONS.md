@@ -124,3 +124,8 @@ The user visually accepted the supplied B09 Downy and B10 Hairy replacements in 
 ## 2026-11-17 — Digital final review before physical testing
 
 The user authorized artwork, editorial, rights and cover checks without a local printer. Preserve the selected B1 cover and the two accepted woodpecker revisions; do not regenerate them absent a confirmed substantive defect. User confirmed that the B09 and B10 replacement PNGs were created with ChatGPT and no third-party photo or artwork inputs. The dated `books/book-001/final-review/` records source checks and pending human scientific, rights, cover color and physical-print decisions. No upload, proof order or publication is authorized.
+
+
+## 2026-11-17 — Milestone 10 release-candidate preparation
+
+The user froze the 64-page interior and B1 Cover A and retained all 30 illustration candidates, including both woodpecker revisions. Prepare clean review candidates without regenerating or redesigning. The user confirmed some final wording was AI-generated and does not know the earlier Blue Jay reference photograph source. The cover CMYK conversion uses a provisional SWOP condition; KDP print condition, template box, human scientific and rights review, and physical inspection remain open. No KDP upload, proof purchase or publication is authorized.

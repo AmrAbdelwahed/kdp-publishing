@@ -1,0 +1,30 @@
+{
+  "decision": "Review candidates; human scientific, physical, rights and publication approval pending.",
+  "source_and_output_sha256": {
+    "books/book-001/woodpecker-revisions/64-page-interior-woodpecker-REVIEW.pdf": "3b1668a07001564f08e19091e0df4bd01d912d15c02e59b4a5f49aee8524f741",
+    "books/book-001/preflight-9/selected-cover-full-wrap-CANDIDATE.pdf": "d8319622377e3c66d1e86786c02f6b977785e3819b58109b316bec0c64bd82e9",
+    "books/book-001/cover-8f/B1-scene-native-crop.png": "3627d8fa6d1f0be90968f56368222db4635ce4e2e16096d8c1686b40e54ff365",
+    "books/book-001/cover-8h/assets/B1-original-realesrgan-x4.png": "f0eb54a3d26280179360651a9d41115f2e6258634d4b20eba85b023bc3b67bad",
+    "books/book-001/release-10/ARTWORK_DECISION_REGISTER.csv": "4d582ec01d2b3fa983c1139b8846d1e0c396242160d1c2d006573906e60bee9e",
+    "books/book-001/release-10/COLOR_COMPARISON.md": "297b871ace2894cc40990d56d662ef1ef49f790a4fe31243e9d1c2ca05c3e60c",
+    "books/book-001/release-10/FONT_LICENSE.txt": "e81d9dced49fea2a7d576cbea283873de58563c5d488f954deb282843c3ea79c",
+    "books/book-001/release-10/PHYSICAL_REVIEW.md": "da5d57037cc5f1fdad13e44ceaeadb5e40f885972a642d3235a1050851282d1a",
+    "books/book-001/release-10/PREFLIGHT_AND_BLOCKERS.md": "bb15a3e22f28c90bfc0fa28dfe05710ab024e6e1c5aba6869ffa3d1ad0041554",
+    "books/book-001/release-10/RIGHTS_AND_DISCLOSURE.md": "373f22c3b539ad909e64095118b599fd9f5d1f7ef58e3594747cae3a1797fc6a",
+    "books/book-001/release-10/TEXT_AUTHORSHIP_INVENTORY.csv": "1730e158e2d933e61f8416941f05e4ec70969cb108a4eb74d46ee17f5f33e425",
+    "books/book-001/release-10/color-measurements.json": "9fdbfeed485b9fc2f35f75d592018664df349ceba8a56c8118cac44e9a493fa4",
+    "books/book-001/release-10/cover-b1-a-cmyk-release-candidate.pdf": "dfceb31d02989acf6482864f076e54f651a6b86de141122928d9605d2787eb4a",
+    "books/book-001/release-10/interior-release-candidate.pdf": "2b91008b7fd6f61cd547bf2c5287a740c639c578592287d1506ed085487ae27a",
+    "books/book-001/release-10/physical-review-packet.pdf": "5328912d37e2fd409151252aa14f106d8ad4ad62f3205c7d38819e480d943692",
+    "books/book-001/release-10/rgb-vs-cmyk-front-comparison.pdf": "f4d56e96efbe4a6de22e07130e564a9300dd1d46103eaccbcc41279683894641",
+    "books/book-001/release-10/rgb-vs-cmyk-screen.png": "a1f4114af01f15f08577e509e3a84b0cf5418fa68251e1bb5bfbe643754e8a40",
+    "books/book-001/release-10/README.md": "fdfc47f41ac638305ae3d53d28a741b55d17a04f6cac114436d9ef39c44fc123",
+    "scripts/build_release_10.py": "4860c8202bf347664a2c9addbf8abc5073eb06e3a3862eed6086c16971b8f6b1",
+    "scripts/test_release_10.py": "04596c29ff1af6a568805709c21737639ac03bf47b1daef7d46fd6a04226845a"
+  },
+  "interior_page_count": 64,
+  "cmyk_profile": "Artifex CMYK SWOP (provisional, not confirmed by KDP)",
+  "source_profile": "Artifex sRGB",
+  "ai_text_disclosure": "User confirmed some final wording AI-generated on 2026-11-17",
+  "blue_jay_photo_source": "User reports unknown on 2026-11-17"
+}

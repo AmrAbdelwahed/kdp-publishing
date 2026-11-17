@@ -1,0 +1,18 @@
+[
+  {
+    "species_id": "B09",
+    "species": "Downy Woodpecker",
+    "revision": "v2",
+    "prompt": "Not supplied by user.",
+    "generation_provenance": "User-supplied, visually accepted production candidate in commit 18e73368d2a2c6a5eb3004f76c3788b0c6962317, source file Downy Woodpecker on Tree Trunk.png; creation tool and prompt not supplied.",
+    "reference_use": "Generation references not supplied; Cornell identification pages consulted separately during review."
+  },
+  {
+    "species_id": "B10",
+    "species": "Hairy Woodpecker",
+    "revision": "v2",
+    "prompt": "Not supplied by user.",
+    "generation_provenance": "User-supplied, visually accepted production candidate in commit 18e73368d2a2c6a5eb3004f76c3788b0c6962317, source file Unfilled Wing Hairy Woodpecker.png; creation tool and prompt not supplied.",
+    "reference_use": "Generation references not supplied; Cornell identification pages consulted separately during review."
+  }
+]

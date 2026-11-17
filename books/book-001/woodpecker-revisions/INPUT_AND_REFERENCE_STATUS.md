@@ -1,4 +1,6 @@
-# Woodpecker revisions — source-file blocker
+# Woodpecker revisions — historical source-file blocker
+
+**Resolved:** The user supplied the original files in commit `18e7336`. See `REVIEW_REPORT.md` and `ARTWORK_REVISIONS.json` for the current review. The text below preserves the prior state.
 
 The user visually accepted two replacement illustrations for B09 Downy and B10 Hairy. Both are displayed in the chat, but the original PNG files were not mounted in the workspace or found in the existing repository when checked on 2026-11-17 UTC. No original PNG bytes, hashes, source provenance, or reliable filename-to-image mapping could be verified. The inline display is not a substitute for the source files: a screenshot, redrawing or regenerated image would not preserve the originals.
 

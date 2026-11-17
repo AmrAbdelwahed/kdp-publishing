@@ -1,0 +1,58 @@
+{
+  "species": "Downy Woodpecker",
+  "source_sha256": "25a0f6ab6a06b96aa5a63bba847c2d1a0ade20decaa6991622d9d44351e0577b",
+  "svg_paths": 22,
+  "svg_has_image": false,
+  "svg_bytes": 114964,
+  "input_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1184,
+    1696
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 178387,
+  "removed_speckle_pixels": 0,
+  "threshold": 160,
+  "threshold_mask_iou": 0.9027,
+  "source_enclosed_white_regions_25px": 58,
+  "vector_enclosed_white_regions_25px": 58,
+  "vector_ink_bbox": [
+    211,
+    183,
+    1077,
+    1616
+  ],
+  "thin_local_maxima_below_075pt_pct": 1.81,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1696,
+  "raw_effective_ppi_at_padded_placement": 280.7,
+  "placed_art_inches": [
+    4.218,
+    6.042
+  ],
+  "original_ink_bbox": [
+    131,
+    103,
+    998,
+    1536
+  ],
+  "original_edge_warning": true,
+  "species_id": "B09",
+  "revision": "v2",
+  "source_path": "books/book-001/artwork/batch-02/originals/B09-v2.png",
+  "provenance": "User-supplied, visually accepted production candidate in commit 18e73368d2a2c6a5eb3004f76c3788b0c6962317, source file Downy Woodpecker on Tree Trunk.png; creation tool and prompt not supplied.",
+  "reference_use": "Generation references not supplied; Cornell identification pages consulted separately during review.",
+  "input_reference_hashes": {},
+  "processed_at_utc": "2026-11-17T05:24:14.191598+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size",
+  "visual_candidate_approval": "USER_ACCEPTED",
+  "note": "Pipeline default reference fields removed: reference use in creating supplied artwork was not provided."
+}

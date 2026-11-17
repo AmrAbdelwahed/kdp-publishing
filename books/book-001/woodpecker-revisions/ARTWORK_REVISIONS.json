@@ -1,0 +1,46 @@
+[
+  {
+    "species_id": "B09",
+    "species": "Downy Woodpecker",
+    "revision": "v2",
+    "page": 18,
+    "source": "books/book-001/artwork/batch-02/originals/B09-v2.png",
+    "source_sha256": "25a0f6ab6a06b96aa5a63bba847c2d1a0ade20decaa6991622d9d44351e0577b",
+    "svg": "books/book-001/artwork/batch-02/processed/B09-v2/B09-provisional.svg",
+    "svg_sha256": "a6c7d466c61e690123433a45a3261d2756ea214226e78a6f13c1d516a4ff3fa8",
+    "vector_pdf": "books/book-001/artwork/batch-02/processed/B09-v2/B09-vector-art.pdf",
+    "vector_pdf_sha256": "e6c92d4bc85df3d08101ce4e8044512bed3f27ed6ce4d4500be166beec2fe0ef",
+    "user_visual_candidate_approval": true,
+    "scientific_approval": false,
+    "physical_print_approval": false,
+    "artwork_box_pt": [
+      121.33290100097656,
+      150.00341796875,
+      490.66424560546875,
+      600.0
+    ],
+    "source_commit": "18e73368d2a2c6a5eb3004f76c3788b0c6962317"
+  },
+  {
+    "species_id": "B10",
+    "species": "Hairy Woodpecker",
+    "revision": "v2",
+    "page": 20,
+    "source": "books/book-001/artwork/batch-02/originals/B10-v2.png",
+    "source_sha256": "7f0887c012be2b48775b4bbf8cde4e4d0bea75ee75b1ff9ea52831bf2b8e149c",
+    "svg": "books/book-001/artwork/batch-02/processed/B10-v2/B10-provisional.svg",
+    "svg_sha256": "244f6b54bf48cba88eb4029c7cd929ec3147db79d4633bb8773fa24c9abf82ed",
+    "vector_pdf": "books/book-001/artwork/batch-02/processed/B10-v2/B10-vector-art.pdf",
+    "vector_pdf_sha256": "e869ca90a619a111e9756c1d3fe22cc8dc3d5868ec813d956781aa381db3ab6a",
+    "user_visual_candidate_approval": true,
+    "scientific_approval": false,
+    "physical_print_approval": false,
+    "artwork_box_pt": [
+      121.33290100097656,
+      150.00341796875,
+      490.66424560546875,
+      600.0
+    ],
+    "source_commit": "18e73368d2a2c6a5eb3004f76c3788b0c6962317"
+  }
+]

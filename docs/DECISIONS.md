@@ -114,3 +114,8 @@ The user approved 8H cover A as the visual production candidate only. Its scene 
 ## 2026-11-17 — Woodpecker revision source files pending
 
 The user accepted new B09 and B10 illustrations as visual candidates, without scientific or print approval. The originals were displayed in chat but not available as workspace files. Cornell references and the existing tracing workflow were checked; no source import, artwork replacement or issue closure was possible. The previously recorded B09/B10 material mismatches remain open. See `books/book-001/woodpecker-revisions/INPUT_AND_REFERENCE_STATUS.md`.
+
+
+## 2026-11-17 — Woodpecker visual candidates
+
+The user visually accepted the supplied B09 Downy and B10 Hairy replacements in commit `18e7336`. Preserve the v1 art and import v2; use v2 only on interior pages 18 and 20 for review. Visual candidate acceptance is not scientific or physical-print approval. Expert review of anatomy and wing-pattern interpretation and actual-size print review remain pending.

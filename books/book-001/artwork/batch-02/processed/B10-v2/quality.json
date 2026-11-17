@@ -1,0 +1,58 @@
+{
+  "species": "Hairy Woodpecker",
+  "source_sha256": "7f0887c012be2b48775b4bbf8cde4e4d0bea75ee75b1ff9ea52831bf2b8e149c",
+  "svg_paths": 18,
+  "svg_has_image": false,
+  "svg_bytes": 134301,
+  "input_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1184,
+    1696
+  ],
+  "added_padding_pixels": 80,
+  "source_ink_pixels": 181560,
+  "removed_speckle_pixels": 0,
+  "threshold": 160,
+  "threshold_mask_iou": 0.8969,
+  "source_enclosed_white_regions_25px": 78,
+  "vector_enclosed_white_regions_25px": 78,
+  "vector_ink_bbox": [
+    208,
+    184,
+    1076,
+    1616
+  ],
+  "thin_local_maxima_below_075pt_pct": 2.07,
+  "minimum_line_thickness_pt": "not proven: filled paths and raster-based local-maxima heuristic; inspect manually",
+  "anatomical_approval": "not reviewed",
+  "disposition": "PROVISIONAL_REVIEW_REQUIRED",
+  "width_screen_canvas_height": 1696,
+  "raw_effective_ppi_at_padded_placement": 280.7,
+  "placed_art_inches": [
+    4.218,
+    6.042
+  ],
+  "original_ink_bbox": [
+    128,
+    104,
+    996,
+    1536
+  ],
+  "original_edge_warning": true,
+  "species_id": "B10",
+  "revision": "v2",
+  "source_path": "books/book-001/artwork/batch-02/originals/B10-v2.png",
+  "provenance": "User-supplied, visually accepted production candidate in commit 18e73368d2a2c6a5eb3004f76c3788b0c6962317, source file Unfilled Wing Hairy Woodpecker.png; creation tool and prompt not supplied.",
+  "reference_use": "Generation references not supplied; Cornell identification pages consulted separately during review.",
+  "input_reference_hashes": {},
+  "processed_at_utc": "2026-11-17T05:24:15.642928+00:00",
+  "human_approved": false,
+  "scientific_review": "pending",
+  "print_review": "pending",
+  "warning": "Heuristics do not prove closed regions or minimum stroke width; inspect at actual size",
+  "visual_candidate_approval": "USER_ACCEPTED",
+  "note": "Pipeline default reference fields removed: reference use in creating supplied artwork was not provided."
+}

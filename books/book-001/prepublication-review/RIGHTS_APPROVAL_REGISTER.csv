@@ -1,0 +1,8 @@
+area,evidence,current_status,review_needed
+AI-generated images,User confirmed ChatGPT origin for B09 and B10 v2; interior and B1 provenance recorded in release-10/RIGHTS_AND_DISCLOSURE.md,DISCLOSURE REQUIRED; rights clearance pending,Disclose AI-generated images in current KDP form when upload is authorized; verify all inputs and rights
+AI-generated text,User confirmed some final wording was AI-generated on 2026-11-17,DISCLOSURE REQUIRED; exact field origins pending,Disclose AI-generated text as required and confirm any specific form answers
+Blue Jay reference,User reported earlier shared reference photo source unknown; manifest records image was not passed to the generation tool,PENDING SOURCE AND SIMILARITY REVIEW,Identify source if possible and review generated work for protected-expression similarity
+Real-ESRGAN weights,BSD 3-Clause repository code license checked; separate x4plus weights terms not established,PENDING MODEL-WEIGHTS RIGHTS REVIEW,Confirm terms applicable to the exact weights and dependencies
+DejaVu fonts,Embedded fonts and Bitstream Vera and DejaVu notices recorded in release-10/FONT_LICENSE.txt,PENDING FONT-NOTICE DISTRIBUTION REVIEW,Confirm the applicable notice obligations for distributed PDF and print workflow
+Cover provenance,OpenAI edited B1 source and subsequent AI reconstruction identified with hashes,PROVENANCE RECORDED; RIGHTS REVIEW PENDING,Confirm source-input rights and any third-party similarity concerns
+Scientific sources,Source-backed factual claims and Cornell URLs documented in final-review/CLAIM_AND_ANSWER_REVIEW.csv,FACT EVIDENCE RECORDED; RIGHTS REVIEW PENDING,Verify any quotation and source-use rights; source facts do not license photographs or artwork

@@ -129,3 +129,8 @@ The user authorized artwork, editorial, rights and cover checks without a local 
 ## 2026-11-17 — Milestone 10 release-candidate preparation
 
 The user froze the 64-page interior and B1 Cover A and retained all 30 illustration candidates, including both woodpecker revisions. Prepare clean review candidates without regenerating or redesigning. The user confirmed some final wording was AI-generated and does not know the earlier Blue Jay reference photograph source. The cover CMYK conversion uses a provisional SWOP condition; KDP print condition, template box, human scientific and rights review, and physical inspection remain open. No KDP upload, proof purchase or publication is authorized.
+
+
+## 2026-11-17 — Pre-publication evidence reconciliation
+
+The user confirmed the frozen interior and B1 Cover A, retained the 30 visual candidates, and indicated the artwork was provided by ChatGPT. Existing records also identify Real-ESRGAN reconstruction of the selected cover. No separate human scientific, physical-print, rights or CMYK decisions were found or supplied. Carry forward the open gates in `books/book-001/prepublication-review/`; make no speculative changes or assume approval. The unchanged Milestone 10 review PDFs remain candidates, not authorization to upload, order a proof or publish.
